@@ -1,0 +1,27 @@
+SelectionBoxLabelText Selection
+Search_Field_Hint Object Name Filter
+Search Search
+Search_Tooltip Search
+
+SnapTransformLabelText Snap Translation
+SnapRotationLabelText Snap Rotation
+
+LargeLabel Large
+MediumLabel Medium
+SmallLabel Small
+BarricadesLabel Barricades
+StructuresLabel Structures
+NPCsLabel NPCs
+
+TransformButtonText Translate [{0}]
+TransformButtonTooltip Move
+
+RotateButtonText Rotate [{0}]
+RotateButtonTooltip Rotate
+
+ScaleButtonText Scale [{0}]
+ScaleButtonTooltip Scale
+
+CoordinateButtonTextGlobal Global
+CoordinateButtonTextLocal Local
+CoordinateButtonTooltip Coordinate
