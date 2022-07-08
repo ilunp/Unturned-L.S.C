@@ -72,6 +72,12 @@ Overlay Steam overlay needs to be enabled.
 
 Shutdown Shutdown in: {0}
 
+ScheduledMaintenance_KickExplanation Scheduled Maintenance
+ScheduledMaintenance_Timer Shutting down for scheduled maintenance in: {0}
+
+UpdateShutdown_KickExplanation Updating to version {0}
+UpdateShutdown_Timer Shutting down for update to version {0} in: {1}
+
 HUD_FPS {0}/s
 HUD_Ping {0}ms
 HUD_DC Server not responded in: {0}s Automatically disconnecting in: {1}s
