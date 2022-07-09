@@ -27,6 +27,7 @@ PreviewMethod_Weight Weight
 PreviewMethod_Label Preview Method
 
 MaxPreviewSamples Max Preview Samples
+HighlightHoles_Label Highlight Holes
 
 SelectedAsset Selected Asset [{0}]
 OnlyUsedMaterials Only In-use Materials

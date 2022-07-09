@@ -122,6 +122,10 @@ Pro_Button_Tooltip Click here to view the store page.
 BattlEye_Header Warning: BattlEye Disabled
 BattlEye_Body BattlEye anti-cheat is not running so you cannot join BattlEye protected servers. If you uninstalled BattlEye or skipped the installation step then you can reinstall it by running the Install_BattlEye.bat script from your Unturned/BattlEye folder.
 
+UpdateAvailable An update to version {0} is available! If you have automatic updates enabled it will download and install after you close the game.
+
 Overlay Steam overlay needs to be enabled.
 Dismiss_Notification_Label Confirm
 Dismiss_Notification_Tooltip Dismiss notification.
+Copy_Notification_Label Copy to Clipboard
+Copy_Notification_Tooltip Copy message to system clipboard.
