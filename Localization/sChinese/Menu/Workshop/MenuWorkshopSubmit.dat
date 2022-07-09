@@ -1,17 +1,17 @@
-Name_Field_Label Name
-Description_Field_Label Description
-Path_Field_Label Collection Path
-Preview_Field_Label Preview Image
-Change_Field_Label Change Note
-Allowed_IPs_Label Allowed IPs
-Allowed_IPs_Hint comma-separated e.g. 127.0.0.1,192.168.0.0 whitelist-blacklist
-Allowed_IPs_Tooltip If set, only these server IPs will be allowed to auto-download this item. Requested by server networks with custom content.
+Name_Field_Label 名称
+Description_Field_Label 描述
+Path_Field_Label 内容路径
+Preview_Field_Label 预览图片
+Change_Field_Label 更改说明
+Allowed_IPs_Label 允许 IPs
+Allowed_IPs_Hint 请使用逗号","分隔;例如: 127.0.0.1,192.168.0.0 whitelist-blacklist
+Allowed_IPs_Tooltip 仅允许这些服务器 IP 自动下载此项目, 自定义服务器网络请求.
 
-Create_Button Create
-Create_Button_Tooltip Create
+Create_Button 创建
+Create_Button_Tooltip 创建
 
-Legal_Button By submitting this content, you agree to the workshop terms of service!
-Legal_Button_Tooltip View Terms of Service
+Legal_Button 提交并同意《Steam 创意工坊协议》!
+Legal_Button_Tooltip 查看服务条款
 
 Map Map
 Localization Localization
@@ -110,32 +110,32 @@ Object_Type_Resource Resource
 Object_Type_Effect Effect
 Object_Type_Animal Animal
 
-Public Public
-Friends_Only Friends Only
-Private Private
-Unlisted Unlisted
+Public 公共
+Friends_Only 仅限好友
+Private 私人
+Unlisted 未列出
 
-Community Ready-To-Use
-Review Curated
+Community 未采纳
+Review 已采纳
 
-Overlay Steam overlay needs to be enabled.
+Overlay 请在游戏属性中开启"在游戏中启用 Steam 界面"选项.
 
-Alert_Name Please specify a name shown on the workshop item.
-Alert_Preview Please specify a smaller than 1MB preview image [.png or .jpg] shown on the workshop item.
-Alert_Path Please specify a file path containing the folder of your workshop item.
-Alert_Map Please specify a valid map.
-Alert_Localization Please specify a valid localization.
-Alert_Object Please specify a valid object/item/vehicle/skin.
-Alert_Curated Please only submit cosmetic items and skins to the curated workshop.
+Alert_Name 请指定创意工坊项目上显示的名称.
+Alert_Preview 请指定一张小于 1MB 预览图片 [.png or .jpg] 创意工坊项目上显示的预览图片.
+Alert_Path 请指定包含您的创意工坊物品的文件夹路径.
+Alert_Map 请指定有效的地图.
+Alert_Localization 请指定有效的本地化.
+Alert_Object 请指定有效的 object/item/vehicle/skin.
+Alert_Curated 请仅提交物品涂装和皮肤到已采纳的创意工坊.
 
-PathFieldNotification_Empty Cannot be empty.
-PathFieldNotification_MissingFolder Specified directory does not exist.
-PathFieldNotification_Map Directory should only contain your map's folder.
-PathFieldNotification_Localization Directory should contain Editor, Menu, Player, etc folders.
-PathFieldNotification_Bundle Directory should contain at least one subfolder.
-PathFieldNotification_NoWritePermission Access permission denied.
+PathFieldNotification_Empty 不能为空.
+PathFieldNotification_MissingFolder 指定的目录不存在.
+PathFieldNotification_Map 目录应仅包含地图的文件夹.
+PathFieldNotification_Localization 目录应包含 Editor, Menu, Player 等文件夹.
+PathFieldNotification_Bundle 目录应至少包含一个子文件夹.
+PathFieldNotification_NoWritePermission 访问权限被拒绝.
 
-PreviewFieldNotification_Empty Cannot be empty.
-PreviewFieldNotification_MissingFile Specified file does not exist.
-PreviewFieldNotification_Extension Image must be a .png or a .jpg.
-PreviewFieldNotification_FileSize Image file size is too large.
+PreviewFieldNotification_Empty 不能为空.
+PreviewFieldNotification_MissingFile 指定的文件不存在.
+PreviewFieldNotification_Extension 图像必须是 .png 或 .jpg.
+PreviewFieldNotification_FileSize 图像文件大小过大.

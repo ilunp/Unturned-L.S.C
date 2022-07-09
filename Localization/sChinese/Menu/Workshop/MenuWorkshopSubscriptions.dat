@@ -1,24 +1,24 @@
-Header Subscribed Files:
-Enable_Warning Note enabling and disabling files takes effect after restarting game.
-No_Subscriptions Not subscribed to any files.
+Header 已订阅创意工坊:
+Enable_Warning 注意: 启用和禁用将在重新启动游戏后生效.
+No_Subscriptions 未订阅任何创意工坊.
 
-Manage_Label View in Steam Overlay
-Manage_Tooltip Browse to Steam Workshop management page.
+Manage_Label 打开 Steam 界面
+Manage_Tooltip 浏览 Steam 创意工坊管理页面.
 
-BrowseFiles_Label Browse Files
-BrowseFiles_Tooltip Open {0} install folder.
-NotInstalledLabel Not Installed
+BrowseFiles_Label 浏览文件
+BrowseFiles_Tooltip 打开 {0} 安装文件夹.
+NotInstalledLabel 未安装
 
-ItemState_NeedsUpdate Needs Update
+ItemState_NeedsUpdate 需要更新
 
-LocalTimestampLabel Local Timestamp
-RemoteTimestampLabel Remote Timestamp
+LocalTimestampLabel 本地更新时间戳
+RemoteTimestampLabel 远程更新时间戳
 
-View_Label View Details
-View_Tooltip View {0} on Steam Workshop
+View_Label 查看详情
+View_Tooltip Steam 创意工坊查看 {0} 
 
-Subscribe_Label Resubscribe
-Subscribe_Tooltip Resubscribe to {0}
+Subscribe_Label 重新订阅
+Subscribe_Tooltip 重新订阅 {0}
 
-Unsubscribe_Label Unsubscribe
-Unsubscribe_Tooltip Unsubscribe from {0}
+Unsubscribe_Label 取消订阅
+Unsubscribe_Tooltip 取消订阅 {0}

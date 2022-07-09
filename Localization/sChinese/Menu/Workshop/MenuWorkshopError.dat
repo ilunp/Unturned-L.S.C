@@ -1,8 +1,8 @@
-Header Workshop error logs:
-No_Errors No major issues found in your loaded files.
+Header 创意工坊错误日志:
+No_Errors 在加载的文件中未发现重大问题.
 
-BrowseLogs_Label Browse Log Files
-BrowseLogs_Tooltip Open logs folder.
+BrowseLogs_Label 浏览日志文件
+BrowseLogs_Tooltip 打开日志文件夹.
 
-Refresh Reload
-Refresh_Tooltip Reloads errors.
+Refresh 重新加载
+Refresh_Tooltip 重新加载错误.

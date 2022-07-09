@@ -1,5 +1,5 @@
-Header Comparing between {0} and {1} differences:
-No_Differences No major differences found in your localization files.
+Header 比较 {0} 和 {1} 之间的差异:
+No_Differences 在本地化文件中未发现重大差异.
 
-Refresh Reload
-Refresh_Tooltip Reloads localization and compares differences.
+Refresh 重新加载
+Refresh_Tooltip 重新加载本地化和比较差异.

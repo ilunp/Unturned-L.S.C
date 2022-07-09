@@ -1,18 +1,18 @@
-BrowseButtonText Browse
-BrowseButtonTooltip View Community Creations
-SubmitButtonText Submit
-SubmitButtonTooltip Upload Files
-EditorButtonText Editor
-EditorButtonTooltip Level Editor
-ErrorButtonText Error Logs
-ErrorButtonTooltip Auto-Detected Problems
-LocalizationButtonText Localization
-LocalizationButtonTooltip Compare Differences
-SpawnsButtonText Spawn Tables
-SpawnsButtonTooltip Debug Drop Rates
-SubscriptionsButtonText Manage
-SubscriptionsButtonTooltip Manage Subscribed Files
-DocsButtonText Docs
-DocsButtonTooltip Read Developer Documentation
+BrowseButtonText 创意工坊
+BrowseButtonTooltip 查看社区
+SubmitButtonText 提交创意
+SubmitButtonTooltip 上传文件
+EditorButtonText 地图编辑器
+EditorButtonTooltip 地图编辑器
+ErrorButtonText 错误日志
+ErrorButtonTooltip 自动检测的问题
+LocalizationButtonText 本地化
+LocalizationButtonTooltip 本地化差异
+SpawnsButtonText 生成表
+SpawnsButtonTooltip 调试掉落概率
+SubscriptionsButtonText 订阅管理
+SubscriptionsButtonTooltip 管理订阅文件
+DocsButtonText 开发文档
+DocsButtonTooltip 阅读开发文档
 
-Overlay Steam overlay needs to be enabled.
+Overlay 请在游戏属性中开启"在游戏中启用 Steam 界面"选项.
