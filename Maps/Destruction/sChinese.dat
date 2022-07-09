@@ -1,5 +1,6 @@
-Description Demo from when all the objects were being converted to support destruction.
-GameModeLabel Test
+Name 毁灭 (Destruction)
+Description 将所有物体转换为支持销毁的演示地图
+GameModeLabel 测试模式
 
-Tip_0 Blow everything up!
-Tip_1 Check the Config.json file.
+Tip_0 炸毁一切!
+Tip_1 可选配置项在 Config.json 文件.

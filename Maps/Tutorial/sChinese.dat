@@ -1,7 +1,8 @@
-Description You're not supposed to be able to see this... If you're joining a multiplayer server on this map prepare to get spawntrapped!
+Name 新手教程 (Tutorial)
+Description 你不应该能够看到这个描述... 如果你正在加入一个多人游戏服务器, 请做好将被困在这张地图出生点的准备!
 
-Secure VAC Secure
-Insecure VAC Insecure
+Secure VAC 安全
+Insecure VAC 不安全
 
-Loading_Server Loading Tutorial on {0} [{1}]...
-Loading_Editor Loading Tutorial...
+Loading_Server 在 {0} [{1}] 上加载 新手教程(Tutorial) 地图...
+Loading_Editor 正在加载 新手教程(Tutorial) 地图...
