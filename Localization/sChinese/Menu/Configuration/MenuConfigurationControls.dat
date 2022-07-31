@@ -1,111 +1,111 @@
-Sensitivity_Field_Label Mouse Aim Sensitivity (Degrees per Pixel)
-Invert_Toggle_Label Invert Look
-Invert_Flight_Toggle_Label Invert Flight
-Aiming_Label Aiming
-Crouching_Label Crouching
-Proning_Label Proning
-Sprinting_Label Sprinting
-Leaning_Label Leaning
+Sensitivity_Field_Label 鼠标灵敏度 (度/像素) 
+Invert_Toggle_Label 反转鼠标 (垂直)
+Invert_Flight_Toggle_Label 反转飞行 (垂直)
+Aiming_Label 瞄准
+Crouching_Label 蹲伏
+Proning_Label 卧伏
+Sprinting_Label 冲刺
+Leaning_Label 探头
 
-SensitivityScalingMode_Label Sensitivity Scaling Mode
-SensitivityScalingMode_ProjectionRatio Focal Length
-SensitivityScalingMode_ProjectionRatio_Tooltip Scale by ratio between active FOV projected onto screen and configured FOV projected onto screen.
-SensitivityScalingMode_ZoomFactor Zoom Factor
-SensitivityScalingMode_ZoomFactor_Tooltip Multiply sensitivity according to scope/optic zoom. For example an 8x zoom has 1/8th sensitivity.
-SensitivityScalingMode_Legacy Legacy
-SensitivityScalingMode_Legacy_Tooltip Preserve how sensitivity felt prior to 3.22.8.0 update.
-SensitivityScalingMode_None Disabled
-SensitivityScalingMode_None_Tooltip Sensitivity is unmodified while aiming. Not recommended.
+SensitivityScalingMode_Label 开镜灵敏度
+SensitivityScalingMode_ProjectionRatio 目标距离
+SensitivityScalingMode_ProjectionRatio_Tooltip 不同倍率的瞄具FOV 与 基础设置的FOV 之比.例如:默认设置下 8x 瞄具开镜后灵敏度约为 0.062.
+SensitivityScalingMode_ZoomFactor 瞄具系数
+SensitivityScalingMode_ZoomFactor_Tooltip 开镜后灵敏度降低开镜前灵敏度的瞄具系数倍. 例如:一个 8x 瞄具开镜后的灵敏度是开镜前灵敏度的 1/8 倍.
+SensitivityScalingMode_Legacy 传统
+SensitivityScalingMode_Legacy_Tooltip 保持在 3.22.8.0 版本更新前的灵敏度换算方式.
+SensitivityScalingMode_None 禁用
+SensitivityScalingMode_None_Tooltip (不推荐) 开镜灵敏度保持与关镜灵敏度相同.
 
-ProjectionRatioCoefficient_Label Projection Ratio Coefficient
-ProjectionRatioCoefficient_Tooltip Multiplier for "Focal Length" sensitivity scaling.
+ProjectionRatioCoefficient_Label (倍) 开镜灵敏度
+ProjectionRatioCoefficient_Tooltip 该选项只在开镜灵敏度模式为 "目标距离" 时生效.
 
-Hold Hold
-Toggle Toggle
+Hold 按住
+Toggle 按下
 
-Layout_0 Movement
-Layout_1 Stance
-Layout_2 Use
-Layout_3 Items
-Layout_4 Communication
-Layout_5 Interface
-Layout_6 Vehicle
-Layout_7 Editor
-Layout_8 Mods/Plugins
-Layout_9 Hotbar
+Layout_0 —— 移动 ——
+Layout_1 —— 动作 ——
+Layout_2 —— 使用 ——
+Layout_3 —— 物品 ——
+Layout_4 —— 通讯 ——
+Layout_5 —— 界面 ——
+Layout_6 —— 载具 ——
+Layout_7 —— 编辑器 ——
+Layout_8 —— 模组/插件 ——
+Layout_9 —— 物品栏热键 ——
 
-Key_0_Button Left [{0}]
-Key_1_Button Right [{0}]
-Key_2_Button Up [{0}]
-Key_3_Button Down [{0}]
-Key_4_Button Jump [{0}]
-Key_5_Button Lean Left [{0}]
-Key_6_Button Lean Right [{0}]
-Key_7_Button Primary [{0}]
-Key_8_Button Secondary [{0}]
-Key_9_Button Interact [{0}]
-Key_10_Button Crouch [{0}]
-Key_11_Button Prone [{0}]
-Key_12_Button Sprint [{0}]
-Key_13_Button Reload Gun [{0}]
-Key_14_Button Gun Attachments [{0}]
-Key_15_Button Firemode [{0}]
-Key_16_Button Dashboard [{0}]
-Key_17_Button Inventory [{0}]
-Key_18_Button Crafting [{0}]
-Key_19_Button Skills [{0}]
-Key_20_Button Map [{0}]
-Key_21_Button Player List [{0}]
-Key_22_Button Voice Chat [{0}]
-Key_23_Button Quick Action [{0}]
-Key_24_Button Snap Measurement [{0}]
-Key_25_Button Focus View [{0}]
-Key_26_Button Tool #1 [{0}]
-Key_27_Button Tool #2 [{0}]
-Key_28_Button Tool #3 [{0}]
-Key_29_Button Toggle HUD [{0}]
-Key_30_Button Quick Action [{0}]
-Key_31_Button World Chat [{0}]
-Key_32_Button Area Chat [{0}]
-Key_33_Button Group Chat [{0}]
-Key_34_Button Gesture [{0}]
-Key_35_Button Toggle Vision [{0}]
-Key_36_Button Toggle Tactical [{0}]
-Key_37_Button Swap Perspective [{0}]
-Key_38_Button Dequip Item [{0}]
-Key_39_Button Quick Stance [{0}]
-Key_40_Button Roll Left [{0}]
-Key_41_Button Roll Right [{0}]
-Key_42_Button Pitch Up [{0}]
-Key_43_Button Pitch Down [{0}]
-Key_44_Button Yaw Left [{0}]
-Key_45_Button Yaw Right [{0}]
-Key_46_Button Thrust Increase [{0}]
-Key_47_Button Thrust Decrease [{0}]
-Key_48_Button Inspect Weapon [{0}]
-Key_49_Button Rotate Item [{0}]
-Key_50_Button Tool #4 [{0}]
-Key_51_Button Ascend [{0}]
-Key_52_Button Descend [{0}]
-Key_53_Button Lock [{0}]
-Key_54_Button Quest List [{0}]
-Key_55_Button Devkit [{0}]
-Key_56_Button Screenshot [{0}]
-Key_57_Button Refresh Assets [{0}]
-Key_58_Button Clipboard Debug [{0}]
-Key_59_Button Code Hotkey #1 [{0}]
-Key_60_Button Code Hotkey #2 [{0}]
-Key_61_Button Code Hotkey #3 [{0}]
-Key_62_Button Code Hotkey #4 [{0}]
-Key_63_Button Code Hotkey #5 [{0}]
-Key_64_Button Item #1 [{0}]
-Key_65_Button Item #2 [{0}]
-Key_66_Button Item #3 [{0}]
-Key_67_Button Item #4 [{0}]
-Key_68_Button Item #5 [{0}]
-Key_69_Button Item #6 [{0}]
-Key_70_Button Item #7 [{0}]
-Key_71_Button Item #8 [{0}]
-Key_72_Button Item #9 [{0}]
-Key_73_Button Item #10 [{0}]
-Key_74_Button Release Cursor [{0}]
+Key_0_Button 向左移动 [{0}]
+Key_1_Button 向右移动 [{0}]
+Key_2_Button 向前移动 [{0}]
+Key_3_Button 向后移动 [{0}]
+Key_4_Button 向上跳跃 [{0}]
+Key_5_Button 向左探头 [{0}]
+Key_6_Button 向右探头 [{0}]
+Key_7_Button 开火 [{0}]
+Key_8_Button 第二开火 [{0}]
+Key_9_Button 交互/使用 [{0}]
+Key_10_Button 切换蹲伏 [{0}]
+Key_11_Button 切换卧伏 [{0}]
+Key_12_Button 切换冲刺 [{0}]
+Key_13_Button 装填弹药 [{0}]
+Key_14_Button 枪械配件 [{0}]
+Key_15_Button 射击模式 [{0}]
+Key_16_Button 面板界面 [{0}]
+Key_17_Button 物品界面[{0}]
+Key_18_Button 制作界面 [{0}]
+Key_19_Button 技能界面 [{0}]
+Key_20_Button 地图界面 [{0}]
+Key_21_Button 玩家列表 [{0}]
+Key_22_Button 语音通讯 [{0}]
+Key_23_Button 快捷操作 [{0}]
+Key_24_Button 快速测距 [{0}]
+Key_25_Button 聚焦视图 [{0}]
+Key_26_Button 地形工具 #1 [{0}]
+Key_27_Button 环境工具 #2 [{0}]
+Key_28_Button 刷新点 #3 [{0}]
+Key_29_Button 隐藏界面 [{0}]
+Key_30_Button 快捷操作 [{0}]
+Key_31_Button 世界聊天 [{0}]
+Key_32_Button 区域聊天 [{0}]
+Key_33_Button 群组聊天 [{0}]
+Key_34_Button 表情动作 [{0}]
+Key_35_Button 夜视仪开关 [{0}]
+Key_36_Button 战术灯开关 [{0}]
+Key_37_Button 切换视角 [{0}]
+Key_38_Button 放下物品 [{0}]
+Key_39_Button 快速站立 [{0}]
+Key_40_Button 向左翻转 [{0}]
+Key_41_Button 向右翻转 [{0}]
+Key_42_Button 向上爬升 [{0}]
+Key_43_Button 向下下降 [{0}]
+Key_44_Button 向左偏航 [{0}]
+Key_45_Button 向右偏航 [{0}]
+Key_46_Button 增大推力 [{0}]
+Key_47_Button 减小推力 [{0}]
+Key_48_Button 检视武器 [{0}]
+Key_49_Button 旋转物品 [{0}]
+Key_50_Button 世界蓝图 #4 [{0}]
+Key_51_Button 视角上升 [{0}]
+Key_52_Button 视角下降 [{0}]
+Key_53_Button 载具上锁 [{0}]
+Key_54_Button 任务列表 [{0}]
+Key_55_Button 开发工具(Devkit) [{0}]
+Key_56_Button 捕获屏幕 [{0}]
+Key_57_Button 重载资源 [{0}]
+Key_58_Button 复制调试信息 [{0}]
+Key_59_Button 代码热键 #1 [{0}]
+Key_60_Button 代码热键 #2 [{0}]
+Key_61_Button 代码热键 #3 [{0}]
+Key_62_Button 代码热键 #4 [{0}]
+Key_63_Button 代码热键 #5 [{0}]
+Key_64_Button 物品热键 #1 [{0}]
+Key_65_Button 物品热键 #2 [{0}]
+Key_66_Button 物品热键 #3 [{0}]
+Key_67_Button 物品热键 #4 [{0}]
+Key_68_Button 物品热键 #5 [{0}]
+Key_69_Button 物品热键 #6 [{0}]
+Key_70_Button 物品热键 #7 [{0}]
+Key_71_Button 物品热键 #8 [{0}]
+Key_72_Button 物品热键 #9 [{0}]
+Key_73_Button 物品热键 #10 [{0}]
+Key_74_Button 释放光标 [{0}]

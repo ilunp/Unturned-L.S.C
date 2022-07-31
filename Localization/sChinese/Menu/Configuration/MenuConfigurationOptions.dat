@@ -1,51 +1,51 @@
-FOV_Slider_LabelV2_Name Field of View
-FOV_Slider_LabelV2_Value Horizontal [{0}°] Vertical [{1}°]
-Volume_Slider_Label Master Volume [{0}%]
-Voice_Slider_Label Voice Chat Volume [{0}%]
-Loading_Screen_Music_Volume_Slider_Label Loading Screen Music Volume [{0}%]
-Debug_Toggle_Label Show FPS/Ping
-Music_Toggle_Label Play Menu/Death Music
+FOV_Slider_LabelV2_Name FoV
+FOV_Slider_LabelV2_Value —— 水平 [{0}°] 垂直 [{1}°]
+Volume_Slider_Label 主音量 [{0}%]
+Voice_Slider_Label 语音音量 [{0}%]
+Loading_Screen_Music_Volume_Slider_Label 主菜单音乐音量 [{0}%]
+Debug_Toggle_Label 显示 FPS/Ping
+Music_Toggle_Label 播放 主菜单/死亡 音乐
 Splashscreen_Toggle_Label Splashscreen
-Timer_Toggle_Label Arena Timer Warning
-Physics_Toggle_Label Item Physics
-Gore_Toggle_Label Show Blood Splatters
-Filter_Toggle_Label Censor Text Profanity
-Chat_Text_Toggle_Label Show Inbound Text Chat
-Chat_Voice_In_Toggle_Label Enable Inbound Voice Chat
-Chat_Voice_Out_Toggle_Label Enable Outbound Voice Chat
-Hints_Toggle_Label Show Hints
-Ambience_Toggle_Label Play Day/Night Ambience
-Streamer_Toggle_Label Streamer Mode
-Featured_Workshop_Toggle_Label Featured Workshop
-Show_Hotbar_Toggle_Label Show Hotbar
-Pause_When_Unfocused_Label Pause While Alt-Tabbing
+Timer_Toggle_Label 竞技场倒计时警告
+Physics_Toggle_Label 物品掉落物理效果
+Gore_Toggle_Label 血液喷溅效果
+Filter_Toggle_Label 屏蔽不良聊天内容
+Chat_Text_Toggle_Label 显示聊天文本
+Chat_Voice_In_Toggle_Label 启用语音聊天 (玩家)
+Chat_Voice_Out_Toggle_Label 启用语音聊天 (自己)
+Hints_Toggle_Label 显示基础提示信息
+Ambience_Toggle_Label 播放 白昼/黑夜 环境音效
+Streamer_Toggle_Label 主播(Streamer) 模式
+Featured_Workshop_Toggle_Label 显示创意工坊精选
+Show_Hotbar_Toggle_Label 显示物品栏
+Pause_When_Unfocused_Label 窗口切换暂停 (Alt+Tab)
 
-Matchmaking_Show_All_Maps_Toggle_Label Matchmaking Show All Maps
-Min_Matchmaking_Players_Field_Label Matchmaking Min Players
-Max_Matchmaking_Ping_Field_Label Matchmaking Max Ping
+Matchmaking_Show_All_Maps_Toggle_Label 快速匹配 显示 全部地图
+Min_Matchmaking_Players_Field_Label 快速匹配玩家下限
+Max_Matchmaking_Ping_Field_Label 快速匹配延迟上限
 
-Metric_On Metric
-Metric_Off Imperial
-Metric_Tooltip Measurement System
+Metric_On 公制
+Metric_Off 英制
+Metric_Tooltip 距离测量单位制度
 
-Talk_On Instant Talking
-Talk_Off Animated Talking
-Talk_Tooltip NPC Text Animation
+Talk_On 跳过文本动画
+Talk_Off 播放文本动画
+Talk_Tooltip NPC 文本显示动画
 
-UI_Free White Interface
-UI_Pro Black Interface
-UI_Tooltip Interface Skin
+UI_Free 浅色界面
+UI_Pro 深色界面
+UI_Tooltip 界面颜色
 
-Hitmarker_Static Static Hitmarkers
-Hitmarker_Dynamic Dynamic Hitmarkers
-Hitmarker_Tooltip Hitmarker Locking
+Hitmarker_Static 静态命中标记
+Hitmarker_Dynamic 动态命中标记
+Hitmarker_Tooltip <静态> 保持在屏幕中心, <动态> 保持在物体被命中处
 
-Crosshair_Box Crosshair Color
-Hitmarker_Box Hitmarker Color
-Critical_Hitmarker_Box Critical Hitmarker Color
-Cursor_Box Cursor Color
-Background_Box Interface Background Color
-Foreground_Box Interface Foreground Color
-Font_Box Font Color
-Shadow_Box Shadow Color
+Crosshair_Box 准星颜色
+Hitmarker_Box 命中颜色
+Critical_Hitmarker_Box 关键命中颜色
+Cursor_Box 光标颜色
+Background_Box 界面背景颜色
+Foreground_Box 界面前景颜色
+Font_Box 字体颜色
+Shadow_Box 字体阴影颜色
 Bad_Color_Box Negative Color

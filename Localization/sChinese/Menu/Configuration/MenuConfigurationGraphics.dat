@@ -1,121 +1,121 @@
-Ambient_Occlusion_Label Ambient Occlusion
-Ambient_Occlusion_Tooltip Soft shading near corners and contacts.
-Bloom_Toggle_Label Bloom
-Bloom_Tooltip Blur glowing halo around bright lights.
-Chromatic_Aberration_Toggle_Label Chromatic Aberration
-Chromatic_Aberration_Tooltip Lens imperfection maybe useful for screenshots.
-Film_Grain_Toggle_Label Film Grain
-Film_Grain_Tooltip Add subtle visual noise to reduce color banding.
+Ambient_Occlusion_Label 环境光遮蔽(AO)
+Ambient_Occlusion_Tooltip 物体附近角落和相交线大的软阴影显得更暗.
+Bloom_Toggle_Label 泛光(Bloom)
+Bloom_Tooltip 强光发光周围的模糊光晕.
+Chromatic_Aberration_Toggle_Label 色差(CA)
+Chromatic_Aberration_Tooltip 模仿镜头瑕疵的艺术效果.(截图时可能会用到)
+Film_Grain_Toggle_Label 胶片颗粒
+Film_Grain_Tooltip 添加细微的视觉噪点减少色带.
 Terrain_Toggle_Label Terrain Backdrop
-Blend_Toggle_Label Terrain Transition
-Blend_Tooltip Blend terrain textures according to per-material heightmaps rather than a basic linear blend.
+Blend_Toggle_Label 地面过渡
+Blend_Tooltip 根据每个地形材质的高度图混合地面贴图, 而不是基础的线性混合.
 Fog_Toggle_Label Height Fog
 Nice_Foliage_Toggle_Label Windy Foliage
-Grass_Displacement_Toggle_Label Grass Displacement
-Grass_Displacement_Tooltip Basic vertex displacement around player feet.
-Foliage_Focus_Toggle_Label Scope Focus Foliage
-Foliage_Focus_Tooltip While zoomed-in stream foliage around the focal point.
-Ragdolls_Toggle_Label Ragdolls
-Ragdolls_Tooltip Simulate physics for entity corpses.
-Debris_Toggle_Label Debris
-Debris_Tooltip Simulate physics for debris when an object is destroyed.
-Blast_Toggle_Label Blast Marks
-Blast_Toggle_Tooltip Spawn 3D decals at explosions. Performance is affected by number of overlapping pixels on screen.
-Puddle_Toggle_Label Rain Puddles
-Puddle_Tooltip Puddle and ripple effects for raindrops.
-Glitter_Toggle_Label Snow Glitter
-Glitter_Tooltip Shimmering sparkles on snow surface.
-Triplanar_Toggle_Label Triplanar Mapping
-Triplanar_Tooltip Aligns boulder textures with the terrain by sampling three textures per pixel rather than one.
-Skybox_Reflection_Label Skybox Reflection
-Skybox_Reflection_Tooltip Render dynamic skybox into a cubemap for ambient lighting and reflections.
-Item_Icon_Anti_Aliasing_Label Item Icon Anti-Aliasing
-Item_Icon_Anti_Aliasing_Tooltip Prevents jagged pixel edges on inventory item icons.
+Grass_Displacement_Toggle_Label 移动压弯草丛
+Grass_Displacement_Tooltip 周围的草丛随着玩家移动会被压弯.
+Foliage_Focus_Toggle_Label 瞄具显示植被
+Foliage_Focus_Tooltip 瞄具放大时显示焦点周围的植被.
+Ragdolls_Toggle_Label 布娃娃(Ragdolls)
+Ragdolls_Tooltip 模拟实体尸体物理效果.
+Debris_Toggle_Label 碎片残骸
+Debris_Tooltip 模拟物体被破坏时的碎片物理效果.
+Blast_Toggle_Label 爆炸痕迹
+Blast_Toggle_Tooltip 爆炸时生成3D贴花. 性能受屏幕上重叠像素数影响.
+Puddle_Toggle_Label 积雨坑
+Puddle_Tooltip 积水和涟漪效果.
+Glitter_Toggle_Label 闪光雪
+Glitter_Tooltip 闪闪发光的雪面.
+Triplanar_Toggle_Label 三面映射
+Triplanar_Tooltip 通过对每像素三个纹理进行采样，将巨石纹理与地形对齐
+Skybox_Reflection_Label 天空盒反射
+Skybox_Reflection_Tooltip 渲染动态天空盒环境照明和反射到立方体贴图.
+Item_Icon_Anti_Aliasing_Label 项目图标抗锯齿
+Item_Icon_Anti_Aliasing_Tooltip 防止在物品栏项目图标的锯齿状像素边缘.
 
-Far_Clip_Slider_Label Max Draw Distance [{0}%]
-Distance_Slider_Label Nearby Draw Distance [{0}%]
-Landmark_Slider_Label Landmark Draw Distance [{0}%]
+Far_Clip_Slider_Label 远景绘制距离 [{0}%]
+Distance_Slider_Label 近景绘制距离 [{0}%]
+Landmark_Slider_Label 地标绘制距离 [{0}%]
 
-Anti_Aliasing_Button_Label Anti-Aliasing
-Anti_Aliasing_Button_Tooltip Reduces jagged pixel edges
-Anisotropic_Filtering_Button_Label Anisotropic Filtering
-Anisotropic_Filtering_Button_Tooltip Reduce texture blur at oblique angles
-Effect_Button_Label Effect Duration
-Effect_Button_Tooltip Time before effects despawn
-Foliage_Button_Label Grass Density
-Foliage_Button_Tooltip Amount of visible grass
-Sun_Shafts_Button_Label Sun Shafts Quality
-Sun_Shafts_Button_Tooltip Resolution of light rays
-Lighting_Button_Label Lighting Quality
-Lighting_Button_Tooltip Shadow resolution and light count
-Reflection_Button_Label Screen Space Reflection Quality
-Reflection_Button_Tooltip Puddle reflection detail
-Planar_Reflection_Button_Label Planar Reflection Quality
-Planar_Reflection_Button_Tooltip Water reflection detail
-Water_Button_Label Water Quality
-Water_Button_Tooltip Water transparency, foam, waves and reflections
-Scope_Button_Label Scope Quality
-Scope_Button_Tooltip Dual-render scope resolution
-Outline_Button_Label Outline Quality
-Outline_Button_Tooltip Highlight resolution and blur
-Bone_Button_Label Animation Quality
-Bone_Button_Tooltip Bone Influences Per Vertex
-Terrain_Button_Label Terrain Quality
-Terrain_Button_Tooltip Landscape geometry resolution
-Wind_Button_Label Wind Quality
-Wind_Button_Tooltip Detail of Wind Animation
-Tree_Mode_Button_Label Tree Quality [Restart Required]
-Tree_Mode_Button_Tooltip Which tree models to use, requires restart
-Render_Mode_Button_Label Render Mode
-Render_Mode_Button_Tooltip Forward might run better on older graphics cards, Deferred allows decals and screen space reflections
-Landmark_Button_Label Landmarks
-Landmark_Button_Tooltip Extremely low detail models for extended view distance
+Anti_Aliasing_Button_Label 抗锯齿(AA)
+Anti_Aliasing_Button_Tooltip 减少锯齿状像素边缘
+Anisotropic_Filtering_Button_Label 各向异性过滤(AF)
+Anisotropic_Filtering_Button_Tooltip 减少倾斜角度造成的纹理模糊
+Effect_Button_Label 特效时间
+Effect_Button_Tooltip 特效持续时间
+Foliage_Button_Label 植被密度
+Foliage_Button_Tooltip 可见植被数量
+Sun_Shafts_Button_Label 体积光
+Sun_Shafts_Button_Tooltip 丁达尔效应
+Lighting_Button_Label 光照质量
+Lighting_Button_Tooltip 阴影分辨率和光源数量
+Reflection_Button_Label 屏幕空间反射
+Reflection_Button_Tooltip 水坑反射细节
+Planar_Reflection_Button_Label 平面反射
+Planar_Reflection_Button_Tooltip 水面反射细节
+Water_Button_Label 水体质量
+Water_Button_Tooltip 水体透明度, 气泡, 波浪 和 反射
+Scope_Button_Label 目镜质量
+Scope_Button_Tooltip 双重渲染目镜分辨率
+Outline_Button_Label 轮廓质量
+Outline_Button_Tooltip 材质轮廓分辨率和模糊效果
+Bone_Button_Label 动画质量
+Bone_Button_Tooltip 每个顶点支持的最大骨骼影响数
+Terrain_Button_Label 地形质量
+Terrain_Button_Tooltip 动态景观几何分辨率
+Wind_Button_Label 风区质量
+Wind_Button_Tooltip 风区动画细节
+Tree_Mode_Button_Label 树木质量 [重启生效]
+Tree_Mode_Button_Tooltip 使用树木模型类型[重启游戏生效]
+Render_Mode_Button_Label 渲染模式
+Render_Mode_Button_Tooltip  <前向渲染> : (较旧) GPU 上运行可能是更好的选择, <延迟渲染> : 开启 <爆炸痕迹>/<屏幕空间反射> 选项
+Landmark_Button_Label 地标模型
+Landmark_Button_Tooltip 增加延长视距的极低细节模型
 
-Effect_Off {0}: Blood Only
-Effect_Tier {0}: {1} seconds
+Effect_Off {0}: 仅血液
+Effect_Tier {0}: {1} 秒
 
-Planar_Reflection_Low {0}: Landscape Only
-Planar_Reflection_Medium {0}: Sky, Trees, Structures, Large Objects
-Planar_Reflection_High {0}: Vehicles, Barricades, Medium Objects
-Planar_Reflection_Ultra {0}: Players, AI, Effects
+Planar_Reflection_Low {0}: 仅景观
+Planar_Reflection_Medium {0}: 天空, 树木, 建筑, 大型实体
+Planar_Reflection_High {0}: 载具, 路障, 中型实体
+Planar_Reflection_Ultra {0}: 玩家, AI, 特效
 
-Bone_Influences_Medium {0}: One
-Bone_Influences_High {0}: Two
-Bone_Influences_Ultra {0}: Four
+Bone_Influences_Medium {0}: 1
+Bone_Influences_High {0}: 2
+Bone_Influences_Ultra {0}: 4
 
-Wind_Low {0}: Basic Wind
-Wind_Medium {0}+: SpeedTree Layered Wind
+Wind_Low {0}: 传统风场
+Wind_Medium {0}+: SpeedTree分层风场
 
-Landmark_Low {0}: Large Objects Only
-Landmark_Medium {0}: Trees
-Landmark_High {0}: Opt-in Objects
-Landmark_Ultra {0}: Roads
+Landmark_Low {0}: 大型实体
+Landmark_Medium {0}: 树木
+Landmark_High {0}: 选入实体
+Landmark_Ultra {0}: 道路
 
 FXAA FXAA
 TAA TAA
 MSAA2 2xMSAA
 MSAA4 4xMSAA
 MSAA8 8xMSAA
-AA_Hint Deferred rendering and MSAA are incompatible
+AA_Hint <延迟渲染> 与 <MSAA> 不兼容
 
-AF_Disabled Disabled
-AF_Per_Texture Per Texture
-AF_Forced_On Forced On
+AF_Disabled 禁用
+AF_Per_Texture 每个纹理
+AF_Forced_On 强制开启
 
-TM_Legacy Basic Models
-TM_SpeedTree_Fade_None SpeedTrees
-TM_SpeedTree_Fade_SpeedTree Ultra SpeedTrees
+TM_Legacy 传统模型
+TM_SpeedTree_Fade_None SpeedTrees模型
+TM_SpeedTree_Fade_SpeedTree 极致SpeedTrees模型
 
-Forward Forward [Legacy]
-Deferred Deferred [Recommended]
+Forward 前向渲染 [传统]
+Deferred 延迟渲染 [推荐]
 
-Off Off
-Low Low
-Medium Medium
-High High
-Ultra Ultra
+Off 关闭
+Low 性能
+Medium 平衡
+High 质量
+Ultra 极致
 
-Perf_Foliage_Instancing_Not_Supported Your GPU does not support foliage instancing. This will significantly affect performance.
-Perf_Water_Reflections Ultra enables planar reflections. These require drawing the scene again upside-down, halving performance.
-Perf_Dual_Render_Scope Dual-render scopes require drawing the scene again zoomed-in, halving performance.
-Perf_SpeedTrees SpeedTrees will significantly affect performance. Basic models are recommended for most hardware.
+Perf_Foliage_Instancing_Not_Supported GPU 不支持植被实例化. 将对性能产生显著的影响.
+Perf_Water_Reflections <极致> 启用 <平面反射> 选项.该选项需要不断绘制水面的倒影, 性能将减半.
+Perf_Dual_Render_Scope 双重渲染目镜需要不断绘制放大的场景, 性能将减半.
+Perf_SpeedTrees <SpeedTrees模型> 将对性能产生显著的影响. 大部分硬件推荐使用 <传统模型>.
