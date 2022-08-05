@@ -106,6 +106,7 @@ Too_Far_From_Hull Too Far From Hull
 Cannot_Build_While_Seated Cannot Build While Seated
 Climb Climb [{0}]
 HousingPlannerTutorial Select Item [{0}]
+PlacementObstructedBy Blocked by: {0}
 
 Chat_Global [World] {0}: {1}
 Chat_Local [Area] {0}: {1}
