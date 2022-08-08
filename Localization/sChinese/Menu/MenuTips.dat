@@ -1,33 +1,33 @@
-Tip Tip: {0}
-Hotkey You can hotkey an item in your hands slot by right-clicking it and then pressing a number key [3-9].
-Equip You can quickly equip an item by holding [{0}] while right-clicking it.
-Drop You can quickly drop an item by holding [{0}] while left-clicking it.
-Sirens You can turn the sirens in a police vehicle on/off by pressing [{0}] as the driver.
-Transform You can copy transforms in the editor by pressing Ctrl+B and paste them by pressing Ctrl+N.
-Quality Your ranger weapons and attachments are more durable than their military counterparts.
-Umbrella You can use umbrellas to lower your falling speed and prevent fall damage.
-Heal You can heal other players by right-clicking on them while holding a medical item.
-Rotate You can rotate objects while building by holding right-click while dragging the mouse.
-Base Your crafting materials impacts stats and from best to worst are: <color=epic>Metal</color> -> <color=rare>Brick</color> -> <color=rare>Pine</color> -> <color=uncommon>Maple</color> -> <color=common>Birch</color>
-Dequip You can quickly dequip an item by pressing [{0}].
-Nightvision You can turn nightvision and headlamps on/off by pressing [{0}].
-Transfer You can quickly transfer an item in/out of storage by holding [{0}] while right-clicking it.
-Surface You can quickly surface while swimming by holding [{0}].
-Arrest You can eventually wiggle your way out of restraints by repeatedly tapping [{0}] and [{1}].
-Safezone You can protect an area from zombie spawns by placing a <color=legendary>Safezone Radiator</color>, but it also blocks item spawns.
-Claim You can prevent players from building in an area by placing a <color=legendary>Claim Flag</color>.
-Group You can join a group with your friends to disable friendlyfire, share buildables, see eachother on the map and win arena as a team.
-Map You can view a map of the area if you have a <color=uncommon>Chart</color> or <color=epic>GPS</color> by pressing [{0}].
-Beacon You can summon a wave of zombies for great loot drops by placing a <color=legendary>Horde Beacon</color>.
-Horn You can use the horn of a vehicle by pressing [{0}] as the driver.
-Lights You can turn the headlights in a vehicle on/off by pressing [{0}] as the driver.
-Snap You can snap an object's position and rotation by holding [{0}].
-Upgrade You can quickly craft all of an item or fully upgrade a skill by holding [{0}] while clicking it.
-Grab You can quickly grab an item from a rifle rack by holding [{0}] while interacting with it.
-Skycrane You can activate the <color=epic>Skycrane</color>'s electromagnet by pressing [{0}] while hovering over a vehicle.
-Seat You can swap seats in a vehicle by pressing the function keys [F1-F12].
-Rarity Your loot's rarity from best to worst is: <color=mythical>Mythical</color> -> <color=legendary>Legendary</color> -> <color=epic>Epic</color> -> <color=rare>Rare</color> -> <color=uncommon>Uncommon</color> -> <color=common>Common</color>
-Orientation You can rotate items in your inventory by pressing [{0}].
-Red Your critical hitmarker color setting also affects the color of glowing sights.
-Steady You can steady your scope by holding [{0}] while aiming. Remember to account for bullet drop and travel time!
-Streamer You can customize the names used in streamer mode by modifying StreamerNames.json, maybe with viewer/subscriber names!
+Tip 小技巧: {0}
+Hotkey 通过在右键单击物品后按下数字键 <color=#CCFFFF>[3-9]</color> 可将该数字键作为该物品的快捷键.
+Equip 通过在按住 <color=#CCFFFF>[{0}]</color> 的同时右键单击物品可快速装备该物品.
+Drop 通过在按住 <color=#CCFFFF>[{0}]</color> 的同时右键单击物品可快速丢弃该物品
+Sirens 通过按下 <color=#CCFFFF>[{0}]</color> 可打开/关闭警车的警笛.
+Transform 通过按下 <color=#CCFFFF>Ctrl+B (Ctrl+N)</color> 可在地图编辑器中复制 (粘贴) 实体.
+Quality 游骑兵(俄制)比军用对应的装备和配件更耐用.
+Umbrella 雨伞可降低下落速度和免疫摔落伤害.
+Heal 通过鼠标对准玩家后右键单击可将手中的医疗用品为该玩家治疗.
+Rotate 通过在按住鼠标右键的同时拖动鼠标可旋转需要建造的实体.
+Base 物品制作材料会影响物品属性: <color=epic>金属</color> -> <color=rare>砖石</color> -> <color=rare>松木</color> -> <color=uncommon>枫木</color> -> <color=common>桦木</color>
+Dequip 通过按下 <color=#CCFFFF>[{0}]</color> 可快速卸下手中的物品.
+Nightvision 通过按下 <color=#CCFFFF>[{0}]</color> 可打开/关闭夜视仪和战术灯.
+Transfer 通过按住 <color=#CCFFFF>[{0}]</color> 的同时右键单击物品可将该物品快速存入储物箱或从储物箱中取出.
+Surface 通过按住 <color=#CCFFFF>[{0}]</color> 可在潜水时快速上浮至水面.
+Arrest 通过反复敲击 <color=#CCFFFF>[{0}]</color> 和 <color=#CCFFFF>[{1}]</color> 可挣脱手铐/束带的束缚.
+Safezone 通过放置 <color=legendary>Safezone Radiator</color> 可防止僵尸生成来保护区域, 但会阻止物品生成.
+Claim 通过放置 <color=legendary>领地旗帜</color> 可防止玩家在附近区域建造和破坏.
+Group 通过加入与伙伴相同群组 1.防止伤害彼此 2.共享彼此的建筑 3.地图中看到彼此 4.作为团队赢得竞技场.
+Map 如果拥有 <color=uncommon>地图</color> 或者 <color=epic>GPS</color>, 通过按下 <color=#CCFFFF>[{0}]</color> 可打开该地区的地图.
+Beacon 通过放置 <color=legendary>尸潮信标</color> 可召唤尸潮以获得丰富的奖励.
+Horn 通过按下 <color=#CCFFFF>[{0}]</color> 可使用载具的喇叭.
+Lights 通过按下 <color=#CCFFFF>[{0}]</color> 可打开/关闭载具的车灯.
+Snap 通过按住 <color=#CCFFFF>[{0}]</color> 可捕捉对象的放置位置和旋转角度.
+Upgrade 通过按住 <color=#CCFFFF>[{0}]</color> 的同时左键单击选项可快速批量制作该物品和技能升至最高可用等级 .
+Grab 通过在按下 <color=#CCFFFF>[{0}]</color> 的同时鼠标对准步枪架可快速拿取步枪架的物品.
+Skycrane 通过在按下 <color=#CCFFFF>[{0}]</color> 的同时悬停在载具上方可启动<color=epic>空中起重机</color>的电磁铁.
+Seat 通过按下功能键 <color=#CCFFFF>[F1-F12]</color> 可切换载具座位.
+Rarity 物品稀有度能决定物品价值: <color=mythical>神话</color> -> <color=legendary>传说</color> -> <color=epic>史诗</color> -> <color=rare>稀有</color> -> <color=uncommon>罕见</color> -> <color=common>普通</color>
+Orientation 通过按下 <color=#CCFFFF>[{0}]</color> 可旋转选中物品.
+Red 改变 <color=#CCCCFF><关键命中颜色></color> 的同时会改变瞄具发光准星颜色.
+Steady 通过按住 <color=#CCFFFF>[{0}]</color> 可降低瞄准时的镜头晃动. 请记得估计子弹下坠和飞行时间!
+Streamer 通过修改 <color=#CCCCFF>StreamerNames.json</color> 可自定义 <color=#CCCCFF>主播(streamer)模式</color> 中的昵称, 也许还有 观众/订阅者 的昵称!

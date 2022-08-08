@@ -1,20 +1,20 @@
-Author_Label by {1}    //    Version {0}
+Author_Label 作者: {1}    //    版本: {0}
 
-Stat_Kills_Zombies_Normal You have killed {0} normal zombies! Players worldwide have killed {1}!
-Stat_Kills_Players You have killed {0} players! Players worldwide have killed {1}!
-Stat_Deaths_Players You have died {0} times! Players worldwide have died {1}!
-Stat_Found_Items You have found {0} items! Players worldwide have found {1}!
-Stat_Found_Resources You have harvested {0} resources! Players worldwide have harvested {1}!
-Stat_Found_Experience You have gained {0} experience! Players worldwide have gained {1}!
-Stat_Kills_Zombies_Mega You have killed {0} mega zombies! Players worldwide have killed {1}!
-Stat_Kills_Animals You have killed {0} animals! Players worldwide have killed {1}!
-Stat_Found_Crafts You have crafted {0} items! Players worldwide have crafted {1}!
-Stat_Found_Fishes You have caught {0} fish! Players worldwide have caught {1}!
-Stat_Found_Plants You have grown {0} plants! Players worldwide have grown {1}!
-Stat_Accuracy You have fired {0} shots with {1}% accuracy! Players worldwide have fired {2} with {3}%!
-Stat_Headshots You have hit {0} headshots! Players worldwide have hit {1}!
-Stat_Travel_Foot You have travelled {0} on foot! Players worldwide have travelled {1}!
-Stat_Travel_Vehicle You have travelled {0} in vehicles! Players worldwide have travelled {1}!
-Stat_Arena_Wins You have won {0} arena matches! Players worldwide have won {1}!
-Stat_Found_Buildables You have built {0} objects! Players worldwide have built {1}!
-Stat_Found_Throwables You have thrown {0} projectiles! Players worldwide have thrown {1}!
+Stat_Kills_Zombies_Normal 你已经击杀 {0} 只普通僵尸! 全球玩家共击杀 {1} 只!
+Stat_Kills_Players 你已经击杀 {0} 名玩家! 全球玩家共击杀 {1} 名!
+Stat_Deaths_Players 你已经死了 {0} 次! 全球玩家共死了 {1} 次!
+Stat_Found_Items 你已经找到 {0} 项物品! 全球玩家共找到 {1} 项!
+Stat_Found_Resources 你已经采集 {0} 种资源! 全球玩家共采集 {1} 种!
+Stat_Found_Experience 你已经获得 {0} 点经验值! 全球玩家共获得 {1} 经验!
+Stat_Kills_Zombies_Mega 你已经击杀 {0} 只巨型僵尸! 全球玩家共击杀 {1} 只!
+Stat_Kills_Animals 你已经击杀 {0} 只动物! 全球玩家共击杀 {1} 只!
+Stat_Found_Crafts 你已经制作 {0} 项物品! 全球玩家共制作 {1} 项!
+Stat_Found_Fishes 你已经钓到 {0} 条鱼! 全球玩家共钓到 {1} 条!
+Stat_Found_Plants 你已经种植 {0} 棵植物! 全球玩家共种植 {1} 棵!
+Stat_Accuracy 你以 {1}% 的命中率射击了 {0} 发子弹! 全球玩家共以命中率 {3}% 射击了 {2} 发!
+Stat_Headshots 你已经命中 {0} 次爆头! 全球玩家共命中 {1} 次!
+Stat_Travel_Foot 你已经徒步旅行 {0} (米)! 全球玩家共徒步旅行 {1} (米)!
+Stat_Travel_Vehicle 你已经自驾旅行 {0} (米)! 全球玩家共自驾旅行 {1} (米)!
+Stat_Arena_Wins 你已经赢得 {0} 场竞技比赛! 全球玩家共赢得 {1} 场!
+Stat_Found_Buildables 你已经建造 {0} 项实体! 全球玩家共建造 {1} 项!
+Stat_Found_Throwables 你已经仍出 {0} 个投掷物! 全球玩家共仍出 {1} 个!

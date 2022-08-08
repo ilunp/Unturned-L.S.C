@@ -1,131 +1,131 @@
-PlayButtonText Play
-PlayButtonTooltip Play
-SurvivorsButtonText Survivors
-SurvivorsButtonTooltip Survivors
-ConfigurationButtonText Configuration
-ConfigurationButtonTooltip Configuration
-WorkshopButtonText Workshop
-WorkshopButtonTooltip Workshop
-ExitButtonText Exit
-ExitButtonTooltip Exit
-BackButtonText Back
-BackButtonTooltip Back
-NewsTooltip Click here to comment or view the rest of the announcement.
+PlayButtonText 开始游戏
+PlayButtonTooltip 开始游戏
+SurvivorsButtonText 角色选项
+SurvivorsButtonTooltip 角色选项
+ConfigurationButtonText 游戏设置
+ConfigurationButtonTooltip 游戏设置
+WorkshopButtonText 创意工坊
+WorkshopButtonTooltip 创意工坊
+ExitButtonText 退出菜单
+ExitButtonTooltip 退出菜单
+BackButtonText 返回
+BackButtonTooltip 返回
+NewsTooltip 点击此处发表评论或查看其他公告.
 
-Curated_Workshop_Title Curated: {0}
-Highlighted_Workshop_Title Featured: {0}
-Featured_Workshop_Title Popular: {0}
-Featured_Workshop_Dismiss Dismiss
-ReadMore_Link_On [Expand]
-ReadMore_Link_Off [Collapse]
-Featured_Workshop_Link View on Workshop
-Featured_Workshop_Sub Subscribe
-Featured_Workshop_Unsub Unsubscribe
-Featured_Workshop_Stockpile_Link View {0} in Stockpile
+Curated_Workshop_Title 已采纳: {0}
+Highlighted_Workshop_Title 热门: {0}
+Featured_Workshop_Title 精选: {0}
+Featured_Workshop_Dismiss 关闭
+ReadMore_Link_On [展开]
+ReadMore_Link_Off [折叠]
+Featured_Workshop_Link 查看创意工坊
+Featured_Workshop_Sub 订阅
+Featured_Workshop_Unsub 取消订阅
+Featured_Workshop_Stockpile_Link 查看 {0} 库存
 News_Author {0} - {1}
-News_Comments_Link View Comments
+News_Comments_Link 查看评论
 
-Banned You are banned from this server for another {0} because: {1}
-Kicked You were kicked from this server because: {0}
-Whitelisted You are not whitelisted on this server.
-Password Your password was incorrect.
-Full This server's player list and queue are now full.
-Hash_Level This server is using a modified version of the map.
-Hash_Assembly This server is using modified code.
-Version This server is running version {0} of the game, whereas you are running version {1}.
-Pro_Server You require Gold to join this server.
-Pro_Character Please select a valid character.
-Pro_Desync Your client and the server disagree about whether you have Gold.
-Pro_Appearance Please select a valid face, hair, beard, skin color and hair color.
-Auth_Verification Your authentication ticket verification failed.
-Auth_No_Steam You are not connected to Steam.
-Auth_License_Expired Your authentication ticket has expired.
-Auth_VAC_Ban You are banned from playing on VAC secure servers.
-Auth_Elsewhere You are already playing on another server.
-Auth_Timed_Out The Steam anticheat servers are not responding.
-Auth_Used Your authentication ticket has already been used.
-Auth_No_User You are not connected to an account.
-Auth_Pub_Ban You are banned from playing multiplayer.
-Auth_Econ_Serialize Your econ ticket failed to serialize.
-Auth_Econ_Deserialize Your econ ticket failed to deserialize.
-Auth_Econ_Verify Your econ ticket failed verification.
-Auth_Empty The Steam authentication servers are not responding.
-Already_Connected You are already connected to this server.
-Already_Pending You are already queued in this server.
-Late_Pending You lost your place in the queue.
-Not_Pending You are not playing on this server.
-Name_Player_Short Your Steam username is too short.
-Name_Player_Long Your Steam username is too long.
-Name_Player_Invalid Your Steam username contains invalid letters.
-Name_Player_Number Your Steam username cannot be just a number.
-Name_Character_Short Your character name is too short.
-Name_Character_Long Your character name is too long.
-Name_Character_Invalid Your character name contains invalid letters.
-Name_Character_Number Your character name cannot be just a number.
-Timed_Out This server lost your connection.
-Map This server is running a map you don't have.
-Shutdown This server has been shutdown.
-Shutdown_Reason This server has been shutdown because: {0}
-PingV2 Rejected because your calculated ping ({0}ms) exceeded the server maximum of {1}ms.
-Plugin This server is running a plugin which filtered out your account.
+Banned 因 {1} , 已被服务器封禁 {0}
+Kicked 因 {0} , 已被服务器踢出
+Whitelisted 服务器已启用白名单.
+Password 输入密码错误.
+Full 服务器玩家/队列列表已满员.
+Hash_Level 服务器正在使用的地图已被修改.
+Hash_Assembly 服务器正在使用的代码已被修改.
+Version 服务器与客户端游戏版本不一致. 服务器: v{0} /客户端: v{1}
+Pro_Server 服务器仅允许黄金账户加入.
+Pro_Character 请选择一个有效的角色.
+Pro_Desync 客户端与服务器的黄金账户验证存在分歧.
+Pro_Appearance 请选择一个有效的表情, 发型, 胡子, 肤色和发色.
+Auth_Verification 身份验证票证验证失败.
+Auth_No_Steam 未连接至 Steam.
+Auth_License_Expired 身份验证票证已过期.
+Auth_VAC_Ban 已被禁止在已启用VAC保护服务器中游玩.
+Auth_Elsewhere 已在其他服务器中游玩.
+Auth_Timed_Out Steam 反作弊服务器无响应.
+Auth_Used 身份验证票证已被使用.
+Auth_No_User 未连接至账号.
+Auth_Pub_Ban 已被禁止游玩多人游戏.
+Auth_Econ_Serialize 经济体票证序列化失败.
+Auth_Econ_Deserialize 经济体票证反序列化失败.
+Auth_Econ_Verify 经济体票证验证失败.
+Auth_Empty Steam 身份验证服务器无响应.
+Already_Connected 已连接至服务器.
+Already_Pending 已在服务器队列中.
+Late_Pending 已退出服务器队列.
+Not_Pending 未在此服务器中游玩.
+Name_Player_Short Steam 用户昵称过短.
+Name_Player_Long Steam 用户昵称过长.
+Name_Player_Invalid Steam 用户昵称包含无效字母.
+Name_Player_Number Steam 用户昵称不能只是数字.
+Name_Character_Short 角色 昵称过短.
+Name_Character_Long 角色 昵称过长.
+Name_Character_Invalid 角色 昵称包含无效字母.
+Name_Character_Number 角色 昵称不能只是数字.
+Timed_Out 服务器连接超时.
+Map 客户端缺少服务器使用的地图资源文件.
+Shutdown 服务器已关闭.
+Shutdown_Reason 因 {0} , 服务器已关闭.
+PingV2 因延迟超过服务器限制被拒绝. ({0}/{1}ms)
+Plugin 已被该服务器插件禁止加入.
 Plugin_Reason Plugin: {0}
-Barricade Your files are missing a custom barricade asset ({0}) this server is using.
-Structure Your files are missing a custom structure asset ({0}) this server is using.
-Vehicle Your files are missing a custom vehicle asset ({0}) this server is using.
-Client_Module_Desync This server is missing a custom module your files are using.
-Server_Module_Desync Your files are missing a custom module this server is using.
-BattlEye_Broken BattlEye: Service is not installed or not running properly, please restart from the launcher. If you uninstalled BattlEye or skipped the installation step then you can reinstall it by running the Install_BattlEye.bat script from your Unturned/BattlEye folder.
-BattlEye_Update BattlEye: Service requires an update, please restart from the launcher.
-BattlEye_Unknown BattlEye: Unknown request, please restart from the launcher.
-Level_Version This server has {1} version {0} installed, whereas you have version {2}.
-Econ_Hash This server is running a different inventory version.
-Master_Bundle_Hash Asset bundle error: {0}
-Failure_Unknown Unknown failure: {0} Reason: {1}
-Reject_Unknown Rejected for unknown reason: {0}
-Workshop_Download_Restriction Server was not authorized by the creators of {0} workshop item(s) to use their content.
-Workshop_Advertisement_Mismatch Server was listed without workshop items, but requested workshop downloads.
-Late_Pending_Steam_Auth The game server did not receive a response from the Steam authentication servers.
-Late_Pending_Steam_Econ The game server did not receive a response from the Steam economy servers.
-Late_Pending_Steam_Groups The game server did not receive a response from the Steam groups servers.
-Name_Private_Long Your friends-only private nickname is too long.
-Name_Private_Invalid Your friends-only private nickname contains invalid letters.
-Name_Private_Number Your friends-only private nickname cannot be just a number.
+Barricade 客户端缺少服务器使用的自定义 路障(barricade) 资源 ({0}) 文件.
+Structure 客户端缺少服务器使用的自定义 结构(structure) 资源 ({0}) 文件.
+Vehicle 客户端缺少服务器使用的自定义 载具(vehicle) 资源 ({0}) 文件.
+Client_Module_Desync 服务器缺少客户端使用的自定义模组文件.
+Server_Module_Desync 客户端缺少服务器使用的自定义模组文件.
+BattlEye_Broken 战眼(BattlEye): 未正确安装/运行服务 (请从启动器重新启动). 如果已经跳过安装步骤或者将战眼(BattlEye)卸载, 那么可以通过运行在 Unturned/BattlEye 文件夹内的 Install_BattlEye.bat 脚本重新安装.
+BattlEye_Update 战眼(BattlEye): 需要更新服务 (请从启动器重新启动).
+BattlEye_Unknown 战眼(BattlEye): 未知请求 (请从启动器重新启动).
+Level_Version 服务器与客户端地图 {1} 版本不一致. 服务器: v{0} /客户端: v{2}
+Econ_Hash 服务器与客户端经济体库存版本不一致.
+Master_Bundle_Hash 资源文件错误: {0}
+Failure_Unknown {0} 因未知原因失败: {1}
+Reject_Unknown 因未知原因被拒绝: {0}
+Workshop_Download_Restriction 服务器未获得创作者授权, 仍然使用创意工坊物品 {0} 中的内容.
+Workshop_Advertisement_Mismatch 服务器未列出创意工坊物品, 仍然请求下载创意工坊.
+Late_Pending_Steam_Auth 游戏服务器未收到响应(Steam 身份验证服务器).
+Late_Pending_Steam_Econ 游戏服务器未收到响应(Steam 经济体服务器).
+Late_Pending_Steam_Groups 游戏服务器未收到响应(Steam 群组服务器).
+Name_Private_Long 仅好友可见的组内昵称过长.
+Name_Private_Invalid 仅好友可见的组内昵称包含无效字母.
+Name_Private_Number 仅好友可见的组内昵称不能只是数字.
 
-SteamNetworkingSockets_Unavailable_CannotTry Unable to initialize Steam network authentication.
-SteamNetworkingSockets_Unavailable_Failed Failed to initialize Steam network authentication.
-SteamNetworkingSockets_Unavailable_Previously Temporarily unable to initialize Steam network authentication.
-SteamNetworkingSockets_EndReason_App_1001 All player slots, queue slots, and pending connection slots are full.
-SteamNetworkingSockets_EndReason_App_1002 Server is in the process of shutting down.
-SteamNetworkingSockets_EndReason_App_Unknown Game ended connection for unknown reason: {0}
-SteamNetworkingSockets_EndReason_AppException_Generic Game ended the connection in an unusual manner.
-SteamNetworkingSockets_EndReason_AppException_Unknown Game ended connection for an exceptional unknown reason: {0}
-SteamNetworkingSockets_EndReason_Local_OfflineMode Cannot connect while running in offline mode.
-SteamNetworkingSockets_EndReason_Local_RelayConnectivity Unable to connect to the Steam relay network.
-SteamNetworkingSockets_EndReason_Local_NetworkConfig Unable to retrieve the Steam network config.
-SteamNetworkingSockets_EndReason_Local_Rights Rejected by Steam due to insufficient permissions.
-SteamNetworkingSockets_EndReason_Local_Unknown Unknown local connection error: {0}
-SteamNetworkingSockets_EndReason_Remote_Timeout Lost connection to host.
-SteamNetworkingSockets_EndReason_Remote_BadCrypt Unable to establish encryption with host.
-SteamNetworkingSockets_EndReason_Remote_BadCert Unable to trust host encryption certificate.
-SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion Host is running a different Steam network protocol.
-SteamNetworkingSockets_EndReason_Remote_Unknown Unknown remote connection error: {0}
-SteamNetworkingSockets_EndReason_Misc_InternalError Steam network internal error.
-SteamNetworkingSockets_EndReason_Misc_Timeout Lost connection to host or Steam network.
-SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam is experiencing connectivity issues.
-SteamNetworkingSockets_EndReason_Misc_Unknown Unknown miscellaneous connection error: {0}
-SteamNetworkingSockets_EndReason_Unknown Connected ended for unknown reason: {0}
+SteamNetworkingSockets_Unavailable_CannotTry Steam 网络验证无法初始化.
+SteamNetworkingSockets_Unavailable_Failed Steam 网络验证初始化失败.
+SteamNetworkingSockets_Unavailable_Previously Steam 网络验证暂时无法初始化.
+SteamNetworkingSockets_EndReason_App_1001 玩家/队列/待连接列表已满员.
+SteamNetworkingSockets_EndReason_App_1002 服务器正处于关闭过程.
+SteamNetworkingSockets_EndReason_App_Unknown 游戏因未知原因被终止: {0}
+SteamNetworkingSockets_EndReason_AppException_Generic 游戏因行为异常被终止.
+SteamNetworkingSockets_EndReason_AppException_Unknown 游戏因异常未知原因被终止: {0}
+SteamNetworkingSockets_EndReason_Local_OfflineMode 无法以离线模式运行时连接.
+SteamNetworkingSockets_EndReason_Local_RelayConnectivity 无法连接 Steam 中继网络.
+SteamNetworkingSockets_EndReason_Local_NetworkConfig 无法检索 Steam 网络配置.
+SteamNetworkingSockets_EndReason_Local_Rights 因权限不足被 Steam 拒绝.
+SteamNetworkingSockets_EndReason_Local_Unknown 未知本地连接错误: {0}
+SteamNetworkingSockets_EndReason_Remote_Timeout 主机连接超时.
+SteamNetworkingSockets_EndReason_Remote_BadCrypt 无法与主机建立加密连接.
+SteamNetworkingSockets_EndReason_Remote_BadCert 无法信任主机加密证书.
+SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion 主机以不同 Steam 网络协议运行.
+SteamNetworkingSockets_EndReason_Remote_Unknown 未知远程连接错误: {0}
+SteamNetworkingSockets_EndReason_Misc_InternalError Steam 网络内部错误.
+SteamNetworkingSockets_EndReason_Misc_Timeout 主机或 Steam 网络连接超时.
+SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam 连接遇到问题.
+SteamNetworkingSockets_EndReason_Misc_Unknown 未知杂项连接错误: {0}
+SteamNetworkingSockets_EndReason_Unknown 连接因未知原因被终止: {0}
 
-Pro_Title Permanent Gold Upgrade
-Pro_Button Gain access to extra character customization, premium servers, character slots and more by upgrading to a Gold account! Further details available on the store page.
-Pro_Button_Tooltip Click here to view the store page.
+Pro_Title 升级黄金帐户 (DLC)
+Pro_Button 黄金帐户拥有更多自定义选项和角色槽位,可进入高级服务器! 更多详细信息请查看商店页面.
+Pro_Button_Tooltip 点击查看商店页面.
 
-BattlEye_Header Warning: BattlEye Disabled
-BattlEye_Body BattlEye anti-cheat is not running so you cannot join BattlEye protected servers. If you uninstalled BattlEye or skipped the installation step then you can reinstall it by running the Install_BattlEye.bat script from your Unturned/BattlEye folder.
+BattlEye_Header 警告: 战眼(BattlEye)已禁用
+BattlEye_Body 战眼反作弊(BattlEye anti-cheat) 未启用, 无法加入受战眼(BattlEye)反作弊保护的服务器. 如果已经跳过安装步骤或者将战眼(BattlEye)卸载, 那么可以通过运行在 Unturned/BattlEye 文件夹内的 Install_BattlEye.bat 脚本重新安装.
 
-UpdateAvailable An update to version {0} is available! If you have automatic updates enabled it will download and install after you close the game.
+UpdateAvailable 新版本 {0} 可用! 如果已启用自动更新将会在关闭游戏后下载和安装更新.
 
-Overlay Steam overlay needs to be enabled.
-Dismiss_Notification_Label Confirm
-Dismiss_Notification_Tooltip Dismiss notification.
-Copy_Notification_Label Copy to Clipboard
-Copy_Notification_Tooltip Copy message to system clipboard.
+Overlay 请在游戏属性中开启"在游戏中启用 Steam 界面"选项.
+Dismiss_Notification_Label 关闭
+Dismiss_Notification_Tooltip 关闭通知.
+Copy_Notification_Label 复制
+Copy_Notification_Tooltip 复制至剪切板.

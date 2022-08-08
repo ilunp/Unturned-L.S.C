@@ -1,45 +1,45 @@
-VAC_Secure VAC Secure
-VAC_Insecure VAC Insecure
-BattlEye_Secure BattlEye Required
-BattlEye_Insecure BattlEye Disabled
-Streamer Streamer Mode
-Offline Offline
+VAC_Secure VAC 安全
+VAC_Insecure VAC 不安全
+BattlEye_Secure 战眼已启用
+BattlEye_Insecure 战眼已禁用
+Streamer 主播(Streamer) 模式
+Offline 离线
 
-Loading_Level_Play Loading {0} v{1} on {2} [{3}]...
-Loading_Level_Edit Loading {0}...
+Loading_Level_Play 正在加载 {0} v{1} ... [{3}] | {2}
+Loading_Level_Edit 正在加载 {0}...
 
-Loading Loading...
-Loading_Clean Cleaning up...
-Loading_Blueprints Linking blueprints...
-Loading_Spawns Linking spawns...
-Loading_Misc Loading miscellaneous...
-Assets_Scan Found {0} assets: {1}
-Assets_Load Preloading {0} assets: {1}/{2}
-Master_Bundle_Progress Mounting {0}: {1}%
-Master_Bundle_Progress_Hash Hashing {0}: {1}%
-Download_Progress Downloading {0}...
-Level_Load Loading level: {0}%
-Queue_Position Queue Position: #{0}
-Queue_Cancel Cancel
-Queue_Cancel_Tooltip Leave queue
+Loading 正在加载...
+Loading_Clean 清理临时文件...
+Loading_Blueprints 连接蓝图数据...
+Loading_Spawns 连接生成表数据...
+Loading_Misc 加载杂项...
+Assets_Scan 查找 {0} 资产 | {1}
+Assets_Load 预加载 {0} 资产 | {1}/{2}
+Master_Bundle_Progress 正在挂载 {0} | {1}%
+Master_Bundle_Progress_Hash 建立哈希 {0} | {1}%
+Download_Progress 正在下载 {0}...
+Level_Load 正在加载关卡 | {0}%
+Queue_Position 当前队列位置: #{0}
+Queue_Cancel 取消队列
+Queue_Cancel_Tooltip 离开队列
 
-Asset general
-Item item
-Effect effect
-Object object
-Resource resource
-Vehicle vehicle
-Animal animal
-Mythic mythic
-Skin skin
-Spawn spawn table
-Map map
-Workshop_Shared shared workshop
-Workshop_Server server workshop
-Workshop_Client client workshop
-Bundles_Server server
+Asset 通用
+Item 物品
+Effect 效果
+Object 实体
+Resource 资源
+Vehicle 载具
+Animal 动物
+Mythic 特效
+Skin 皮肤
+Spawn 生成表
+Map 地图
+Workshop_Shared 创意工坊 (共享)
+Workshop_Server 创意工坊 (服务器)
+Workshop_Client 创意工坊 (客户端)
+Bundles_Server 服务器
 NPC NPC
 
-Creators Created by:
-Collaborators Created in collaboration with:
-Thanks Special thanks to:
+Creators 创作者:
+Collaborators 协作者:
+Thanks 特别鸣谢:
