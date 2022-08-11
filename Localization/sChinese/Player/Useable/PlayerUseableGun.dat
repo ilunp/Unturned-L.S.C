@@ -1,16 +1,16 @@
-Sight_Hook_Tooltip Sight
-Tactical_Hook_Tooltip Tactical
-Grip_Hook_Tooltip Grip
-Barrel_Hook_Tooltip Barrel
-Magazine_Hook_Tooltip Magazine
+Sight_Hook_Tooltip 瞄具
+Tactical_Hook_Tooltip 配件
+Grip_Hook_Tooltip 握把
+Barrel_Hook_Tooltip 枪管
+Magazine_Hook_Tooltip 弹匣
 
 Ammo {0}/{1}
 Firemode {0} [{1}]
 Attach {0} [{1}]
 
-None Empty
+None 空
 
-Safety Safety
-Semi Semi
-Auto Auto
-Burst Burst
+Safety 保险
+Semi 单发
+Auto 连发
+Burst 爆炸
