@@ -19,7 +19,10 @@ Streamer_Toggle_Label Streamer Mode
 Featured_Workshop_Toggle_Label Featured Workshop
 Show_Hotbar_Toggle_Label Show Hotbar
 Pause_When_Unfocused_Label Pause While Alt-Tabbing
-
+ScreenshotSizeMultiplier_Label Screenshot Resolution Multiplier
+ScreenshotSizeMultiplier_Tooltip Higher values take significantly longer to render.
+ScreenshotSupersampling_Label Enable Screenshot Supersampling
+ScreenshotSupersampling_Tooltip Render screenshots with 2x supersampling to reduce aliasing.
 Matchmaking_Show_All_Maps_Toggle_Label Matchmaking Show All Maps
 Min_Matchmaking_Players_Field_Label Matchmaking Min Players
 Max_Matchmaking_Ping_Field_Label Matchmaking Max Ping
