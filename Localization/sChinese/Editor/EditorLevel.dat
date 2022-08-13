@@ -4,3 +4,5 @@ VisibilityButtonText Visibility
 VisibilityButtonTooltip Visible
 PlayersButtonText Players
 PlayersButtonTooltip Players
+VolumesButtonText Volumes
+VolumesButtonTooltip Define 3D zones/areas.

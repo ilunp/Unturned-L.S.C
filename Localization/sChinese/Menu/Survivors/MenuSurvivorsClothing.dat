@@ -53,7 +53,7 @@ Craft_Stat_Tracker_Player_Kills <color=#ff0000>Player Kills Counter</color>
 Craft_Ragdoll_Effect_Zero_Kelvin <color=#00ffff>Zero Kelvin Weapon Kit</color>
 Craft_Mythical_Skin <color=mythical>Random Mythical Skin</color>
 Craft_Stat_Tracker_Removal_Tool <color=#909090>Kill Counter Removal Tool</color>
-Craft_Ragdoll_Effect_Removal_Tool <color=#909090>Ragdoll Effect Removal Tool</color>
+Craft_Ragdoll_Effect_Removal_Tool <color=#909090>Ragdoll Modifier Removal Tool</color>
 
 Origin_Craft You crafted an item!
 Origin_Purchase Purchase successful!
