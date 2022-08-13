@@ -19,10 +19,10 @@ Streamer_Toggle_Label 主播(Streamer) 模式
 Featured_Workshop_Toggle_Label 显示创意工坊精选
 Show_Hotbar_Toggle_Label 显示物品栏
 Pause_When_Unfocused_Label 窗口切换暂停 (Alt+Tab)
-ScreenshotSizeMultiplier_Label Screenshot Resolution Multiplier
-ScreenshotSizeMultiplier_Tooltip Higher values take significantly longer to render.
-ScreenshotSupersampling_Label Enable Screenshot Supersampling
-ScreenshotSupersampling_Tooltip Render screenshots with 2x supersampling to reduce aliasing.
+ScreenshotSizeMultiplier_Label (倍) 截图图像分辨率
+ScreenshotSizeMultiplier_Tooltip 较高的值能明显增加渲染截图图像时所花费的时间.
+ScreenshotSupersampling_Label 截图图像超级采样
+ScreenshotSupersampling_Tooltip 采用 2x 超级采样渲染截图图像来减少锯齿.
 
 Matchmaking_Show_All_Maps_Toggle_Label 快速匹配 显示 全部地图
 Min_Matchmaking_Players_Field_Label 快速匹配玩家下限
