@@ -117,7 +117,7 @@ SteamNetworkingSockets_EndReason_Unknown 连接因未知原因被终止: {0}
 
 Pro_Title 升级黄金帐户 (DLC)
 Pro_Button 黄金帐户拥有更多自定义选项和角色槽位,可进入高级服务器! 更多详细信息请查看商店页面.
-Pro_Button_Tooltip 点击查看商店页面.
+Pro_Button_Tooltip 点击此处查看商店页面.
 
 BattlEye_Header 警告: 战眼(BattlEye)已禁用
 BattlEye_Body 战眼反作弊(BattlEye anti-cheat) 未启用, 无法加入受战眼(BattlEye)反作弊保护的服务器. 如果已经跳过安装步骤或者将战眼(BattlEye)卸载, 那么可以通过运行在 Unturned/BattlEye 文件夹内的 Install_BattlEye.bat 脚本重新安装.
