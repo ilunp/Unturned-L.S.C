@@ -28,7 +28,7 @@ News_Comments_Link 查看评论
 Banned 因 {1} , 已被服务器封禁 {0}
 Kicked 因 {0} , 已被服务器踢出
 Whitelisted 服务器已启用白名单.
-Password 输入密码错误.
+Password 请输入正确的服务器密码.
 Full 服务器玩家/队列列表已满员.
 Hash_Level 服务器正在使用的地图已被修改.
 Hash_Assembly 服务器正在使用的代码已被修改.
