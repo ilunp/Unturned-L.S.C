@@ -1,63 +1,63 @@
-Page {0} of {1}
+Page {0} / {1}
 
-Search_Field_Hint Item Name Filter
-Search Search
-Search_Tooltip Search
-Advanced_Options_Tooltip Advanced Options
-Search_Descriptions_Label Search Descriptions
-Filter_Item_Target Picking target for: {0}
-Cancel_Filter Cancel
-Cancel_Filter_Tooltip Stop item operation.
-Left_Tooltip Left
-Right_Tooltip Right
-Swap_Tooltip Swap
-Refresh_Tooltip Refresh
+Search_Field_Hint 项目名称筛选器
+Search 搜索
+Search_Tooltip 搜索
+Advanced_Options_Tooltip 高级选项
+Search_Descriptions_Label 搜索描述
+Filter_Item_Target 查找目标: {0}
+Cancel_Filter 取消
+Cancel_Filter_Tooltip 取消操作.
+Left_Tooltip 上一页
+Right_Tooltip 下一页
+Swap_Tooltip 替换
+Refresh_Tooltip 刷新
 
-Sort_Mode_Date Date
-Sort_Mode_Rarity Rarity
-Sort_Mode_Name Name A-Z
-Sort_Mode_Type Type A-Z
-Sort_Mode_Label Sort Mode
-Sort_Mode_Tooltip Method to organize inventory.
-Reverse_Sort_Order_Label Reverse Order
-Filter_Equipped_Label Only Equipped
+Sort_Mode_Date 日期
+Sort_Mode_Rarity 品质
+Sort_Mode_Name 名称 (A-Z)
+Sort_Mode_Type 类型 (A-Z)
+Sort_Mode_Label 排序方式
+Sort_Mode_Tooltip 库存饰品排列方式.
+Reverse_Sort_Order_Label 倒序排序
+Filter_Equipped_Label 已装备
 
-Origin_Drop You found an item!
+Origin_Drop 获得掉落物品!
 
-Mystery_-1_Text Super Rare Mythical Item
-Mystery_-2_Text Insanely Rare Haunted Item
-Mystery_-3_Text Insanely Rare Holiday Spirit Item
-Mystery_-4_Text Super Rare Confetti Item
-Mystery_-5_Text Super Rare Blood Sucker Item
+Mystery_-1_Text 超级稀有的神秘物品
+Mystery_-2_Text 非常稀有的幽灵物品
+Mystery_-3_Text 非常稀有的节日物品
+Mystery_-4_Text 超级稀有的糖果物品
+Mystery_-5_Text 超级稀有的吸血鬼物品
 Mystery_Tooltip ???
 
-Itemstore Stockpile
-Itemstore_Tooltip Click here to view the stockpile.
-Itemstore_Sale SALE
-Itemstore_Region_Box_Disabled Note: boxes and keys are unavailable in {0} region.
-Crafting Crafting
-Crafting_Tooltip Click here to view available blueprints.
-Backpack Backpack
-Backpack_Tooltip Click here to return to your backpack.
-Featured_Tooltip Click here to view this item.
+Itemstore 商店
+Itemstore_Tooltip 点击此处查看商店页面.
+Itemstore_Sale 出售
+Itemstore_Region_Box_Disabled 注意: 箱子和钥匙无法在 {0} 地区使用.
+Crafting 合成
+Crafting_Tooltip 点击此处查看可用蓝图.
+Backpack 库存
+Backpack_Tooltip 点击此处返回库存.
+Featured_Tooltip 点击此处查看该物品.
 
-Craft_Available Available <color=gold>Crafting Materials</color>: {0}
-Alert_Crafting Crafting...
-Craft_Entry Craft {0} - <color=gold>Crafting Materials</color> x{1}
-Craft_Common_Cosmetic <color=common>Low Tier Drop Cosmetic</color>
-Craft_Common_Skin <color=common>Low Tier Drop Skin</color>
-Craft_Uncommon_Cosmetic <color=common>High Tier Drop Cosmetic</color>
-Craft_Uncommon_Skin <color=common>High Tier Drop Skin</color>
-Craft_Stat_Tracker_Total_Kills <color=#ff7f00>Total Kills Counter</color>
-Craft_Stat_Tracker_Player_Kills <color=#ff0000>Player Kills Counter</color>
+Craft_Available 可用 <color=gold>合成材料</color>: {0}
+Alert_Crafting 正在合成...
+Craft_Entry 合成 {0} - 花费 <color=gold>合成材料</color> x{1}
+Craft_Common_Cosmetic <color=common>低级掉落饰品</color>
+Craft_Common_Skin <color=common>低级掉落皮肤</color>
+Craft_Uncommon_Cosmetic <color=common>高级掉落饰品</color>
+Craft_Uncommon_Skin <color=common>高级掉落皮肤</color>
+Craft_Stat_Tracker_Total_Kills <color=#ff7f00>击杀计数器(总数)</color>
+Craft_Stat_Tracker_Player_Kills <color=#ff0000>击杀计数器(玩家)</color>
 Craft_Ragdoll_Effect_Zero_Kelvin <color=#00ffff>Zero Kelvin Weapon Kit</color>
-Craft_Mythical_Skin <color=mythical>Random Mythical Skin</color>
-Craft_Stat_Tracker_Removal_Tool <color=#909090>Kill Counter Removal Tool</color>
+Craft_Mythical_Skin <color=mythical>随机神话级皮肤</color>
+Craft_Stat_Tracker_Removal_Tool <color=#909090>击杀计数器移除工具</color>
 Craft_Ragdoll_Effect_Removal_Tool <color=#909090>Ragdoll Modifier Removal Tool</color>
 
-Origin_Craft You crafted an item!
-Origin_Purchase Purchase successful!
+Origin_Craft 物品合成成功!
+Origin_Purchase 物品交易成功!
 
-No_Items Waiting for Steam inventory response...
+No_Items 正在等待 Steam 库存服务器响应...
 
-Overlay Steam overlay needs to be enabled.
+Overlay 请在游戏属性中开启"在游戏中启用 Steam 界面"选项.

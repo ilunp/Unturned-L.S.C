@@ -1,25 +1,25 @@
-Key_Text Key
-Key_Tooltip Click here to view the store page.
+Key_Text 购买钥匙
+Key_Tooltip 点击此处查看商店页面.
 
-Unbox_Text Unbox
-Unbox_Tooltip Discover which random item is inside!
+Unbox_Text 打开箱子
+Unbox_Tooltip 探索箱子中的随机物品!
 
-Unwrap_Text Unwrap
-Unwrap_Tooltip Discover which random gift is inside!
+Unwrap_Text 拆开包裹
+Unwrap_Tooltip 探索包裹中的随机礼物!
 
-Origin_Unbox You unboxed an item!
-Origin_Unwrap You unwrapped an item!
+Origin_Unbox 箱子中发现了一件物品!
+Origin_Unwrap 包裹中发现了一件礼物!
 
-Region_Disabled Unboxing is disabled in {0} region.
+Region_Disabled 开箱功能无法在 {0} 地区使用.
 
-Overlay Steam overlay needs to be enabled.
-Exchange_Timed_Out The Steam item servers are not responding. Your items will be in your inventory when refreshed.
-Exchange_Missing_Assets Unknown asset. Your items will be in your inventory after updating. Sorry for this unusual scenario!
-Exchange_Not_In_Drops Item was not in box item list, but will be in your inventory when refreshed. Sorry for this unusual scenario!
+Overlay 请在游戏属性中开启"在游戏中启用 Steam 界面"选项.
+Exchange_Timed_Out Steam 物品服务器无响应. 物品将会在刷新后进入库存列表.
+Exchange_Missing_Assets 未知资源. 物品将会在更新后进入库存列表.
+Exchange_Not_In_Drops 物品不在箱子物品列表内, 物品将会在刷新后进入库存列表.
 
-Rarity_Rare Rare Chance: {0}%
-Rarity_Epic Epic Chance: {0}%
-Rarity_Legendary Legendary Chance: {0}%
-Rarity_Mythical Mythical Chance: {0}%
-Rarity_Equalized Item Chances: Equalized
-Rarity_Bonus_Items Bonus Item Chance: {0}%
+Rarity_Rare 稀有物品几率: {0}%
+Rarity_Epic 史诗物品几率: {0}%
+Rarity_Legendary 传说物品几率: {0}%
+Rarity_Mythical 神话物品几率: {0}%
+Rarity_Equalized 物品几率: 均等
+Rarity_Bonus_Items 额外物品几率: {0}%

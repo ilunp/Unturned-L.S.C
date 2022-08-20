@@ -1,27 +1,27 @@
-Equip_Text Equip
-Equip_Tooltip Equip on your character.
+Equip_Text 装备
+Equip_Tooltip 为角色装备该物品.
 
-Dequip_Text Dequip
-Dequip_Tooltip Dequip from your character.
+Dequip_Text 卸下
+Dequip_Tooltip 为角色卸下该物品.
 
-Target_Item_Text Use
-Target_Item_Tooltip Pick an item to apply to.
+Target_Item_Text 应用
+Target_Item_Tooltip 将该装饰应用到对应物品.
 
-Contents_Text Contents
-Contents_Tooltip Click here to see what might be inside.
+Contents_Text 内容
+Contents_Tooltip 点击此处查看该物品包含的内容.
 
-Inspect_Text Inspect
-Inspect_Tooltip Click here to see what it looks like.
+Inspect_Text 查看
+Inspect_Tooltip 点击此处查看该物品.
 
-Market_Text Market
-Market_Tooltip Click here to view the market page.
+Market_Text 出售
+Market_Tooltip 点击此处在市场页面查看该物品.
 
-Delete_Text Delete
-Delete_Tooltip Permanently delete from inventory.
+Delete_Text 丢弃
+Delete_Tooltip 将该物品从库存中永久移除.
 
-Scrap_Text Scrap x{0}
-Scrap_Tooltip Salvage x{0} basic crafting materials.
+Scrap_Text 碎片 [x{0}]
+Scrap_Tooltip 分解成基础合成材料 [x{0}] .
 
-Overlay Steam overlay needs to be enabled.
+Overlay 请在游戏属性中开启"在游戏中启用 Steam 界面"选项.
 
-Unknown Either your game is out of date (download the update) or something went horribly wrong!
+Unknown 游戏已过时(下载更新)或出现严重错误!

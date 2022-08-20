@@ -1,8 +1,8 @@
-CharacterButtonText Character
-CharacterButtonTooltip Character
-AppearanceButtonText Appearance
-AppearanceButtonTooltip Appearance
-GroupButtonText Group
-GroupButtonTooltip Group
-ClothingButtonText Inventory
-ClothingButtonTooltip Inventory
+CharacterButtonText 角色
+CharacterButtonTooltip 角色
+AppearanceButtonText 外观
+AppearanceButtonTooltip 外观
+GroupButtonText 群组
+GroupButtonTooltip 群组
+ClothingButtonText 库存
+ClothingButtonTooltip 库存

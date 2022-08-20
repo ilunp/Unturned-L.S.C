@@ -1,20 +1,20 @@
 Name_Label {0}
 Nick_Label [{0}]
 
-Name_Field_Label Public Name
-Nick_Field_Label Private Name
+Name_Field_Label 公开昵称
+Nick_Field_Label 组内名称
 
-Skillset_0 Civilian
-Skillset_1 Fire Fighter
-Skillset_2 Police Officer
-Skillset_3 Spec Ops
-Skillset_4 Farmer
-Skillset_5 Fisher
-Skillset_6 Lumberjack
-Skillset_7 Worker
-Skillset_8 Chef
-Skillset_9 Thief
-Skillset_10 Doctor
-Skillset_Box_Label Skillset:
+Skillset_0 无职业
+Skillset_1 消防员
+Skillset_2 警察
+Skillset_3 特种兵
+Skillset_4 农夫
+Skillset_5 渔夫
+Skillset_6 伐木工
+Skillset_7 工人
+Skillset_8 厨师
+Skillset_9 盗贼
+Skillset_10 医生
+Skillset_Box_Label 角色职业:
 
-Overlay Steam overlay needs to be enabled.
+Overlay 请在游戏属性中开启"在游戏中启用 Steam 界面"选项.

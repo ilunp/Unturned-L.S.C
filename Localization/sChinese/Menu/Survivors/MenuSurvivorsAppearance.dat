@@ -1,16 +1,16 @@
-Skin_Box Skin Color
-Skin_Box_Tooltip Skin
-Color_Box Hair Color
-Color_Box_Tooltip Hair
+Skin_Box 肤色
+Skin_Box_Tooltip 皮肤颜色
+Color_Box 发色
+Color_Box_Tooltip 头发颜色
 
-Face_Box Face Style
-Face_Box_Tooltip Face
+Face_Box 表情
+Face_Box_Tooltip 面部表情
 
-Hair_Box Hair Style
-Hair_Box_Tooltip Hair
+Hair_Box 发型
+Hair_Box_Tooltip 头发造型
 
-Beard_Box Beard Style
-Beard_Box_Tooltip Beard
+Beard_Box 胡子
+Beard_Box_Tooltip 胡子造型
 
-Right Right Handed
-Left Left Handed
+Right 惯用右手
+Left 惯用左手

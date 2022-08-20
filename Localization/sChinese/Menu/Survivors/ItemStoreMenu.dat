@@ -1,24 +1,24 @@
-ViewCart_Label View Cart
-ViewCart_Tooltip View items in your shopping cart.
-AddToCart_Label Add to Cart
-AddToCart_Tooltip Put item in your shopping cart.
-RemoveFromCart_Label Remove from Cart
-RemoveFromCart_Tooltip Take item out of your shopping cart.
-TotalPrice_Label Estimated total:
-StartPurchase_Label Proceed to Checkout
-StartPurchase_Tooltip Start the purchase in Steam overlay.
+ViewCart_Label 查看购物车
+ViewCart_Tooltip 查看在购物车中的物品.
+AddToCart_Label 加入购物车
+AddToCart_Tooltip 将该物品加入购物车.
+RemoveFromCart_Label 移出购物车
+RemoveFromCart_Tooltip 将该物品移出购物车.
+TotalPrice_Label 预计金额:
+StartPurchase_Label 前往购买
+StartPurchase_Tooltip 前往 Steam 界面付款.
 
-PurchaseResult_UnableToInitialize Unable to start purchase.
-PurchaseResult_Denied Purchase denied.
-PurchaseResult_Authorized Purchase authorized!
+PurchaseResult_UnableToInitialize 无法初始化购买.
+PurchaseResult_Denied 购买失败.
+PurchaseResult_Authorized 购买成功!
 
-FilterAllButton_Label All
-FilterAllButton_Tooltip View every item.
-FilterBundlesButton_Label Bundles
-FilterBundlesButton_Tooltip View item packs.
-FilterSpecialsButton_Label Specials
-FilterSpecialsButton_Tooltip View discounted items.
-FilterNewButton_Label New
-FilterNewButton_Tooltip View newly released items.
-FilterFeaturedButton_Label Featured
-FilterFeaturedButton_Tooltip View popular items.
+FilterAllButton_Label 全部
+FilterAllButton_Tooltip 查看全部物品.
+FilterBundlesButton_Label 捆绑包
+FilterBundlesButton_Tooltip 查看物品捆绑包.
+FilterSpecialsButton_Label 特价
+FilterSpecialsButton_Tooltip 查看打折物品.
+FilterNewButton_Label 新品
+FilterNewButton_Tooltip 查看新推物品.
+FilterFeaturedButton_Label 精选
+FilterFeaturedButton_Tooltip 查看精选物品.

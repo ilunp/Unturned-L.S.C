@@ -1,15 +1,15 @@
-Intent_Delete Are you sure you want to delete "{0}"?
-Intent_Salvage Are you sure you want to salvage "{0}"?
-Intent_Tag_Tool Are you sure you want to apply "{0}" to "{1}"?
-Warning This cannot be undone!
-Confirm Type "{0}" to confirm:
-Delete DELETE
-Salvage SALVAGE
-Quantity Optional quantity of {0} total:
+Intent_Delete 确定将要移除 "{0}" 吗?
+Intent_Salvage 确定将要分解 "{0}" 吗?
+Intent_Tag_Tool 确定要将 "{0}" 应用到 "{1}" 吗?
+Warning 警告: 此操作无法撤消!
+Confirm 请输入 "{0}" 来再次确认操作:
+Delete 移除
+Salvage 分解
+Quantity 请输入分解数量 [{0}] :
 
-Yes Yes
-Yes_Delete_Tooltip Permanently Delete
-Yes_Salvage_Tooltip Permanently Destroy
-Yes_Tag_Tool_Tooltip Permanently Attach
-No No
-No_Tooltip Keep Item
+Yes 确定
+Yes_Delete_Tooltip 确定移除该物品
+Yes_Salvage_Tooltip 确定分解该物品
+Yes_Tag_Tool_Tooltip 确定附加该物品
+No 取消!
+No_Tooltip 取消!
