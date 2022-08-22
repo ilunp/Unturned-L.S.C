@@ -1,189 +1,189 @@
-Speciality_0_Tooltip Offense
-Speciality_1_Tooltip Defense
-Speciality_2_Tooltip Support
+Speciality_0_Tooltip 进攻
+Speciality_1_Tooltip 防守
+Speciality_2_Tooltip 辅助
 
-Speciality_0_Skill_0 Overkill
-Speciality_0_Skill_0_Tooltip Punch and melee with greater force.
-Speciality_0_Skill_0_Level_1 +7% punch/melee damage
-Speciality_0_Skill_0_Level_2 +14% punch/melee damage
-Speciality_0_Skill_0_Level_3 +21% punch/melee damage
-Speciality_0_Skill_0_Level_4 +29% punch/melee damage
-Speciality_0_Skill_0_Level_5 +36% punch/melee damage
-Speciality_0_Skill_0_Level_6 +43% punch/melee damage
-Speciality_0_Skill_0_Level_7 +50% punch/melee damage
-Speciality_0_Skill_1 Sharpshooter
-Speciality_0_Skill_1_Tooltip Stabilizes recoil and increases accuracy.
-Speciality_0_Skill_1_Level_1 +7% stability/accuracy
-Speciality_0_Skill_1_Level_2 +14% stability/accuracy
-Speciality_0_Skill_1_Level_3 +21% stability/accuracy
-Speciality_0_Skill_1_Level_4 +29% stability/accuracy
-Speciality_0_Skill_1_Level_5 +36% stability/accuracy
-Speciality_0_Skill_1_Level_6 +43% stability/accuracy
-Speciality_0_Skill_1_Level_7 +50% stability/accuracy
-Speciality_0_Skill_2 Dexterity
-Speciality_0_Skill_2_Tooltip Quicker reloading and hammering.
-Speciality_0_Skill_2_Level_1 +10% reload/hammer speed
-Speciality_0_Skill_2_Level_2 +20% reload/hammer speed
-Speciality_0_Skill_2_Level_3 +30% reload/hammer speed
-Speciality_0_Skill_2_Level_4 +40% reload/hammer speed
-Speciality_0_Skill_2_Level_5 +50% reload/hammer speed
-Speciality_0_Skill_3 Cardio
-Speciality_0_Skill_3_Tooltip Quicker stamina and oxygen regeneration.
-Speciality_0_Skill_3_Level_1 +10% regeneration speed
-Speciality_0_Skill_3_Level_2 +20% regeneration speed
-Speciality_0_Skill_3_Level_3 +30% regeneration speed
-Speciality_0_Skill_3_Level_4 +40% regeneration speed
-Speciality_0_Skill_3_Level_5 +50% regeneration speed
-Speciality_0_Skill_4 Exercise
-Speciality_0_Skill_4_Tooltip Use less stamina and move faster.
-Speciality_0_Skill_4_Level_1 +5% move speed, +50% stamina endurance
-Speciality_0_Skill_4_Level_2 +10% move speed, +100% stamina endurance
-Speciality_0_Skill_4_Level_3 +15% move speed, +150% stamina endurance
-Speciality_0_Skill_4_Level_4 +20% move speed, +200% stamina endurance
-Speciality_0_Skill_4_Level_5 +25% move speed, +250% stamina endurance
-Speciality_0_Skill_5 Diving
-Speciality_0_Skill_5_Tooltip Use less oxygen, swim faster and reduce scope sway.
-Speciality_0_Skill_5_Level_1 +5% swim speed, +50% oxygen endurance, +10% scope stability
-Speciality_0_Skill_5_Level_2 +10% swim speed, +100% oxygen endurance, +20% scope stability
-Speciality_0_Skill_5_Level_3 +15% swim speed, +150% oxygen endurance, +30% scope stability
-Speciality_0_Skill_5_Level_4 +20% swim speed, +200% oxygen endurance, +40% scope stability 
-Speciality_0_Skill_5_Level_5 +25% swim speed, +250% oxygen endurance, +50% scope stability
-Speciality_0_Skill_6 Parkour
-Speciality_0_Skill_6_Tooltip Jump higher with less stamina.
-Speciality_0_Skill_6_Level_1 +5% jump height, +10% jump endurance
-Speciality_0_Skill_6_Level_2 +10% jump height, +20% jump endurance
-Speciality_0_Skill_6_Level_3 +15% jump height, +30% jump endurance
-Speciality_0_Skill_6_Level_4 +20% jump height, +40% jump endurance
-Speciality_0_Skill_6_Level_5 +25% jump height, +50% jump endurance
+Speciality_0_Skill_0 力量
+Speciality_0_Skill_0_Tooltip 提高拳击/近战伤害.
+Speciality_0_Skill_0_Level_1 提高 +7% 拳击/近战伤害
+Speciality_0_Skill_0_Level_2 提高 +14% 拳击/近战伤害
+Speciality_0_Skill_0_Level_3 提高 +21% 拳击/近战伤害
+Speciality_0_Skill_0_Level_4 提高 +29% 拳击/近战伤害
+Speciality_0_Skill_0_Level_5 提高 +36% 拳击/近战伤害
+Speciality_0_Skill_0_Level_6 提高 +43% 拳击/近战伤害
+Speciality_0_Skill_0_Level_7 提高 +50% 拳击/近战伤害
+Speciality_0_Skill_1 射击
+Speciality_0_Skill_1_Tooltip 提高射击稳定性/精准度.
+Speciality_0_Skill_1_Level_1 提高 +7% 射击稳定性/精准度
+Speciality_0_Skill_1_Level_2 提高 +14% 射击稳定性/精准度
+Speciality_0_Skill_1_Level_3 提高 +21% 射击稳定性/精准度
+Speciality_0_Skill_1_Level_4 提高 +29% 射击稳定性/精准度
+Speciality_0_Skill_1_Level_5 提高 +36% 射击稳定性/精准度
+Speciality_0_Skill_1_Level_6 提高 +43% 射击稳定性/精准度
+Speciality_0_Skill_1_Level_7 提高 +50% 射击稳定性/精准度
+Speciality_0_Skill_2 敏捷
+Speciality_0_Skill_2_Tooltip 加快装填弹药/锤击速度.
+Speciality_0_Skill_2_Level_1 加快 +10% 装填弹药/锤击速度
+Speciality_0_Skill_2_Level_2 加快 +20% 装填弹药/锤击速度
+Speciality_0_Skill_2_Level_3 加快 +30% 装填弹药/锤击速度
+Speciality_0_Skill_2_Level_4 加快 +40% 装填弹药/锤击速度
+Speciality_0_Skill_2_Level_5 加快 +50% 装填弹药/锤击速度
+Speciality_0_Skill_3 体能
+Speciality_0_Skill_3_Tooltip 加快体力/氧气恢复速度.
+Speciality_0_Skill_3_Level_1 加快 +10% 体力/氧气恢复速度
+Speciality_0_Skill_3_Level_2 加快 +20% 体力/氧气恢复速度
+Speciality_0_Skill_3_Level_3 加快 +30% 体力/氧气恢复速度
+Speciality_0_Skill_3_Level_4 加快 +40% 体力/氧气恢复速度
+Speciality_0_Skill_3_Level_5 加快 +50% 体力/氧气恢复速度
+Speciality_0_Skill_4 速度
+Speciality_0_Skill_4_Tooltip 跑得更快降低体力消耗.
+Speciality_0_Skill_4_Level_1 加快 +5% 移动速度 | 降低 -50% 体力消耗
+Speciality_0_Skill_4_Level_2 加快 +10% 移动速度 | 降低 -100% 体力消耗
+Speciality_0_Skill_4_Level_3 加快 +15% 移动速度 | 降低 -150% 体力消耗
+Speciality_0_Skill_4_Level_4 加快 +20% 移动速度 | 降低 -200% 体力消耗
+Speciality_0_Skill_4_Level_5 加快 +25% 移动速度 | 降低 -250% 体力消耗
+Speciality_0_Skill_5 潜泳
+Speciality_0_Skill_5_Tooltip 游得更快并降低潜泳和屏息的氧气消耗.
+Speciality_0_Skill_5_Level_1 加快 +5% 潜泳速度 | 降低 -50% 潜泳氧气消耗 | 降低 -10% 屏息氧气消耗
+Speciality_0_Skill_5_Level_2 加快 +10% 潜泳速度 | 降低 -100% 潜泳氧气消耗 | 降低 -20% 屏息氧气消耗
+Speciality_0_Skill_5_Level_3 加快 +15% 潜泳速度 | 降低 -150% 潜泳氧气消耗 | 降低 -30% 屏息氧气消耗
+Speciality_0_Skill_5_Level_4 加快 +20% 潜泳速度 | 降低 -200% 潜泳氧气消耗 | 降低 -40% 屏息氧气消耗
+Speciality_0_Skill_5_Level_5 加快 +25% 潜泳速度 | 降低 -250% 潜泳氧气消耗 | 降低 -50% 屏息氧气消耗
+Speciality_0_Skill_6 跳跃
+Speciality_0_Skill_6_Tooltip 跳得更高并降低体力消耗.
+Speciality_0_Skill_6_Level_1 增加 +5% 跳跃高度 | 降低 -10% 跳跃体力消耗
+Speciality_0_Skill_6_Level_2 增加 +10% 跳跃高度 | 降低 -20% 跳跃体力消耗
+Speciality_0_Skill_6_Level_3 增加 +15% 跳跃高度 | 降低 -30% 跳跃体力消耗
+Speciality_0_Skill_6_Level_4 增加 +20% 跳跃高度 | 降低 -40% 跳跃体力消耗
+Speciality_0_Skill_6_Level_5 增加 +25% 跳跃高度 | 降低 -50% 跳跃体力消耗
 
-Speciality_1_Skill_0 Sneakybeaky
-Speciality_1_Skill_0_Tooltip Move quietly and alert less zombies when crouched or prone.
-Speciality_1_Skill_0_Level_1 +11% stealth
-Speciality_1_Skill_0_Level_2 +21% stealth
-Speciality_1_Skill_0_Level_3 +32% stealth
-Speciality_1_Skill_0_Level_4 +43% stealth
-Speciality_1_Skill_0_Level_5 +54% stealth
-Speciality_1_Skill_0_Level_6 +64% stealth 
-Speciality_1_Skill_0_Level_7 +75% stealth
-Speciality_1_Skill_1 Vitality
-Speciality_1_Skill_1_Tooltip Quicker health regeneration with full food and water.
-Speciality_1_Skill_1_Level_1 +10% regeneration speed
-Speciality_1_Skill_1_Level_2 +20% regeneration speed
-Speciality_1_Skill_1_Level_3 +30% regeneration speed
-Speciality_1_Skill_1_Level_4 +40% regeneration speed
-Speciality_1_Skill_1_Level_5 +50% regeneration speed
-Speciality_1_Skill_2 Immunity
-Speciality_1_Skill_2_Tooltip Immune to bacteria, zombies and hallucinogens.
-Speciality_1_Skill_2_Level_1 +10% virus endurance
-Speciality_1_Skill_2_Level_2 +20% virus endurance
-Speciality_1_Skill_2_Level_3 +30% virus endurance
-Speciality_1_Skill_2_Level_4 +40% virus endurance 
-Speciality_1_Skill_2_Level_5 +50% virus endurance
-Speciality_1_Skill_3 Toughness
-Speciality_1_Skill_3_Tooltip Less flinching and pain effects.
-Speciality_1_Skill_3_Level_1 +15% flinch/grayscale endurance
-Speciality_1_Skill_3_Level_2 +30% flinch/grayscale endurance
-Speciality_1_Skill_3_Level_3 +45% flinch/grayscale endurance
-Speciality_1_Skill_3_Level_4 +60% flinch/grayscale endurance
-Speciality_1_Skill_3_Level_5 +75% flinch/grayscale endurance
-Speciality_1_Skill_4 Strength
-Speciality_1_Skill_4_Tooltip Quicker bleeding and bone healing, less fall damage.
-Speciality_1_Skill_4_Level_1 +10% bleeding/bone speed, +15% fall damage endurance 
-Speciality_1_Skill_4_Level_2 +20% bleeding/bone speed, +30% fall damage endurance 
-Speciality_1_Skill_4_Level_3 +30% bleeding/bone speed, +45% fall damage endurance
-Speciality_1_Skill_4_Level_4 +40% bleeding/bone speed, +60% fall damage endurance
-Speciality_1_Skill_4_Level_5 +50% bleeding/bone speed, +75% fall damage endurance
-Speciality_1_Skill_5 Warmblooded
-Speciality_1_Skill_5_Tooltip Protected from the cold, use less calories warming up.
-Speciality_1_Skill_5_Level_1 +20% freezing endurance
-Speciality_1_Skill_5_Level_2 +40% freezing endurance
-Speciality_1_Skill_5_Level_3 +60% freezing endurance
-Speciality_1_Skill_5_Level_4 +80% freezing endurance
-Speciality_1_Skill_5_Level_5 +100% freezing endurance
-Speciality_1_Skill_6 Survival
-Speciality_1_Skill_6_Tooltip Use less food and water.
-Speciality_1_Skill_6_Level_1 +5% food/water endurance
-Speciality_1_Skill_6_Level_2 +10% food/water endurance 
-Speciality_1_Skill_6_Level_3 +15% food/water endurance
-Speciality_1_Skill_6_Level_4 +20% food/water endurance
-Speciality_1_Skill_6_Level_5 +25% food/water endurance
+Speciality_1_Skill_0 潜行
+Speciality_1_Skill_0_Tooltip 移动更安静并在蹲伏或卧伏时使更少的僵尸察觉
+Speciality_1_Skill_0_Level_1 提升 +11% 潜行能力
+Speciality_1_Skill_0_Level_2 提升 +21% 潜行能力
+Speciality_1_Skill_0_Level_3 提升 +32% 潜行能力
+Speciality_1_Skill_0_Level_4 提升 +43% 潜行能力
+Speciality_1_Skill_0_Level_5 提升 +54% 潜行能力
+Speciality_1_Skill_0_Level_6 提升 +64% 潜行能力
+Speciality_1_Skill_0_Level_7 提升 +75% 潜行能力
+Speciality_1_Skill_1 生命
+Speciality_1_Skill_1_Tooltip 饥饿值和口渴值满时能够快速回复生命值.
+Speciality_1_Skill_1_Level_1 加快 +10% 回复速度
+Speciality_1_Skill_1_Level_2 加快 +20% 回复速度
+Speciality_1_Skill_1_Level_3 加快 +30% 回复速度
+Speciality_1_Skill_1_Level_4 加快 +40% 回复速度
+Speciality_1_Skill_1_Level_5 加快 +50% 回复速度
+Speciality_1_Skill_2 免疫
+Speciality_1_Skill_2_Tooltip 提高对细菌,僵尸和致幻剂的免疫能力.
+Speciality_1_Skill_2_Level_1 提高 +10% 免疫能力.
+Speciality_1_Skill_2_Level_2 提高 +20% 免疫能力.
+Speciality_1_Skill_2_Level_3 提高 +30% 免疫能力.
+Speciality_1_Skill_2_Level_4 提高 +40% 免疫能力.
+Speciality_1_Skill_2_Level_5 提高 +50% 免疫能力.
+Speciality_1_Skill_3 韧性
+Speciality_1_Skill_3_Tooltip 降低重伤画面抖动和画面变灰的影响.
+Speciality_1_Skill_3_Level_1 降低 -15% 重伤画面抖动/画面变灰效果
+Speciality_1_Skill_3_Level_2 降低 -30% 重伤画面抖动/画面变灰效果
+Speciality_1_Skill_3_Level_3 降低 -45% 重伤画面抖动/画面变灰效果
+Speciality_1_Skill_3_Level_4 降低 -60% 重伤画面抖动/画面变灰效果
+Speciality_1_Skill_3_Level_5 降低 -75% 重伤画面抖动/画面变灰效果
+Speciality_1_Skill_4 强壮
+Speciality_1_Skill_4_Tooltip 提高流血和骨折快速自愈速度并降低摔落伤害
+Speciality_1_Skill_4_Level_1 提高 +10% 流血/骨折自愈速度 | 降低 -15% 摔落伤害
+Speciality_1_Skill_4_Level_2 提高 +20% 流血/骨折自愈速度 | 降低 -30% 摔落伤害
+Speciality_1_Skill_4_Level_3 提高 +30% 流血/骨折自愈速度 | 降低 -45% 摔落伤害
+Speciality_1_Skill_4_Level_4 提高 +40% 流血/骨折自愈速度 | 降低 -60% 摔落伤害
+Speciality_1_Skill_4_Level_5 提高 +50% 流血/骨折自愈速度 | 降低 -75% 摔落伤害
+Speciality_1_Skill_5 御寒
+Speciality_1_Skill_5_Tooltip 提高抵御寒冷的能力并降低回复体温的卡路里消耗.
+Speciality_1_Skill_5_Level_1 提高 +20% 御寒能力
+Speciality_1_Skill_5_Level_2 提高 +40% 御寒能力
+Speciality_1_Skill_5_Level_3 提高 +60% 御寒能力
+Speciality_1_Skill_5_Level_4 提高 +80% 御寒能力
+Speciality_1_Skill_5_Level_5 提高 +100% 御寒能力
+Speciality_1_Skill_6 生存
+Speciality_1_Skill_6_Tooltip 降低饥饿值和口渴值消耗.
+Speciality_1_Skill_6_Level_1 降低 -5% 饥饿值/口渴值消耗
+Speciality_1_Skill_6_Level_2 降低 -10% 饥饿值/口渴值消耗
+Speciality_1_Skill_6_Level_3 降低 -15% 饥饿值/口渴值消耗
+Speciality_1_Skill_6_Level_4 降低 -20% 饥饿值/口渴值消耗
+Speciality_1_Skill_6_Level_5 降低 -25% 饥饿值/口渴值消耗
 
-Speciality_2_Skill_0 Healing
-Speciality_2_Skill_0_Tooltip Use healing items more efficiently.
-Speciality_2_Skill_0_Level_1 +7% healing
-Speciality_2_Skill_0_Level_2 +14% healing
-Speciality_2_Skill_0_Level_3 +21% healing
-Speciality_2_Skill_0_Level_4 +29% healing
-Speciality_2_Skill_0_Level_5 +36% healing
-Speciality_2_Skill_0_Level_6 +43% healing
-Speciality_2_Skill_0_Level_7 +50% healing
-Speciality_2_Skill_1 Crafting
-Speciality_2_Skill_1_Tooltip Think up more advanced blueprints.
-Speciality_2_Skill_1_Level_1 Makeshift items
-Speciality_2_Skill_1_Level_2 Makeshift items, basic buildables
-Speciality_2_Skill_1_Level_3 Makeshift items, basic buildables, complex barricades
-Speciality_2_Skill_2 Outdoors
-Speciality_2_Skill_2_Tooltip Chop down trees faster.
-Speciality_2_Skill_2_Level_1 +10% resource damage
-Speciality_2_Skill_2_Level_2 +20% resource damage
-Speciality_2_Skill_2_Level_3 +30% resource damage
-Speciality_2_Skill_2_Level_4 +40% resource damage
-Speciality_2_Skill_2_Level_5 +50% resource damage
-Speciality_2_Skill_3 Cooking
-Speciality_2_Skill_3_Tooltip Prepare high quality food.
-Speciality_2_Skill_3_Level_1 Ingredients
-Speciality_2_Skill_3_Level_2 Ingredients, snack meals
-Speciality_2_Skill_3_Level_3 Ingredients, snack meals, formal meals
-Speciality_2_Skill_4 Fishing
-Speciality_2_Skill_4_Tooltip Catch fish more efishiently.
-Speciality_2_Skill_4_Level_1 +20% reaction time
-Speciality_2_Skill_4_Level_2 +40% reaction time
-Speciality_2_Skill_4_Level_3 +60% reaction time
-Speciality_2_Skill_4_Level_4 +80% reaction time
-Speciality_2_Skill_4_Level_5 +100% reaction time
-Speciality_2_Skill_5 Agriculture
-Speciality_2_Skill_5_Tooltip Harvest crops and plants more efficiently. 
-Speciality_2_Skill_5_Level_1 14% harvest chance, +3% harvest speed
-Speciality_2_Skill_5_Level_2 29% harvest chance, +7% harvest speed
-Speciality_2_Skill_5_Level_3 43% harvest chance, +10% harvest speed
-Speciality_2_Skill_5_Level_4 57% harvest chance, +14% harvest speed
-Speciality_2_Skill_5_Level_5 71% harvest chance, +18% harvest speed
-Speciality_2_Skill_5_Level_6 86% harvest chance, +21% harvest speed
-Speciality_2_Skill_5_Level_7 100% harvest chance, +25% harvest speed   
-Speciality_2_Skill_6 Mechanic
-Speciality_2_Skill_6_Tooltip Repair bases and vehicles more efficiently.
-Speciality_2_Skill_6_Level_1 +20% repair speed
-Speciality_2_Skill_6_Level_2 +40% repair speed
-Speciality_2_Skill_6_Level_3 +60% repair speed
-Speciality_2_Skill_6_Level_4 +80% repair speed
-Speciality_2_Skill_6_Level_5 +100% repair speed
-Speciality_2_Skill_7 Engineer
-Speciality_2_Skill_7_Tooltip Maintain more advanced blueprints.
-Speciality_2_Skill_7_Level_1 Makeshift items
-Speciality_2_Skill_7_Level_2 Makeshift items, basic items
-Speciality_2_Skill_7_Level_3 Makeshift items, basic items, complex items
+Speciality_2_Skill_0 治疗
+Speciality_2_Skill_0_Tooltip 提升医疗物品的治疗效果.
+Speciality_2_Skill_0_Level_1 提升 +7% 治疗效果
+Speciality_2_Skill_0_Level_2 提升 +14% 治疗效果
+Speciality_2_Skill_0_Level_3 提升 +21% 治疗效果
+Speciality_2_Skill_0_Level_4 提升 +29% 治疗效果
+Speciality_2_Skill_0_Level_5 提升 +36% 治疗效果
+Speciality_2_Skill_0_Level_6 提升 +43% 治疗效果
+Speciality_2_Skill_0_Level_7 提升 +50% 治疗效果
+Speciality_2_Skill_1 制作
+Speciality_2_Skill_1_Tooltip 学习更高级的合成蓝图.
+Speciality_2_Skill_1_Level_1 临时自制物品蓝图
+Speciality_2_Skill_1_Level_2 临时自制物品蓝图 | 基础物品蓝图
+Speciality_2_Skill_1_Level_3 临时自制物品蓝图 | 基础物品蓝图 | 高级物品蓝图
+Speciality_2_Skill_2 伐木
+Speciality_2_Skill_2_Tooltip 提高伐木和开采矿物的效率.
+Speciality_2_Skill_2_Level_1 提高 +10% 资源开采效率
+Speciality_2_Skill_2_Level_2 提高 +20% 资源开采效率
+Speciality_2_Skill_2_Level_3 提高 +30% 资源开采效率
+Speciality_2_Skill_2_Level_4 提高 +40% 资源开采效率
+Speciality_2_Skill_2_Level_5 提高 +50% 资源开采效率
+Speciality_2_Skill_3 烹饪
+Speciality_2_Skill_3_Tooltip 学习更美味的烹饪方式.
+Speciality_2_Skill_3_Level_1 将食物烤熟
+Speciality_2_Skill_3_Level_2 将食物烤熟 | 制作快餐
+Speciality_2_Skill_3_Level_3 将食物烤熟 | 制作快餐 | 制作正餐
+Speciality_2_Skill_4 钓鱼
+Speciality_2_Skill_4_Tooltip 减少钓鱼的反应时间.
+Speciality_2_Skill_4_Level_1 减少 -20% 反应时间
+Speciality_2_Skill_4_Level_2 减少 -40% 反应时间
+Speciality_2_Skill_4_Level_3 减少 -60% 反应时间
+Speciality_2_Skill_4_Level_4 减少 -80% 反应时间
+Speciality_2_Skill_4_Level_5 减少 -100% 反应时间
+Speciality_2_Skill_5 耕种
+Speciality_2_Skill_5_Tooltip 提高收获作物和种植的效率.
+Speciality_2_Skill_5_Level_1 提高 +14% 收获作物概率 | 加快 +3% 收获作物速度
+Speciality_2_Skill_5_Level_2 提高 +29% 收获作物概率 | 加快 +7% 收获作物速度
+Speciality_2_Skill_5_Level_3 提高 +43% 收获作物概率 | 加快 +10% 收获作物速度
+Speciality_2_Skill_5_Level_4 提高 +57% 收获作物概率 | 加快 +14% 收获作物速度
+Speciality_2_Skill_5_Level_5 提高 +71% 收获作物概率 | 加快 +18% 收获作物速度
+Speciality_2_Skill_5_Level_6 提高 +86% 收获作物概率 | 加快 +21% 收获作物速度
+Speciality_2_Skill_5_Level_7 提高 +100% 收获作物概率 | 加快 +25% 收获作物速度
+Speciality_2_Skill_6 维修
+Speciality_2_Skill_6_Tooltip 加快基地和载具维修效率.
+Speciality_2_Skill_6_Level_1 加快 +20% 维修速度
+Speciality_2_Skill_6_Level_2 加快 +40% 维修速度
+Speciality_2_Skill_6_Level_3 加快 +60% 维修速度
+Speciality_2_Skill_6_Level_4 加快 +80% 维修速度
+Speciality_2_Skill_6_Level_5 加快 +100% 维修速度
+Speciality_2_Skill_7 机械
+Speciality_2_Skill_7_Tooltip 学习更高级的维修技巧.
+Speciality_2_Skill_7_Level_1 临时自制物品
+Speciality_2_Skill_7_Level_2 临时自制物品 | 基础物品
+Speciality_2_Skill_7_Level_3 临时自制物品 | 基础物品 | 高级物品
 
-Boost_0 Random Boost
-Boost_0_Tooltip Pick random boost.
-Boost_1 Hardened
-Boost_1_Tooltip Reduced damage from zombies.
-Boost_1_Bonus +25% zombie damage endurance
-Boost_2 Splatterific
-Boost_2_Tooltip Extra blood splatter decals.
-Boost_2_Bonus +700% blood
-Boost_3 Flight
-Boost_3_Tooltip Ragdolls and carjacks gain extra velocity.
-Boost_3_Bonus +700% ragdoll/carjack velocity
-Boost_4 Olympic
-Boost_4_Tooltip Throw objects further.
-Boost_4_Bonus +100% thrown velocity
+Boost_0 随机技能
+Boost_0_Tooltip 随机被动技能.
+Boost_1 硬化
+Boost_1_Tooltip 提升僵尸伤害承受能力.
+Boost_1_Bonus 提升 +25% 僵尸伤害承受能力
+Boost_2 血腥
+Boost_2_Tooltip 增加额外的血液喷溅效果.
+Boost_2_Bonus 增加 +700% 血液喷溅效果
+Boost_3 冲击
+Boost_3_Tooltip 增加额外的生物实体受到攻击和载具受到千斤顶冲击时的击飞速度.
+Boost_3_Bonus 增加 +700% 攻击生物实体/载具千斤顶冲击飞行速度
+Boost_4 投掷
+Boost_4_Tooltip 增加投掷物品的距离.
+Boost_4_Bonus 加快 +100% 投掷物品速度
 
 Skill {0} [{1}]
-Bonus_Current Current Level: {0} 
-Bonus_Next Next Level: {0} 
-Cost Upgrade Cost: {0}
-Full Maximum Level
-Experience Experience: {0}
+Bonus_Current 当前等级: {0} 
+Bonus_Next 下一等级: {0} 
+Cost 花费经验: {0}
+Full 最高等级
+Experience 当前经验: {0}
 
 Level_0 -
 Level_1 I

@@ -1,42 +1,42 @@
-Return_Button_Text Return
-Return_Button_Tooltip Return
-Options_Button_Text Options
-Options_Button_Tooltip Options
-Graphics_Button_Text Graphics
-Graphics_Button_Tooltip Graphics
-Display_Button_Text Display
-Display_Button_Tooltip Display
-Controls_Button_Text Controls
-Controls_Button_Tooltip Controls
-Exit_Button_Text Exit
-Exit_Button_Timer Exit [{0}]
-Exit_Button_Tooltip Return to main menu.
-Quit_Button Quit
-Quit_Button_Timer Quit [{0}]
-Quit_Button_Tooltip Exit to desktop.
-Suicide_Button_Text Suicide
-Suicide_Button_Tooltip Respawn somewhere else.
-Suicide_Button_Confirm Yes
-Suicide_Button_Confirm_Tooltip Die
-Suicide_Button_Deny No
-Suicide_Button_Deny_Tooltip Live
-Suicide_Disabled DISABLED
+Return_Button_Text 返回游戏
+Return_Button_Tooltip 返回游戏
+Options_Button_Text 基础选项
+Options_Button_Tooltip 基础选项
+Graphics_Button_Text 画面设置
+Graphics_Button_Tooltip 画面设置
+Display_Button_Text 显示设置
+Display_Button_Tooltip 显示设置
+Controls_Button_Text 控制设置
+Controls_Button_Tooltip 控制设置
+Exit_Button_Text 退出游戏
+Exit_Button_Timer 倒计时 [{0}]
+Exit_Button_Tooltip 退出至主菜单.
+Quit_Button 退出至桌面
+Quit_Button_Timer 倒计时 [{0}]
+Quit_Button_Tooltip 退出至桌面.
+Suicide_Button_Text 自杀
+Suicide_Button_Tooltip 随机地点重生.
+Suicide_Button_Confirm 是
+Suicide_Button_Confirm_Tooltip 死掉
+Suicide_Button_Deny 否
+Suicide_Button_Deny_Tooltip 活着
+Suicide_Disabled 禁止自杀
 
-Spy_Refresh_Button_Text Spy
-Spy_Refresh_Button_Tooltip Refresh
-Spy_Slay_Button_Text Slay
-Spy_Slay_Button_Tooltip Kill + Permanent Ban
+Spy_Refresh_Button_Text 监视
+Spy_Refresh_Button_Tooltip 刷新
+Spy_Slay_Button_Text 封禁
+Spy_Slay_Button_Tooltip 杀死并永久封禁
 
-Server_WithVersion {0} v{1} on {2} [{3}]
-VAC_Secure VAC Secure
-VAC_Insecure VAC Insecure
-BattlEye_Secure BattlEye Required
-BattlEye_Insecure BattlEye Disabled
-Streamer Streamer Mode
+Server_WithVersion {0} v{1} ... [{3}] | {2}
+VAC_Secure VAC 安全
+VAC_Insecure VAC 不安全
+BattlEye_Secure 战眼已启用
+BattlEye_Insecure 战眼已禁用
+Streamer 主播(Streamer) 模式
 
-Favorite_On_Button_Text Favorite
-Favorite_Off_Button_Text Unfavorite
-Favorite_Button_Tooltip Favorite/Unfavorite
+Favorite_On_Button_Text 收藏
+Favorite_Off_Button_Text 取消收藏
+Favorite_Button_Tooltip 收藏/取消收藏
 
-Quicksave_Button Quicksave
-Quicksave_Button_Tooltip Manually Save (Note that the game does autosave during exit.)
+Quicksave_Button 快速保存
+Quicksave_Button_Tooltip 手动保存游戏进度 (游戏在退出时会自动保存)

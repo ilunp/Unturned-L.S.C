@@ -1,23 +1,23 @@
-Type_0_Tooltip Tools
-Type_1_Tooltip Apparel
-Type_2_Tooltip Supplies
-Type_3_Tooltip Gear
-Type_4_Tooltip Ammunition
-Type_5_Tooltip Barricades
-Type_6_Tooltip Structures
-Type_7_Tooltip Utilities
-Type_8_Tooltip Furniture
-Type_9_Tooltip Repair
+Type_0_Tooltip 工具
+Type_1_Tooltip 服装
+Type_2_Tooltip 补给
+Type_3_Tooltip 装备
+Type_4_Tooltip 弹药
+Type_5_Tooltip 路障
+Type_6_Tooltip 结构
+Type_7_Tooltip 公共
+Type_8_Tooltip 家具
+Type_9_Tooltip 修复
 
-Skill_1 Requires Crafting {0}
-Skill_2 Requires Cooking {0} + Heat
-Skill_3 Requires Engineer {0}
+Skill_1 需要 {0} 级制作技能
+Skill_2 需要 {0} 级烹饪技能 + 靠近热源(篝火)
+Skill_3 需要 {0} 级工程师技能
 
-Search_Field_Hint Blueprint Name Filter
-Search Search
-Search_Tooltip Search
-Hide_Uncraftable_Toggle_Label Hide Uncraftable Blueprints
-No_Blueprints No blueprints available matching these filters.
+Search_Field_Hint 蓝图名称筛选器
+Search 搜索
+Search_Tooltip 搜索
+Hide_Uncraftable_Toggle_Label 隐藏不可用蓝图
+No_Blueprints 无可用蓝图.
 
-Craft Craft
-Craft_All Craft All
+Craft 合成
+Craft_All 全部合成

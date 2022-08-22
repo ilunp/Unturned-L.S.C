@@ -1,82 +1,82 @@
-Zoom_In_Button Zoom In
-Zoom_In_Button_Tooltip Scale Up
+Zoom_In_Button 放大
+Zoom_In_Button_Tooltip 放大
 
-Zoom_Out_Button Zoom Out
-Zoom_Out_Button_Tooltip Scale Down
+Zoom_Out_Button 缩小
+Zoom_Out_Button_Tooltip 缩小
 
-Center_Button Center
-Center_Button_Tooltip Focus Player
+Center_Button 中心
+Center_Button_Tooltip 定位玩家
 
-Chart Chart
-Satellite Satellite
+Chart 地图
+Satellite 卫星
 
-Quests Quests: {0}
-Quests_Tooltip View Quest List
-Groups Groups
-Groups_Tooltip View Groups List
-Players Players: {0}/{1}
-Players_Tooltip View Player List
+Quests 任务: {0}
+Quests_Tooltip 查看任务列表
+Groups 群组
+Groups_Tooltip 查看群组列表
+Players 玩家: {0}/{1}
+Players_Tooltip 查看玩家列表
 
-Group_Members Members: {0}/{1}
-Group_Rename Rename
-Group_Rename_Tooltip Submit New Name
-Group_Leave Leave
-Group_Leave_Tooltip Quit Group
-Group_Delete Delete
-Group_Delete_Tooltip Destroy Group, Kick All Members
-Group_Delete_Confirm Destroy
-Group_Delete_Confirm_Tooltip Abandon Group, Kick All Members
-Group_Delete_Deny Cancel
-Group_Delete_Deny_Tooltip Keep Group
-Group_Join Join
-Group_Join_Tooltip Accept Invite
-Group_Ignore Ignore
-Group_Ignore_Tooltip Cancel Invite
-Group_Create Create New Group
-Group_Create_Tooltip Become Group Owner
-Group_Promote Promote
-Group_Promote_Tooltip Rank++
-Group_Demote Demote
-Group_Demote_Tooltip Rank--
+Group_Members 成员: {0}/{1}
+Group_Rename 更改名称
+Group_Rename_Tooltip 提交名称
+Group_Leave 离开群组
+Group_Leave_Tooltip 退出群组
+Group_Delete 删除群组
+Group_Delete_Tooltip 删除群组并踢出所有群组成员
+Group_Delete_Confirm 确认
+Group_Delete_Confirm_Tooltip 放弃群组并踢出所有群组成员
+Group_Delete_Deny 取消
+Group_Delete_Deny_Tooltip 保留群组
+Group_Join 加入
+Group_Join_Tooltip 接受邀请
+Group_Ignore 忽略
+Group_Ignore_Tooltip 拒绝邀请
+Group_Create 创建群组
+Group_Create_Tooltip 成为群组所有者
+Group_Promote 提升职务
+Group_Promote_Tooltip 权限++
+Group_Demote 降低职务
+Group_Demote_Tooltip 权限--
 
-Radio_Frequency_Label Radio Frequency:
-Radio_Frequency_Tune Tune
-Radio_Frequency_Tune_Tooltip Adjust Frequency
-Radio_Frequency_Reset Reset
-Radio_Frequency_Reset_Tooltip Default Frequency
+Radio_Frequency_Label 无线电频率:
+Radio_Frequency_Tune 调谐
+Radio_Frequency_Tune_Tooltip 调谐频率
+Radio_Frequency_Reset 重置
+Radio_Frequency_Reset_Tooltip 默认频率
 
-Group_Rank_Member Member
-Group_Rank_Admin Admin
-Group_Rank_Owner Owner
+Group_Rank_Member 成员
+Group_Rank_Admin 管理员
+Group_Rank_Owner 所有者
 
-Streamer Streamer Mode
-Mute_On Mute
-Mute_Off Unmute
-Mute_Tooltip Mute/Unmute
-Vote_Kick Kick
-Vote_Kick_Tooltip Call Kick Vote
-Group_Kick Kick
-Group_Kick_Tooltip Remove Member
-Group_Invite Invite
-Group_Invite_Tooltip Send Group Invite
-Spy Spy
-Spy_Tooltip Screenshot
+Streamer 主播(Streamer) 模式
+Mute_On 静音
+Mute_Off 取消静音
+Mute_Tooltip 静音/取消静音
+Vote_Kick 踢出玩家
+Vote_Kick_Tooltip 投票踢出
+Group_Kick 踢出成员
+Group_Kick_Tooltip 移除成员
+Group_Invite 邀请
+Group_Invite_Tooltip 发送群组邀请
+Spy 监视
+Spy_Tooltip 捕获玩家游戏画面
 
-SortPlayers_Name Sorting by Name A-Z
-SortPlayers_Group Sorting by Group
+SortPlayers_Name 按名称排序 (A-Z)
+SortPlayers_Group 按组排序
 
-No_Chart No Chart Found
-No_GPS No GPS Found
+No_Chart 没有地图
+No_GPS 没有GPS
 
 Rep {0} [{1}]
-Rep_Neutral Neutral
-Rep_Vigilante Vigilante
-Rep_Constable Constable
-Rep_Deputy Deputy
-Rep_Sheriff Sheriff
-Rep_Paragon Paragon
-Rep_Thug Thug
-Rep_Outlaw Outlaw
-Rep_Gangster Gangster
-Rep_Bandit Bandit
-Rep_Villain Villain
+Rep_Neutral 中立
+Rep_Vigilante 义务警员
+Rep_Constable 高级警员
+Rep_Deputy 副警长
+Rep_Sheriff 警长
+Rep_Paragon 楷模
+Rep_Thug 罪犯
+Rep_Outlaw 逃犯
+Rep_Gangster 歹徒
+Rep_Bandit 盗匪
+Rep_Villain 恶棍

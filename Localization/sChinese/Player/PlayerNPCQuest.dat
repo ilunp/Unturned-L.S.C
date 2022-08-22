@@ -1,35 +1,35 @@
-Conditions Goals:
-Rewards Rewards:
+Conditions 目标:
+Rewards 奖励:
 
-Condition_Experience {0}/{1} Experience
-Condition_Reputation {0}/{1} Reputation
+Condition_Experience 经验 {0}/{1}
+Condition_Reputation 声望 {0}/{1}
 Condition_Item {0}/{1} {2}
-Condition_Currency {0} Currency
+Condition_Currency 货币 {0}
 
-Condition_AnimalKills {0}/{1} Animal Kills
-Condition_HordeKills {0}/{1} Horde Kills
-Condition_ObjectKills {0}/{1} Object Kills
-Condition_PlayerKills {0}/{1} Player Kills
+Condition_AnimalKills 击杀动物 {0}/{1}
+Condition_HordeKills 击退尸潮 {0}/{1}
+Condition_ObjectKills 破坏对象 {0}/{1}
+Condition_PlayerKills 击杀玩家 {0}/{1}
 Condition_TreeKills {0}/{1} {2}
-Condition_ZombieKills {0}/{1} Zombie Kills
+Condition_ZombieKills 击杀僵尸 {0}/{1}
 
-Reward_Experience {0} Experience
-Reward_Reputation {0} Reputation
+Reward_Experience 经验 {0}
+Reward_Reputation 声望 {0}
 Reward_Item {1} x{0}
-Reward_Item_Random Random Item x{0}
+Reward_Item_Random 随机物品 x{0}
 Reward_Vehicle {0} x1
-Reward_Currency {0} Currency
+Reward_Currency 货币 {0}
 
-Accept Accept
-Accept_Tooltip Take Quest
-Decline Decline
-Decline_Tooltip Ignore Quest
-Continue Continue
-Continue_Tooltip Complete Quest
-Track_On Track
-Track_Off Untrack
-Track_Tooltip Pin/Unpin Details
-Abandon Abandon
-Abandon_Tooltip Dismiss Quest
-Return Return
-Return_Tooltip Exit Quest
+Accept 接受
+Accept_Tooltip 接受任务
+Decline 拒绝
+Decline_Tooltip 拒绝任务
+Continue 提交
+Continue_Tooltip 提交任务
+Track_On 跟踪任务
+Track_Off 取消跟踪任务
+Track_Tooltip 固定/取消固定 任务详情
+Abandon 放弃
+Abandon_Tooltip 放弃任务
+Return 退出
+Return_Tooltip 退出任务界面

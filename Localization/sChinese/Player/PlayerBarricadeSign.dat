@@ -1,4 +1,4 @@
-Yes_Button Write
-Yes_Button_Tooltip Save Changes
-No_Button Cancel
-No_Button_Tooltip Erase Changes
+Yes_Button 提交
+Yes_Button_Tooltip 保存更改
+No_Button 取消
+No_Button_Tooltip 撤销更改

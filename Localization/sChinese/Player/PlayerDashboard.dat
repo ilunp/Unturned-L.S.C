@@ -1,10 +1,10 @@
-Inventory Inventory [{0}]
-Inventory_Tooltip Inventory
-Crafting Craft [{0}]
-Crafting_Tooltip Craft
-Skills Skills [{0}]
-Skills_Tooltip Skills
-Information Information [{0}]
-Information_Tooltip Information
+Inventory 物品栏 [{0}]
+Inventory_Tooltip 物品/背包
+Crafting 制作栏 [{0}]
+Crafting_Tooltip 合成/拆分
+Skills 技能栏 [{0}]
+Skills_Tooltip 技能/经验
+Information 信息栏 [{0}]
+Information_Tooltip 地图/信息
 
-Crafting_Disabled DISABLED
+Crafting_Disabled 禁用

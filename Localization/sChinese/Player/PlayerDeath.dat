@@ -1,42 +1,42 @@
-Home_Button Home
-Home_Button_Timer Home [{0}]
-Home_Button_Tooltip Respawn at a claimed bed.
-Respawn_Button Respawn
-Respawn_Button_Timer Respawn [{0}]
-Respawn_Button_Tooltip Respawn at a spawn point.
+Home_Button 回家
+Home_Button_Timer 回家 [{0}]
+Home_Button_Tooltip 重生到绑定的床.
+Respawn_Button 重生
+Respawn_Button_Timer 重生 [{0}]
+Respawn_Button_Tooltip 重生到出生点.
 
-Leg leg
-Arm arm
-Spine torso
-Skull head
+Leg 腿部
+Arm 胳膊
+Spine 身躯
+Skull 头部
 
-Bleeding You bled to death!
-Bones You fractured to death!
-Freezing You froze to death!
-Burning You burned to death!
-Food You starved to death!
-Water You dehydrated to death!
+Bleeding 你因失血而亡!
+Bones 你因骨折疼死了!
+Freezing 你被活活冻死了!
+Burning 你被火焰烧死了!
+Food 你被活活饿死了!
+Water 你被活活渴死了!
 Gun You were shot in the {0} by {1} [{2}]!
 Melee You were chopped in the {0} by {1} [{2}]!
-Zombie You were mauled by a zombie!
-Animal You were mauled by an animal!
-Suicide You died at your own hand. Everyone is disappointed.
-Kill You were killed by a server admin.
-Infection You were infected to death!
+Zombie 你被僵尸撕碎了!
+Animal 你被动物踩扁了!
+Suicide 你结束了自己的生命.(所有人都很失望)
+Kill 你被管理员杀死了.
+Infection 你被感染致死了!
 Punch You were punched in the {0} by {1} [{2}]!
-Breath You suffocated to death!
+Breath 你被活活憋死了!
 Roadkill You were roadkilled by {0} [{1}]!
-Vehicle You were blown up by a vehicle!
+Vehicle 你被载具炸死了!
 Grenade You were blown up by {0} [{1}] with a grenade!
-Shred You were shredded to bits!
-Landmine You were blown up by a landmine!
-Arena You were eliminated by the arena!
+Shred 你被铁刺网扎死了!
+Landmine 你被地雷炸死了!
+Arena 你被竞技场淘汰了!
 Missile You were blown up by {0} [{1}] with a missile!
 Charge You were blown up by {0} [{1}] with a remote detonator!
 Splash You were blown up by {0} [{1}] with an explosive bullet!
-Sentry You were shot by a sentry gun!
+Sentry 你被哨兵枪射死了!
 Acid You were blown up a zombie!
-Boulder You were crushed by a zombie!
-Burner You were burned by a zombie!
+Boulder 你被巨石砸扁了!
+Burner 你被烈火烧烤了!
 Spit You were dissolved by a zombie!
-Spark You were electrocuted by a zombie!
+Spark 你被电击治疗了!

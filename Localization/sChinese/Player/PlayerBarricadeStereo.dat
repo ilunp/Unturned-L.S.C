@@ -1,6 +1,6 @@
-Stop_Button Stop
-Stop_Button_Tooltip Pause Playback
-Close_Button Close
-Close_Button_Tooltip Hide
+Stop_Button 暂停
+Stop_Button_Tooltip 暂停播放
+Close_Button 关闭
+Close_Button_Tooltip 隐藏界面
 
-Volume_Slider_Label Volume: {0}%
+Volume_Slider_Label 音量: {0}%

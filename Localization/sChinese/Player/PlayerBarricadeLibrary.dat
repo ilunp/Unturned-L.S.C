@@ -1,17 +1,17 @@
 Capacity_Text {0}/{1}
-Capacity_Label Capacity
-Wallet_Label Available
-Amount_Label Amount
-Transaction_Label Transaction
-Tax_Label Tax
-Net_Label Net
+Capacity_Label 容量
+Wallet_Label 可用
+Amount_Label 数量
+Transaction_Label 交易操作
+Tax_Label 手续
+Net_Label 收入
 
-Deposit Deposit
-Deposit_Label Transfer To
-Withdraw Withdraw
-Withdraw_Label Withdraw From
+Deposit 转入经验
+Deposit_Label 将经验存入
+Withdraw 转出经验
+Withdraw_Label 将经验取出
 
-Yes_Button Transfer
-Yes_Button_Tooltip Save Changes
-No_Button Cancel
-No_Button_Tooltip Erase Changes
+Yes_Button 确定
+Yes_Button_Tooltip 确定操作
+No_Button 取消
+No_Button_Tooltip 取消操作

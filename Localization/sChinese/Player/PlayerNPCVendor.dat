@@ -1,11 +1,11 @@
-Experience Experience: {0}
-Return Return
-Return_Tooltip Exit Store
+Experience 经验: {0}
+Return 返回
+Return_Tooltip 退出购买
 
-Buying Buying:
-Selling Selling:
+Buying 购买:
+Selling 出售:
 
 Amount_Buy {0}/{1}
 Amount_Sell x{0}
-Price Price: {0}
-Cost Cost: {0}
+Price 价格: {0}
+Cost 费用: {0}

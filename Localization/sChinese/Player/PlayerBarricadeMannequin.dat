@@ -1,17 +1,17 @@
-Cosmetics_Button Apply Cosmetics
-Cosmetics_Button_Tooltip Display Cosmetics
-Add_Button Put Equipped [{0}]
-Add_Button_Tooltip Add From Hands
-Remove_Button Take Clothes [{0}]
-Remove_Button_Tooltip Remove From Mannequin
-Swap_Button Swap Clothes
-Swap_Button_Tooltip Exchange With Mannequin
-Pose_Button_Tooltip Adjust Stance
-Mirror_Button Mirror
-Mirror_Button_Tooltip Flip Stance
-Cancel_Button Cancel
-Cancel_Button_Tooltip No Changes
+Cosmetics_Button 应用装扮
+Cosmetics_Button_Tooltip 应用装扮
+Add_Button 穿上 [{0}]
+Add_Button_Tooltip 为模特穿上衣物
+Remove_Button 脱下 [{0}]
+Remove_Button_Tooltip 为模特脱下衣物
+Swap_Button 交换装扮
+Swap_Button_Tooltip 与模特交换装扮
+Pose_Button_Tooltip 调整姿态
+Mirror_Button 镜像
+Mirror_Button_Tooltip 翻转姿态
+Cancel_Button 取消
+Cancel_Button_Tooltip 取消更改
 
-T T-Pose
-Classic Classic Pose
-Lie Relaxed Pose
+T T型
+Classic 经典
+Lie 放松
