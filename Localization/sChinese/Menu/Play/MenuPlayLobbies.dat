@@ -1,6 +1,6 @@
-Members Members:
-Invite_Button Invite Friend
-Invite_Button_Tooltip Open Friend Overlay
-Waiting Waiting for lobby...
+Members 成员:
+Invite_Button 邀请好友
+Invite_Button_Tooltip 打开好友界面
+Waiting 正在等待大厅...
 
-Overlay Steam overlay needs to be enabled.
+Overlay 请在游戏属性中开启"在游戏中启用 Steam 界面"选项.

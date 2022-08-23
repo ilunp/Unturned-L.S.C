@@ -1,107 +1,107 @@
-Server_Button {0} on {1}
-Server_Players {0}/{1}
+Server_Button {0} [ {1} ]
+Server_Players {0} / {1}
 
-Name_Field_Hint Server Name Filter
-Password_Field_Hint Server Password
-Password_Field_Replace #
-Map_Field_Hint Map Filter
+Name_Field_Hint 名称筛选器
+Password_Field_Hint 服务器密码
+Password_Field_Replace ●
+Map_Field_Hint 地图筛选器
 
-Refresh_Label Search Category:
+Refresh_Label 服务器搜索类型:
 
-Refresh_Gold_Button Gold
-Refresh_Gold_Button_Tooltip Find servers that only allow gold members.
+Refresh_Gold_Button 黄金
+Refresh_Gold_Button_Tooltip 查找仅允许黄金账户加入的服务器.
 
-Refresh_Internet_Button Internet
-Refresh_Internet_Button_Tooltip Find servers on the internet.
+Refresh_Internet_Button 在线
+Refresh_Internet_Button_Tooltip 查找互联网上的服务器.
 
-Refresh_LAN_Button LAN
-Refresh_LAN_Button_Tooltip Find servers on local network.
+Refresh_LAN_Button 本地
+Refresh_LAN_Button_Tooltip 查找局域网上的服务器.
 
-Refresh_History_Button History
-Refresh_History_Button_Tooltip Find previously played on servers.
+Refresh_History_Button 历史
+Refresh_History_Button_Tooltip 查找历史游玩过的服务器.
 
-Refresh_Favorites_Button Favorites
-Refresh_Favorites_Button_Tooltip Find favorited servers.
+Refresh_Favorites_Button 收藏
+Refresh_Favorites_Button_Tooltip 查找加入收藏的服务器.
 
-Refresh_Friends_Button Friends
-Refresh_Friends_Button_Tooltip Find servers friends are playing on.
+Refresh_Friends_Button 好友
+Refresh_Friends_Button_Tooltip 查找好友正在游玩的服务器.
 
-HostingButtonText Hosting
-HostingButtonTooltip Read server hosting documentation.
+HostingButtonText 文档
+HostingButtonTooltip 阅读服务器主机文档.
 
-Any_Password_Button Any Password
-Yes_Password_Button Has Password
-No_Password_Button No Password
+Any_Password_Button 密码: 全部
+Yes_Password_Button 密码: 有
+No_Password_Button 密码: 无
 
-Any_Workshop_Button Any Workshop
-Yes_Workshop_Button Has Workshop
-No_Workshop_Button No Workshop
+Any_Workshop_Button 创意工坊:全部
+Yes_Workshop_Button 创意工坊: 有
+No_Workshop_Button 创意工坊: 无
 
-Any_Plugins_Button Any Plugins
-Yes_Plugins_Button Has Plugins
-No_Plugins_Button No Plugins
+Any_Plugins_Button 插件: 全部
+Yes_Plugins_Button 插件: 有
+No_Plugins_Button 插件: 无
 
-Attendance_Toggle Playing
-Security_Toggle Secure
+Attendance_Toggle 在线玩家
+Security_Toggle 安全性
 PvP_Toggle PvP
 
-Any_Attendance_Button Any Attendance
-Empty_Button Empty
-HasPlayers_Button Has Players
+Any_Attendance_Button 在线玩家: 全部
+Empty_Button 在线玩家: 无
+HasPlayers_Button 在线玩家: 有
 
-Any_Space_Button Include Full
-Space_Button Has Available Slots
+Any_Space_Button 角色槽位: 无
+Space_Button 角色槽位: 有
 
-VAC_Any_Button Any VAC
-VAC_Secure_Button VAC Secure
-VAC_Insecure_Button VAC Insecure
+VAC_Any_Button VAC: 全部
+VAC_Secure_Button VAC: 安全
+VAC_Insecure_Button VAC: 不安全
 
-BattlEye_Any_Button Any BattlEye
-BattlEye_Secure_Button BattlEye Required
-BattlEye_Insecure_Button BattlEye Disabled
+BattlEye_Any_Button 战眼: 全部
+BattlEye_Secure_Button 战眼: 已启用
+BattlEye_Insecure_Button 战眼: 已禁用
 
-Any_Combat_Button Any Combat
+Any_Combat_Button PvP / PvE
 PvP_Button PvP
 PvE_Button PvE
 
-Any_Cheats_Button Any Cheats
-Yes_Cheats_Button Cheats On
-No_Cheats_Button Cheats Off
+Any_Cheats_Button 作弊: 全部
+Yes_Cheats_Button 作弊: 开
+No_Cheats_Button 作弊: 关
 
-Any_Mode_Button Any Mode
-Easy_Button Easy
-Normal_Button Normal
-Hard_Button Hard
-Pro_Button Gold
+Any_Mode_Button 模式: 全部
+Easy_Button 模式: 简单
+Normal_Button 模式: 普通
+Hard_Button 模式: 困难
+Pro_Button 模式: 黄金
 
-Any_Camera_Button Any Perspective
-First_Button First Person
-Third_Button Third Person
-Both_Button Both Perspectives
-Vehicle_Button Vehicle Third Person
+Any_Camera_Button 视角: 全部
+First_Button 视角: 第一人称
+Third_Button 视角: 第三人称
+Both_Button 视角: 多人称视角
+Vehicle_Button 视角: 第三人称(载具)
 
-Monetization_Any_Button Any Monetization
-Monetization_None_Button Not Monetized
-Monetization_NonGameplay_Button Non-Gameplay Monetization
+Monetization_Any_Button 商业化运营: 全部
+Monetization_None_Button 商业化运营: 否
+Monetization_NonGameplay_Button 商业化运营: 是(非游戏性)
 
-Any_Map Any Map
+Any_Map 地图: 全部
 
-No_Servers No version {0} servers found on the master server.
-No_Servers_Hint Perhaps your filters are too specific?
-Reset_Filters Reset Filters
-Reset_Filters_Tooltip Changes filtering settings to their default values.
+No_Servers 没有在服务器列表上找到 {0} 版本的服务器
+No_Servers_Hint 也许筛选器条件过于特殊?
+Reset_Filters 重置筛选器
+Reset_Filters_Tooltip 恢复默认.
 
-Sort_Name Name
-Sort_Name_Tooltip Sort by name.
+Sort_Name 名称
+Sort_Name_Tooltip 按服务器名称排序.
 
-Sort_Map Map
-Sort_Map_Tooltip Sort by map.
+Sort_Map 地图
+Sort_Map_Tooltip 按地图名称排序.
 
-Sort_Players Players
-Sort_Players_Tooltip Sort by players.
+Sort_Players 玩家
+Sort_Players_Tooltip 按在线玩家数量排序.
 
-Sort_Ping Ping
-Sort_Ping_Tooltip Sort by ping.
+Sort_Ping 延迟
+Sort_Ping_Tooltip 按服务器延迟排序.
 
-Favorite_On_Button_Tooltip Favorite
-Favorite_Off_Button_Tooltip Unfavorite
+Favorite_On_Button_Tooltip 收藏
+Favorite_Off_Button_Tooltip 取消收藏

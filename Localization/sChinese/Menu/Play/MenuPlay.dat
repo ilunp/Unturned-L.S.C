@@ -1,12 +1,12 @@
-ConnectButtonText Connect
-ConnectButtonTooltip Connect
-ServersButtonText Servers
-ServersButtonTooltip Servers
-SingleplayerButtonText Singleplayer
-SingleplayerButtonTooltip Singleplayer
-MatchmakingButtonText Matchmaking
-MatchmakingButtonTooltip Matchmaking
-LobbiesButtonText Lobby
-LobbiesButtonTooltip Lobby
-TutorialButtonText Tutorial
-TutorialButtonTooltip Tutorial
+ConnectButtonText IP 连接
+ConnectButtonTooltip IP 连接
+ServersButtonText 多人游戏
+ServersButtonTooltip 多人游戏
+SingleplayerButtonText 单人游戏
+SingleplayerButtonTooltip 单人游戏
+MatchmakingButtonText 快速匹配
+MatchmakingButtonTooltip 快速匹配
+LobbiesButtonText 组队大厅
+LobbiesButtonTooltip 组队大厅
+TutorialButtonText 新手教程
+TutorialButtonTooltip 新手教程

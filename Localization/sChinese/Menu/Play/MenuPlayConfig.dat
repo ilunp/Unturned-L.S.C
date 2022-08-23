@@ -1,207 +1,207 @@
-Items Items
-Vehicles Vehicles
-Zombies Zombies
-Animals Animals
-Barricades Barricades
-Structures Structures
-Players Players
-Objects Objects
-Events Events
-Gameplay Gameplay
+Items 物品
+Vehicles 载具
+Zombies 僵尸
+Animals 动物
+Barricades 路障
+Structures 结构
+Players 玩家
+Objects 对象
+Events 事件
+Gameplay 游戏机制
 
-Spawn_Chance Spawn Chance [0-1]
-Respawn_Time Respawn Time
-Unlocked_After_Seconds_In_Safezone Unlocked After Seconds in Safezone
-Decay_Time Decay Time
-Damage_Multiplier Damage Multiplier
-Armor_Multiplier Armor Multiplier
-NonHeadshot_Armor_Multiplier Non-Headshot Armor Multiplier
-Child_Explosion_Armor_Multiplier Child Explosion Armor Multiplier
-Backstab_Multiplier Backstab Multiplier
-Armor_Lowtier_Multiplier Armor Low-Tier Multiplier
-Armor_Hightier_Multiplier Armor High-Tier Multiplier
-Gun_Lowcal_Damage_Multiplier Gun Lowcal Damage Multiplier
-Gun_Highcal_Damage_Multiplier Gun Highcal Damage Multiplier
-Melee_Damage_Multiplier Melee Damage Multiplier
+Spawn_Chance 生成概率 [0-1]
+Respawn_Time 刷新时间
+Unlocked_After_Seconds_In_Safezone (秒) 安全区自动解锁周期
+Decay_Time 腐蚀时间
+Damage_Multiplier (倍) 基础伤害
+Armor_Multiplier (倍) 护甲
+NonHeadshot_Armor_Multiplier (倍) 护甲 (未爆头)
+Child_Explosion_Armor_Multiplier (倍) 护甲 (爆炸)
+Backstab_Multiplier (倍) 背刺伤害
+Armor_Lowtier_Multiplier (倍) 木制材料护甲
+Armor_Hightier_Multiplier (倍) 铁制材料护甲
+Gun_Lowcal_Damage_Multiplier (倍) 小口径枪械伤害
+Gun_Highcal_Damage_Multiplier (倍) 大口径枪械伤害
+Melee_Damage_Multiplier (倍) 近战伤害
 
-Max_Instances_Tiny Max Instances Tiny
-Max_Instances_Small Max Instances Small
-Max_Instances_Medium Max Instances Medium
-Max_Instances_Large Max Instances Large
-Max_Instances_Insane Max Instances Insane
+Max_Instances_Tiny 迷你地图数量 (上限)
+Max_Instances_Small 小型地图数量 (上限)
+Max_Instances_Medium 中型地图数量 (上限)
+Max_Instances_Large 大型地图数量 (上限)
+Max_Instances_Insane 巨型地图数量 (上限)
 
-Despawn_Dropped_Time Despawn Dropped Time
-Despawn_Natural_Time Despawn Natural Time
-Has_Durability Has Durability
+Despawn_Dropped_Time 物品重新刷新时间
+Despawn_Natural_Time 物品自然消失时间
+Has_Durability 开启耐久
 
-Quality_Full_Chance Quality Full Chance [0-1]
-Quality_Multiplier Quality Multiplier
+Quality_Full_Chance 满耐久概率 [0-1]
+Quality_Multiplier (倍) 耐久
 
-Gun_Bullets_Full_Chance Gun Bullets Full Chance [0-1]
-Gun_Bullets_Multiplier Gun Bullets Multiplier
-Magazine_Bullets_Full_Chance Magazine Bullets Full Chance [0-1]
-Magazine_Bullets_Multiplier Magazine Bullets Multiplier
-Crate_Bullets_Full_Chance Crate Bullets Full Chance [0-1]
-Crate_Bullets_Multiplier Crate Bullets Multiplier
+Gun_Bullets_Full_Chance 枪内子弹全满概率 [0-1]
+Gun_Bullets_Multiplier (倍) 枪内子弹
+Magazine_Bullets_Full_Chance 弹匣子弹全满概率 [0-1]
+Magazine_Bullets_Multiplier (倍) 弹匣子弹
+Crate_Bullets_Full_Chance 弹药箱子弹全满概率 [0-1]
+Crate_Bullets_Multiplier (倍) 弹药箱内子弹
 
-Loot_Chance Loot Chance [0-1]
-Crawler_Chance Crawler Chance [0-0.5]
-Sprinter_Chance Sprinter Chance [0-0.5]
-Flanker_Chance Flanker Chance [0-0.5]
-Burner_Chance Burner Chance [0-0.5]
-Acid_Chance Acid Chance [0-0.5]
-Boss_Electric_Chance Electric Boss Chance [0-0.5]
-Boss_Wind_Chance Wind Boss Chance [0-0.5]
-Boss_Fire_Chance Fire Boss Chance [0-0.5]
-Spirit_Chance Spirit Chance [0-0.5]
-DL_Red_Volatile_Chance Dying Light Red Volatile Chance
-DL_Blue_Volatile_Chance Dying Light Blue Volatile Chance
-Boss_Elver_Stomper_Chance Elver Stomper Boss Chance
-Respawn_Day_Time Respawn Day Time
-Respawn_Night_Time Respawn Night Time
-Respawn_Beacon_Time Respawn Beacon Time
-Quest_Boss_Respawn_Interval Quest Boss Respawn Interval
-Beacon_Experience_Multiplier Beacon Experience Multiplier
-Full_Moon_Experience_Multiplier Full Moon Experience Multiplier
-Min_Drops Min Drops
-Max_Drops Max Drops
-Min_Mega_Drops Min Mega Drops
-Max_Mega_Drops Max Mega Drops
-Min_Boss_Drops Min Boss Drops
-Max_Boss_Drops Max Boss Drops
-Slow_Movement Slow Movement
-Can_Stun Can Stun
-Weapons_Use_Player_Damage Weapons Use Player Damage
-Only_Critical_Stuns Only Critical Stuns
+Loot_Chance 掉落战利品概率 [0-1]
+Crawler_Chance 爬行僵尸生成概率 [0-0.5]
+Sprinter_Chance 疾跑僵尸生成概率 [0-0.5]
+Flanker_Chance 隐形僵尸生成概率 [0-0.5]
+Burner_Chance 火焰僵尸生成概率 [0-0.5]
+Acid_Chance 酸液僵尸生成概率 [0-0.5]
+Boss_Electric_Chance 雷电(Boss)僵尸生成概率 [0-0.5]
+Boss_Wind_Chance 地震(Boss)僵尸生成概率 [0-0.5]
+Boss_Fire_Chance 喷火(Boss)僵尸生成概率 [0-0.5]
+Spirit_Chance 透明僵尸生成概率 [0-0.5]
+DL_Red_Volatile_Chance 红色夜魔生成概率 <消逝的光芒>
+DL_Blue_Volatile_Chance 蓝色夜魔生成概率 <消逝的光芒>
+Boss_Elver_Stomper_Chance 践踏者(Boss)生成概率 <Elver>
+Respawn_Day_Time 僵尸生成时间间隔 (白昼)
+Respawn_Night_Time 僵尸生成时间间隔 (黑夜)
+Respawn_Beacon_Time 僵尸生成时间间隔 (尸潮)
+Quest_Boss_Respawn_Interval 任务(Boss)重生时间间隔
+Beacon_Experience_Multiplier (倍) 尸潮信标经验奖励
+Full_Moon_Experience_Multiplier (倍) 满月经验奖励
+Min_Drops 普通僵尸掉落物奖励 (最小)
+Max_Drops 普通僵尸掉落物奖励 (最大)
+Min_Mega_Drops 巨型僵尸掉落物奖励 (最小)
+Max_Mega_Drops 巨型僵尸掉落物奖励 (最大)
+Min_Boss_Drops Boss僵尸掉落物奖励 (最小)
+Max_Boss_Drops Boss僵尸掉落物奖励 (最大)
+Slow_Movement 开启行动缓慢
+Can_Stun 允许攻击眩晕
+Weapons_Use_Player_Damage 使用武器攻击时降低为玩家普通攻击伤害
+Only_Critical_Stuns 仅关键攻击眩晕
 
-Can_Target_Barricades Can Target Barricades
-Can_Target_Structures Can Target Structures
-Can_Target_Vehicles Can Target Vehicles
+Can_Target_Barricades 允许破坏路障
+Can_Target_Structures 允许破坏结构
+Can_Target_Vehicles 允许破坏载具
 
-Beacon_Max_Rewards Beacon Max Reward Item Drops
-Beacon_Max_Participants Beacon Max Reward Participants
-Beacon_Rewards_Multiplier Beacon Rewards Multiplier
+Beacon_Max_Rewards 尸潮信标掉落物奖励 (上限)
+Beacon_Max_Participants 尸潮信标参与者奖励 (上限)
+Beacon_Rewards_Multiplier (倍) 尸潮信标奖励
 
-Has_Battery_Chance Has Battery Chance
-Min_Battery_Charge Min Battery Charge
-Max_Battery_Charge Max Battery Charge
-Has_Tire_Chance Has Tire Chance
+Has_Battery_Chance 默认装配电池概率
+Min_Battery_Charge 电池电量 (最小)
+Max_Battery_Charge 电池电量 (最大)
+Has_Tire_Chance 默认装配轮胎概率
 
-Experience_Multiplier Experience Multiplier
-Detect_Radius_Multiplier NPC Detection Radius Multiplier
-Ray_Aggressor_Distance Bullet/Damage Ray Aggressor Distance
+Experience_Multiplier (倍) 经验奖励
+Detect_Radius_Multiplier (倍) NPC 检测半径
+Ray_Aggressor_Distance 攻击者子弹/破坏伤害射线距离
 
-Health_Regen_Min_Food Health Regeneration Min Food
-Health_Regen_Min_Water Health Regeneration Min Water
-Health_Regen_Ticks Health Regeneration Ticks
+Health_Regen_Min_Food 生命值恢复所需饥饿值 (最小)
+Health_Regen_Min_Water 生命值恢复所需口渴值 (最小)
+Health_Regen_Ticks (秒) 生命值每周期回复
 
-Food_Use_Ticks Food Use Ticks
-Food_Damage_Ticks Food Damage Ticks
+Food_Use_Ticks (秒) 饥饿值周期
+Food_Damage_Ticks 饥饿值每周期消耗
 
-Water_Use_Ticks Water Use Ticks
-Water_Damage_Ticks Water Damage Ticks
+Water_Use_Ticks (秒) 口渴值周期
+Water_Damage_Ticks 口渴值每周期消耗
 
-Virus_Infect Virus Infect Threshold
-Virus_Use_Ticks Virus Use Ticks
-Virus_Damage_Ticks Virus Damage Ticks
+Virus_Infect 健康值感染阈值
+Virus_Use_Ticks (秒) 健康值周期
+Virus_Damage_Ticks 健康值每周期消耗
 
-Leg_Regen_Ticks Broken Leg Regeneration Ticks
-Bleed_Damage_Ticks Bleeding Damage Ticks
-Bleed_Regen_Ticks Bleeding Regeneration Ticks
+Leg_Regen_Ticks (秒) 骨折自愈周期
+Bleed_Damage_Ticks 生命值每周期消耗
+Bleed_Regen_Ticks 生命值每周期回复
 
-Lose_Skills_PvP Lose Skills On Combat Death
-Lose_Skills_PvE Lose Skills On Environment Death
-Lose_Items_PvP Lose Items On Combat Death
-Lose_Items_PvE Lose Items On Environment Death
-Lose_Clothes_PvP Lose Clothes On Combat Death
-Lose_Clothes_PvE Lose Clothes On Environment Death
-Lose_Weapons_PvP Lose Weapons On Combat Death
-Lose_Weapons_PvE Lose Weapons On Environment Death
+Lose_Skills_PvP 死亡丢失技能 (PVP)
+Lose_Skills_PvE 死亡丢失技能 (PVE)
+Lose_Items_PvP 死亡丢失物品 (PVP)
+Lose_Items_PvE 死亡丢失物品 (PVE)
+Lose_Clothes_PvP 死亡丢失衣服 (PVP)
+Lose_Clothes_PvE 死亡丢失衣服 (PVE)
+Lose_Weapons_PvP 死亡丢失武器 (PVP)
+Lose_Weapons_PvE 死亡丢失武器 (PVE)
 
-Can_Hurt_Legs Can Hurt Legs
-Can_Break_Legs Can Break Legs
-Can_Fix_Legs Can Fix Legs
-Can_Start_Bleeding Can Start Bleeding
-Can_Stop_Bleeding Can Stop Bleeding
+Can_Hurt_Legs 开启摔落伤害
+Can_Break_Legs 开启摔落骨折
+Can_Fix_Legs 开启骨折自愈
+Can_Start_Bleeding 允许受伤流血
+Can_Stop_Bleeding 允许流血自愈
 
-Spawn_With_Max_Skills Spawn With Max Skills
-Spawn_With_Stamina_Skills Spawn With Stamina Skills
-Allow_Instakill_Headshots Allow Instakill Headshots
-Allow_Per_Character_Saves Allow Per-Character Saves
+Spawn_With_Max_Skills 出生全部技能满级
+Spawn_With_Stamina_Skills 出生耐力技能满级
+Allow_Instakill_Headshots 允许被爆头秒杀
+Allow_Per_Character_Saves 允许按角色保存数据
 
-Rain_Frequency_Min Min Rain Frequency
-Rain_Frequency_Max Max Rain Frequency
-Rain_Duration_Min Min Rain Duration
-Rain_Duration_Max Max Rain Duration
+Rain_Frequency_Min 降雨频率 (最小)
+Rain_Frequency_Max 降雨频率 (最大)
+Rain_Duration_Min 降雨持续时间 (最小)
+Rain_Duration_Max 降雨持续时间 (最大)
 
-Snow_Frequency_Min Min Snow Frequency
-Snow_Frequency_Max Max Snow Frequency
-Snow_Duration_Min Min Snow Duration
-Snow_Duration_Max Max Snow Duration
+Snow_Frequency_Min 降雪频率 (最小)
+Snow_Frequency_Max 降雪频率 (最大)
+Snow_Duration_Min 降雪持续时间 (最小)
+Snow_Duration_Max 降雪持续时间 (最大)
 
-Weather_Frequency_Multiplier Weather Frequency Multiplier
-Weather_Duration_Multiplier Weather Duration Multiplier
+Weather_Frequency_Multiplier (倍) 天气频率
+Weather_Duration_Multiplier (倍) 天气持续时间
 
-Binary_State_Reset_Multiplier Binary State Reset Time Multiplier
-Fuel_Reset_Multiplier Fuel Respawn Time Multiplier
-Water_Reset_Multiplier Water Respawn Time Multiplier
-Resource_Reset_Multiplier Resource Respawn Time Multiplier
-Resource_Drops_Multiplier Resource Drops Multiplier
-Rubble_Reset_Multiplier Rubble Respawn Time Multiplier
+Binary_State_Reset_Multiplier (倍) 开/关状态重置时间
+Fuel_Reset_Multiplier (倍) 储油量刷新时间
+Water_Reset_Multiplier (倍) 蓄水量刷新时间
+Resource_Reset_Multiplier (倍) 自然资源点刷新时间
+Resource_Drops_Multiplier (倍) 自然资源点掉落数量
+Rubble_Reset_Multiplier (倍) 矿点资源刷新时间
 Allow_Holiday_Drops Allow Holiday Drops
 
-Airdrop_Frequency_Min Min Airdrop Frequency
-Airdrop_Frequency_Max Max Airdrop Frequency
-Airdrop_Speed Airdrop Speed
-Airdrop_Force Airdrop Force
+Airdrop_Frequency_Min 空投频率 (最小)
+Airdrop_Frequency_Max 空投频率 (最大)
+Airdrop_Speed 空投运送速度
+Airdrop_Force 空投降落速度
 
-Arena_Min_Players Arena Min Players
-Arena_Compactor_Damage Arena Compactor Damage
+Arena_Min_Players 竞技场最少玩家
+Arena_Compactor_Damage 竞技场边界伤害
 
-Arena_Clear_Timer Arena Clear Timer
-Arena_Finale_Timer Arena Finale Timer
-Arena_Restart_Timer Arena Restart Timer
+Arena_Clear_Timer 竞技场清理倒计时
+Arena_Finale_Timer 竞技场结束倒计时
+Arena_Restart_Timer 竞技场开始倒计时
 
-Use_Airdrops Use Airdrops
-Arena_Use_Compactor_Pause Arena Use Compactor Pause
+Use_Airdrops 开启空投
+Arena_Use_Compactor_Pause 开启竞技场缩圈暂停
 
-Arena_Compactor_Delay_Timer Arena Compactor Delay Timer
-Arena_Compactor_Pause_Timer Arena Compactor Pause Timer
+Arena_Compactor_Delay_Timer 竞技场缩圈推迟倒计时
+Arena_Compactor_Pause_Timer 竞技场缩圈暂停倒计时
 
-Arena_Compactor_Speed_Tiny Arena Compactor Speed Tiny
-Arena_Compactor_Speed_Small Arena Compactor Speed Small
-Arena_Compactor_Speed_Medium Arena Compactor Speed Medium
-Arena_Compactor_Speed_Large Arena Compactor Speed Large
-Arena_Compactor_Speed_Insane Arena Compactor Speed Insane
-Arena_Compactor_Shrink_Factor Arena Compactor Shrink Factor
+Arena_Compactor_Speed_Tiny 竞技场缩圈速率 (迷你)
+Arena_Compactor_Speed_Small 竞技场缩圈速率 (小型)
+Arena_Compactor_Speed_Medium 竞技场缩圈速率 (中型)
+Arena_Compactor_Speed_Large 竞技场缩圈速率 (大型)
+Arena_Compactor_Speed_Insane 竞技场缩圈速率 (巨型)
+Arena_Compactor_Shrink_Factor 竞技场缩圈速度
 
 Repair_Level_Max Max Repair Level
-Hitmarkers Hitmarkers
-Crosshair Crosshair
-Ballistics Ballistics
-Chart Chart Available
-Satellite Satellite Available
-Compass Compass Available
-Group_Map Show Group On Map
-Group_HUD Show Group On HUD
-Group_Player_List Show Groups In Player List
-Allow_Static_Groups Allow Static Groups
-Allow_Dynamic_Groups Allow Dynamic Groups
-Allow_Shoulder_Camera Allow Shoulder Camera
-Can_Suicide Can Suicide
-Friendly_Fire Friendly Fire
-Bypass_Buildable_Mobility Sentry Guns & Beds On Vehicles
+Hitmarkers 显示命中标记
+Crosshair 显示准星
+Ballistics 显示弹道
+Chart 提供地图
+Satellite 提供导航
+Compass 提供指南针
+Group_Map 显示群组 (地图)
+Group_HUD 显示群组 (HUD)
+Group_Player_List 显示群组 (玩家列表)
+Allow_Static_Groups 允许群组 (静态)
+Allow_Dynamic_Groups 允许群组 (动态)
+Allow_Shoulder_Camera 允许切换视角
+Can_Suicide 允许自杀
+Friendly_Fire 允许友伤
+Bypass_Buildable_Mobility 允许在载具上放置哨兵枪/床
 
-Timer_Exit Exit Timer
-Timer_Respawn Respawn Timer
-Timer_Home Home Timer
-Timer_Leave_Group Leave Group Timer
-Max_Group_Members Max Group Members
+Timer_Exit 退出倒计时
+Timer_Respawn 重生倒计时
+Timer_Home 回家重生倒计时
+Timer_Leave_Group 离开群组倒计时
+Max_Group_Members 群组成员 (上限)
 
-Default Restore Defaults
-Default_Tooltip Use factory configuration.
+Default 重置
+Default_Tooltip 恢复默认设置
 
-Allow_Item_Placement_On_Vehicle Allow Item Placement On Vehicle
-Allow_Trap_Placement_On_Vehicle Allow Trap Placement On Vehicle
-Max_Item_Distance_From_Hull Max Item Distance From Hull
-Max_Trap_Distance_From_Hull Max Trap Distance From Hull
+Allow_Item_Placement_On_Vehicle 允许在载具上放置 物品
+Allow_Trap_Placement_On_Vehicle 允许在载具上放置 陷阱
+Max_Item_Distance_From_Hull 物品与载具距离 (最大)
+Max_Trap_Distance_From_Hull 陷阱与载具距离 (最大)

@@ -1,15 +1,15 @@
-Search_Button Search
-Search_Button_Tooltip Find Server
-Info_Button More Info
-Info_Button_Tooltip Preview Server
-Lucky_Button I'm Feeling Lucky
-Lucky_Button_Tooltip Join Server
+Search_Button 搜索
+Search_Button_Tooltip 查找服务器
+Info_Button 详细信息
+Info_Button_Tooltip 预览服务器信息
+Lucky_Button 手气不错
+Lucky_Button_Tooltip 加入服务器
 
-Progress_Matches Found and comparing {0} ideal servers...
-Progress_Best Best match - {0}
-Match_No Unknown
-Match_Yes Players: {0}/{1} Ping: {2} 
+Progress_Matches 已发现 {0} 个较为符合预期的服务器...
+Progress_Best 最佳匹配 - {0}
+Match_No 未知
+Match_Yes 玩家: {0}/{1} | 延迟: {2} 
 
-Easy_Button Easy
-Normal_Button Normal
-Hard_Button Hard
+Easy_Button 简单
+Normal_Button 普通
+Hard_Button 困难

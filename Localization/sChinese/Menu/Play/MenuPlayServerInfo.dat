@@ -1,72 +1,72 @@
-Password_Field_Label Password
-Password_Field_Replace #
+Password_Field_Label 密码
+Password_Field_Replace ●
 
-Join_Button Join
-Join_Button_Tooltip Connect
-Refresh_Button Refresh
-Refresh_Button_Tooltip Refresh
-Cancel_Button Cancel
-Cancel_Button_Tooltip Back
+Join_Button 加入
+Join_Button_Tooltip 连接服务器
+Refresh_Button 刷新
+Refresh_Button_Tooltip 刷新
+Cancel_Button 取消
+Cancel_Button_Tooltip 返回
 
-Favorite_On_Button Favorite
-Favorite_Off_Button Unfavorite
-Favorite_Button_Tooltip Favorite/Unfavorite
+Favorite_On_Button 收藏
+Favorite_Off_Button 取消收藏
+Favorite_Button_Tooltip 收藏/取消收藏
 
-Players Players: {0}/{1}
-Details Details
-Map Map: {0}
+Players 在线人数: {0}/{1}
+Details 服务器详情
+Map 服务器地图: {0}
 
-Workshop Workshop: {0}
-Combat Combat: {0}
-Perspective Perspective: {0}
-Security Security: {0}
-Mode Mode: {0}
-Cheats Cheats: {0}
+Workshop 创意工坊: {0}
+Combat 作战模式: {0}
+Perspective 人称视角: {0}
+Security 安全性: {0}
+Mode 游戏难度: {0}
+Cheats 作弊: {0}
 GameMode Game: {0}
 
-Monetization_None Monetization: None
-Monetization_NonGameplay Monetization: Non-Gameplay
-HostBan_MonetizationWarning Warning: this server is breaking the monetization rules which took effect on June 11th 2021. Click here for more information.
-HostBan_WorkshopWarning Warning: the workshop files used by this server have been banned.
-HostBan_Apology Message from the game developers: our apologies for mistakenly flagging your server! We are sorry for the trouble and will do our best to prevent it from happening again in the future.
+Monetization_None 商业化运营: 否
+Monetization_NonGameplay 商业化运营: 是(非游戏性)
+HostBan_MonetizationWarning 警告: 服务器违反了生效于2021年6月11日商业化运营相关规定. 点击此处获取更多信息.
+HostBan_WorkshopWarning 警告: 服务器使用的创意工坊已被创意工坊的创作者封禁.
+HostBan_Apology 来自游戏开发者的致歉: 我们为错误的标记了您的服务器向您道歉! 我们很抱歉为您带来了不必要的麻烦并将会尽我们最大的努力来防止此类事件再次发生.
 
-Yes Enabled
-No Disabled
+Yes 启用
+No 禁用
 
-PvP Player vs Player
-PvE Player vs Environment
+PvP PvP
+PvE PvE
 
-First First Person
-Third Third Person
-Both First and Third Person
-Vehicle Vehicle Third Person
+First 第一人称视角
+Third 第三人称视角
+Both 第一 / 第三人称视角
+Vehicle 第三人称视角 (载具)
 
-VAC_Secure VAC Enabled
-VAC_Insecure VAC Disabled
+VAC_Secure VAC 安全
+VAC_Insecure VAC 不安全
 
-BattlEye_Secure BattlEye Required
-BattlEye_Insecure BattlEye Disabled
+BattlEye_Secure 战眼已启用
+BattlEye_Insecure 战眼已禁用
 
 Subscribe +
-Subscribe_Tooltip Subscribe to {0}
+Subscribe_Tooltip 订阅 {0}
 Unsubscribe -
-Unsubscribe_Tooltip Unsubscribe from {0}
+Unsubscribe_Tooltip 取消订阅 {0}
 
-Easy Easy
-Normal Normal
-Hard Hard
+Easy 简单
+Normal 普通
+Hard 困难
 
-Server Server:
-UGC Workshop:
-Config Configuration:
+Server 服务器配置:
+UGC 创意工坊:
+Config 游戏性配置:
 Rule {0}: {1}
-Plugins_Rocket Rocket Plugins:
-Plugins_OpenMod OpenMod Plugins:
-Plugins_Unknown Plugins:
+Plugins_Rocket 插件 (Rocket) :
+Plugins_OpenMod 插件 (OpenMod) :
+Plugins_Unknown 插件 :
 
-ServerNewerVersion_Label Server running a newer version: {0}
-ServerNewerVersion_Tooltip Cannot join because this server is running a newer version of the game. Restart your client to update.
-ServerOlderVersion_Label Server running an older version: {0}
-ServerOlderVersion_Tooltip Cannot join because this server is running an older version of the game. Host needs to update.
-ServerBlacklisted_Label This server is banned.
-ServerBlacklisted_Tooltip Cannot join because the server has been banned.
+ServerNewerVersion_Label 服务器当前游戏版本较新: {0}
+ServerNewerVersion_Tooltip 无法加入游戏版本较新的服务器. (请重启客户端更新)
+ServerOlderVersion_Label 服务器当前游戏版本较旧: {0}
+ServerOlderVersion_Tooltip 无法加入游戏版本较旧的服务器. (请等待服务器更新).
+ServerBlacklisted_Label 服务器被开发者封禁.
+ServerBlacklisted_Tooltip 无法加入被开发者封禁的服务器.
