@@ -27,10 +27,10 @@ Maps_Workshop_Tooltip 来自创意工坊下载的地图
 Maps_Misc 其他地图
 Maps_Misc_Tooltip 来自活动和自己创作的地图
 
-Retired_View_Label 创意工坊
+Retired_View_Label View
 Retired_View_Tooltip 查看地图创意工坊.
-Retired_Manage_Sub 订阅
-Retired_Manage_Unsub 取消订阅
+Retired_Manage_Sub Sub
+Retired_Manage_Unsub Unsub
 Retired_Manage_Tooltip 自动下载或删除地图.
 
 Manage_Workshop_Label 管理订阅列表
