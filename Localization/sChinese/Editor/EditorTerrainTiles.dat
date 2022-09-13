@@ -1,32 +1,32 @@
-Hint_Remove Remove selected: [{0}]
+Hint_Remove 移除选中: [{0}]
 
-RepairEdges_Label Repair Edges
-RepairEdges_Tooltip Useful if an error has desynchronized heightmap edges between tiles. If that happens please report it as a bug!
+RepairEdges_Label 修复边界
+RepairEdges_Tooltip 在遇到无法同步区块之间 Heightmaps 边界的错误时非常有用. 如果发生该错误请您及时向我们反馈!
 
-ApplyToAllTiles_Label Copy Layers to All Tiles
-ApplyToAllTiles_Tooltip Copy these materials to every terrain tile.
-ApplyToAllTiles_Confirm_Label Apply
-ApplyToAllTiles_Confirm_Tooltip Proceed with copy.
-ApplyToAllTiles_Deny_Label Cancel
-ApplyToAllTiles_Deny_Tooltip Do NOT copy.
+ApplyToAllTiles_Label 复制纹理图层
+ApplyToAllTiles_Tooltip 全部区块应用选中区块纹理图层.
+ApplyToAllTiles_Confirm_Label 确定
+ApplyToAllTiles_Confirm_Tooltip 确定复制图层.
+ApplyToAllTiles_Deny_Label 取消
+ApplyToAllTiles_Deny_Tooltip 取消复制图层.
 
-ResetSplatmap_Label Reset Materials
-ResetSplatmap_Tooltip Paint first layer material across tile.
-ResetSplatmap_Confirm_Label Reset
-ResetSplatmap_Confirm_Tooltip Proceed with material reset.
-ResetSplatmap_Deny_Label Cancel
-ResetSplatmap_Deny_Tooltip Do NOT reset materials.
+ResetSplatmap_Label 重置纹理
+ResetSplatmap_Tooltip 绘制首层纹理在区块的另一面.
+ResetSplatmap_Confirm_Label 确定
+ResetSplatmap_Confirm_Tooltip 确定重置纹理.
+ResetSplatmap_Deny_Label 取消
+ResetSplatmap_Deny_Tooltip 取消重置纹理.
 
-ResetHeightmap_Label Reset Heights
-ResetHeightmap_Tooltip Flatten terrain tile back to zero height.
-ResetHeightmap_Confirm_Label Reset
-ResetHeightmap_Confirm_Tooltip Proceed with height reset.
-ResetHeightmap_Deny_Label Cancel
-ResetHeightmap_Deny_Tooltip Do NOT reset heights.
+ResetHeightmap_Label 重置高度
+ResetHeightmap_Tooltip 平整地形区块到零高度.
+ResetHeightmap_Confirm_Label 确定
+ResetHeightmap_Confirm_Tooltip 确定重置高度.
+ResetHeightmap_Deny_Label 取消
+ResetHeightmap_Deny_Tooltip 取消重置高度.
 
-SelectedLayer Selected Layer
-LayerGuid Asset Guid
-ResetAsset Reset Asset
+SelectedLayer 选中图层
+LayerGuid 资源 Guid
+ResetAsset 重置资源
 
-LayerNull Empty
-LayerMissing Invalid
+LayerNull 空
+LayerMissing 无效

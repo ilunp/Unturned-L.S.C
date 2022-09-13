@@ -1,37 +1,37 @@
-Mode_Paint Paint [{0}]
-Mode_Auto Auto [{0}]
-Mode_Smooth Smooth [{0}]
-Mode_Cut Cut [{0}]
-Mode_Label Mode
+Mode_Paint 绘制 [{0}]
+Mode_Auto 自动 [{0}]
+Mode_Smooth 平滑 [{0}]
+Mode_Cut 切除 [{0}]
+Mode_Label 模式
 
-BrushRadius Brush Radius [{0}]
-BrushFalloff Brush Falloff [{0}]
-BrushStrength Brush Strength [{0}]
+BrushRadius 笔刷半径 [{0}]
+BrushFalloff 笔刷衰减 [{0}]
+BrushStrength 笔刷强度 [{0}]
 
-SmoothMethod_BrushAverage Brush Average
-SmoothMethod_PixelAverage Pixel Average
-SmoothMethod_Label Smooth Method
+SmoothMethod_BrushAverage 笔刷平均
+SmoothMethod_PixelAverage 像素平均
+SmoothMethod_Label 平滑方式
 
-AutoRayLength Ray Length
-AutoRayRadius Ray Radius
-UseAutoFoundation Use Auto Foundation
+AutoRayLength 自动投射长度
+AutoRayRadius 自动投射半径
+UseAutoFoundation 使用自动地基
 
-MaxAngleRange Max Angle Range
-MinAngleRange Min Angle Range
-UseAutoSlope Use Auto Slope
+MaxAngleRange 角度范围 (最大)
+MinAngleRange 角度范围 (最小) 
+UseAutoSlope 使用自动斜面
 
-WeightTarget Weight Target [{0}]
+WeightTarget 目标权重 [{0}]
 
-PreviewMethod_BrushAlpha Brush Alpha
-PreviewMethod_Weight Weight
-PreviewMethod_Label Preview Method
+PreviewMethod_BrushAlpha 笔刷通道
+PreviewMethod_Weight 权重
+PreviewMethod_Label 预览方式
 
-MaxPreviewSamples Max Preview Samples
-HighlightHoles_Label Highlight Holes
+MaxPreviewSamples 预览样本 (最大)
+HighlightHoles_Label 突出显示洞坑
 
-SelectedAsset Selected Asset [{0}]
-OnlyUsedMaterials Only In-use Materials
-SearchHint Name Filter
+SelectedAsset 选择资产 [{0}]
+OnlyUsedMaterials 通用纹理
+SearchHint 名称筛选器
 
-Hint_Paint Remove selected: [{0}] Use weight target: [{1}] Sample material under cursor: [{2}]
-Hint_Cut Repair: [{0}]
+Hint_Paint 移除选中: [{0}] 使用权重目标: [{1}] 采样光标下的纹理: [{2}]
+Hint_Cut 修补: [{0}]

@@ -1,25 +1,25 @@
-Mode_Adjust Raise/Lower [{0}]
-Mode_Flatten Flatten [{0}]
-Mode_Smooth Smooth [{0}]
-Mode_Ramp Ramp [{0}]
-Mode_Label Mode
+Mode_Adjust 雕刻工具 [{0}]
+Mode_Flatten 平化工具 [{0}]
+Mode_Smooth 平滑工具 [{0}]
+Mode_Ramp 斜坡工具 [{0}]
+Mode_Label 模式
 
-BrushRadius Brush Radius [{0}]
-BrushFalloff Brush Falloff [{0}]
-BrushStrength Brush Strength [{0}]
+BrushRadius 笔刷半径 [{0}]
+BrushFalloff 笔刷衰减 [{0}]
+BrushStrength 笔刷强度 [{0}]
 
-SmoothMethod_BrushAverage Brush Average
-SmoothMethod_PixelAverage Pixel Average
-SmoothMethod_Label Smooth Method
+SmoothMethod_BrushAverage 笔刷平均
+SmoothMethod_PixelAverage 像素平均
+SmoothMethod_Label 平滑方式
 
-FlattenMethod_Regular Regular
+FlattenMethod_Regular 均匀
 FlattenMethod_Min Min
 FlattenMethod_Max Max
-FlattenMethod_Label Flatten Method
+FlattenMethod_Label 平化方式
 
-FlattenTarget Flatten Target [{0}]
-MaxPreviewSamples Max Preview Samples
+FlattenTarget 平化目标 [{0}]
+MaxPreviewSamples 预览样本 (最大)
 
-Hint_Adjust Lower: [{0}]
-Hint_Flatten Sample height under cursor: [{0}]
-Hint_Ramp Cancel: [{0}]
+Hint_Adjust 降低: [{0}]
+Hint_Flatten 采样光标下的高度: [{0}]
+Hint_Ramp 取消: [{0}]

@@ -1,8 +1,8 @@
-ObjectsButtonText Objects
-ObjectsButtonTooltip Objects
-VisibilityButtonText Visibility
-VisibilityButtonTooltip Visible
-PlayersButtonText Players
-PlayersButtonTooltip Players
-VolumesButtonText Volumes
+ObjectsButtonText 实体
+ObjectsButtonTooltip 建筑/结构体
+VisibilityButtonText 可见性
+VisibilityButtonTooltip 隐藏/显示
+PlayersButtonText 玩家
+PlayersButtonTooltip 重生/出生点
+VolumesButtonText 体积
 VolumesButtonTooltip Define 3D zones/areas.

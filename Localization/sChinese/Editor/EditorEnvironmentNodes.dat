@@ -1,30 +1,30 @@
-Name_Label Location
-Radius_Label Radius
-Width_Label Width
-Height_Label Height
-Length_Label Length
-Item_ID_Label ID
-Cost_Label Cost
-Spawn_ID_Label Spawn ID
-Effect_ID_Label Effect ID
-No_Water_Label No Water
-No_Lighting_Label No Lighting
-No_Weapons_Label No Weapons
-No_Buildables_Label No Buildables
+Name_Label 地点名称
+Radius_Label 半径
+Width_Label 宽度
+Height_Label 高度
+Length_Label 长度
+Item_ID_Label 物品 ID
+Cost_Label 花费经验
+Spawn_ID_Label 生成表 ID
+Effect_ID_Label 效果 ID
+No_Water_Label 无口渴值
+No_Lighting_Label 禁止灯光
+No_Weapons_Label 禁止武器
+No_Buildables_Label 禁止建造
 
-Shape_Tooltip Shape
-Sphere Sphere
-Box Box
+Shape_Tooltip 形状
+Sphere 球形
+Box 方形
 
-DeadzoneType_DefaultRadiation Default
-DeadzoneType_FullSuitRadiation Full Suit
-DeadzoneType_Tooltip Deadzone Type
+DeadzoneType_DefaultRadiation 进退自如
+DeadzoneType_FullSuitRadiation 全副武装
+DeadzoneType_Tooltip 辐射类型
 
-Type_Tooltip Type
-Location Location
-Safezone Safezone
-Purchase Purchase
-Arena Arena
-Deadzone Deadzone
-Airdrop Airdrop
-Effect Effect
+Type_Tooltip 区域类型
+Location 地点名称
+Safezone 安全区
+Purchase 交易区
+Arena 竞技场
+Deadzone 辐射区
+Airdrop 空投点
+Effect 作用域

@@ -1,35 +1,35 @@
-TableNameFieldLabelText Table
-AddTableButtonText Add
-AddTableButtonTooltip Create Table
-RemoveTableButtonText Sub
-RemoveTableButtonTooltip Remove Table
+TableNameFieldLabelText 生成表名称
+AddTableButtonText 添加
+AddTableButtonTooltip 添加生成表
+RemoveTableButtonText 移除
+RemoveTableButtonTooltip 移除生成表
 
-SelectionBoxLabelText Selection
+SelectionBoxLabelText 选择
 
-MegaToggleLabelText Mega
-HealthFieldLabelText Health
-DamageFieldLabelText Damage
+MegaToggleLabelText 巨型
+HealthFieldLabelText 血量
+DamageFieldLabelText 伤害
 LootIndexFieldLabelText Loot Index
 LootIDFieldLabelText Loot ID
-XPFieldLabelText XP
-RegenFieldLabelText Regen
-DifficultyGUIDFieldLabelText Difficulty GUID
+XPFieldLabelText 经验
+RegenFieldLabelText 回复
+DifficultyGUIDFieldLabelText 难度 GUID
 
-ItemIDFieldLabelText ID
-AddItemButtonText Add
-AddItemButtonTooltip Create Item
-RemoveItemButtonText Sub
-RemoveItemButtonTooltip Remove Item
+ItemIDFieldLabelText 物品 ID
+AddItemButtonText 添加
+AddItemButtonTooltip 添加物品
+RemoveItemButtonText 移除
+RemoveItemButtonTooltip 移除物品
 
-RadiusSliderLabelText Radius
+RadiusSliderLabelText 半径
 
-AddButtonText Add [{0}]
-AddButtonTooltip Create Spawnpoint
+AddButtonText 添加 [{0}]
+AddButtonTooltip 添加刷新点
 
-RemoveButtonText Sub [{0}]
-RemoveButtonTooltip Remove Spawnpoints
+RemoveButtonText 移除 [{0}]
+RemoveButtonTooltip 移除刷新点
 
-Slot_0 Shirt
-Slot_1 Pants
-Slot_2 Hat
-Slot_3 Gear
+Slot_0 衬衫
+Slot_1 裤子
+Slot_2 帽子
+Slot_3 背心

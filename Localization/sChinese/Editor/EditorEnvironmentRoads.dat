@@ -1,19 +1,19 @@
-SelectionBoxLabelText Selection
+SelectionBoxLabelText 选择
 
-WidthFieldLabelText Width
-HeightFieldLabelText Height
-DepthFieldLabelText Depth
+WidthFieldLabelText 宽度
+HeightFieldLabelText 高度
+DepthFieldLabelText 深度
 ConcreteToggleLabelText Concrete
 
-BakeRoadsButtonText Bake Roads
-BakeRoadsButtonTooltip Generate Roads
+BakeRoadsButtonText 生成道路
+BakeRoadsButtonTooltip 生成道路
 
-ModeButtonTooltipText Mode
-OffsetFieldLabelText Offset
-IgnoreTerrainToggleLabelText Ignore Terrain
-LoopToggleLabelText Loop
-RoadIndexLabelText Road Index
+ModeButtonTooltipText 模式
+OffsetFieldLabelText 偏移道路
+IgnoreTerrainToggleLabelText 忽略地形
+LoopToggleLabelText 环形道路
+RoadIndexLabelText 道路标识
 
-Mirror Mirror
-Aligned Aligned
-Free Free
+Mirror 镜像
+Aligned 对齐
+Free 自由

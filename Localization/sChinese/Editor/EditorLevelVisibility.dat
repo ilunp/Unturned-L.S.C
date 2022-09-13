@@ -1,12 +1,12 @@
-Roads_Label Roads [F1]
-Navigation_Label Navigation [F2]
-Nodes_Label Nodes [F3]
-Items_Label Items [F4]
-Players_Label Players [F5]
-Zombies_Label Zombies [F6]
-Vehicles_Label Vehicles [F7]
-Border_Label Border [F8]
-Animals_Label Animals [F9]
+Roads_Label 道路 [F1]
+Navigation_Label 导航 [F2]
+Nodes_Label 节点 [F3]
+Items_Label 物品 [F4]
+Players_Label 玩家 [F5]
+Zombies_Label 僵尸 [F6]
+Vehicles_Label 载具 [F7]
+Border_Label 边界 [F8]
+Animals_Label 动物 [F9]
 
 Point ({0}, {1})
 Objects {0} - {1}%

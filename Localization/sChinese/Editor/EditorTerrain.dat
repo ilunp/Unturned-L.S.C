@@ -1,11 +1,11 @@
-HeightButtonText Heights
+HeightButtonText 高度
 HeightButtonTooltip Heightmaps
 
-MaterialsButtonText Materials
+MaterialsButtonText 纹理
 MaterialsButtonTooltip Splatmaps
 
-DetailsButtonText Foliage
-DetailsButtonTooltip Grass, rocks, trees, etc.
+DetailsButtonText 植被
+DetailsButtonTooltip 草, 石, 树, 等等.
 
-TilesButton_Label Tiles
-TilesButton_Tooltip Manage terrain chunks.
+TilesButton_Label 区块
+TilesButton_Tooltip 管理地形区块.

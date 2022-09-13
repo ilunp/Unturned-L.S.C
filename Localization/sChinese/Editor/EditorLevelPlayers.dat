@@ -1,10 +1,10 @@
-RadiusSliderLabelText Radius
-RotationSliderLabelText Angle
+RadiusSliderLabelText 半径
+RotationSliderLabelText 角度
 
-AddButtonText Add [{0}]
-AddButtonTooltip Create Spawnpoint
+AddButtonText 添加 [{0}]
+AddButtonTooltip 添加出生点
 
-RemoveButtonText Sub [{0}]
-RemoveButtonTooltip Remove Spawnpoints
+RemoveButtonText 移除 [{0}]
+RemoveButtonTooltip 移除出生点
 
 AltLabelText Alt

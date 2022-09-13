@@ -1,16 +1,16 @@
-Save_Button Save
-Save_Button_Tooltip Save
+Save_Button 保存编辑
+Save_Button_Tooltip 保存编辑
 
-Map_Button Bake Satelite
-Map_Button_Tooltip Overview Screenshot
+Map_Button 生成卫星图
+Map_Button_Tooltip 生成并导出概览卫星图
 
-Chart_Button Bake Chart
-Chart_Button_Tooltip Overview Cartography
+Chart_Button 生成地形图
+Chart_Button_Tooltip 生成并导出概览地形图
 
-Legacy_Spawns Legacy Spawns
-Legacy_Spawns_Tooltip Export Legacy Spawn Tables
-Proxy_Spawns Proxy Spawns
-Proxy_Spawns_Tooltip Export Proxy Spawn Tables
+Legacy_Spawns 继承生成表
+Legacy_Spawns_Tooltip 导出继承生成表
+Proxy_Spawns 代理生成表
+Proxy_Spawns_Tooltip 导出代理生成表
 
-Exit_Button Exit
-Exit_Button_Tooltip Exit
+Exit_Button 退出编辑
+Exit_Button_Tooltip 退出编辑

@@ -1,18 +1,18 @@
-TerrainButtonText Terrain
-TerrainButtonTooltip Landscape
+TerrainButtonText 地形
+TerrainButtonTooltip 植被/纹理
 
-EnvironmentButtonText Environment
-EnvironmentButtonTooltip Ambience
+EnvironmentButtonText 环境
+EnvironmentButtonTooltip 环境/氛围
 
-SpawnsButtonText Spawns
-SpawnsButtonTooltip Game
+SpawnsButtonText 生成
+SpawnsButtonTooltip 物品/僵尸
 
-LevelButtonText Level
-LevelButtonTooltip World
+LevelButtonText 地图
+LevelButtonTooltip 可见性/结构体
 
-Heights Sample [{0}]
-Roads Split [{0}] Move [{1}]
-Navigation Move [{0}]
-Objects Snap [{0}] Move [{1}] Build [{2}]
-Nodes Move [{0}]
-Visibility Toggle [F1-F8]
+Heights 样本 [{0}]
+Roads Split [{0}] 移动 [{1}]
+Navigation 移动 [{0}]
+Objects 辅助 [{0}] 移动 [{1}] 放置 [{2}]
+Nodes 移动 [{0}]
+Visibility 可见性 [F1-F8]

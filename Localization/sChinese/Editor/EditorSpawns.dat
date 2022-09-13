@@ -1,11 +1,11 @@
-AnimalsButtonText Animals
-AnimalsButtonTooltip Animals
+AnimalsButtonText 动物
+AnimalsButtonTooltip 动物刷新点
 
-ItemsButtonText Items
-ItemsButtonTooltip Items
+ItemsButtonText 物品
+ItemsButtonTooltip 物品刷新点
 
-ZombiesButtonText Zombies
-ZombiesButtonTooltip Zombies
+ZombiesButtonText 僵尸
+ZombiesButtonTooltip 僵尸刷新点
 
-VehiclesButtonText Vehicles
-VehiclesButtonTooltip Vehicles
+VehiclesButtonText 载具
+VehiclesButtonTooltip 载具刷新点

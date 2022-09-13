@@ -1,11 +1,11 @@
-LightingButtonText Lighting
-LightingButtonTooltip Day/Night
+LightingButtonText 光照
+LightingButtonTooltip 昼夜
 
-RoadsButtonText Roads
-RoadsButtonTooltip Paver
+RoadsButtonText 道路
+RoadsButtonTooltip 路线
 
-NavigationButtonText Navigation
-NavigationButtonTooltip Pathfinding
+NavigationButtonText 导航
+NavigationButtonTooltip 寻路
 
-NodesButtonText Nodes
-NodesButtonTooltip Ambience
+NodesButtonText 节点
+NodesButtonTooltip 氛围

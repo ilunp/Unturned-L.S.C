@@ -1,30 +1,30 @@
-MaxPreviewSamples Max Preview Samples
+MaxPreviewSamples 预览样本 (最大)
 
-DensityTarget Density Target
-BrushStrength Brush Strength [{0}]
-BrushFalloff Brush Falloff [{0}]
-BrushRadius Brush Radius [{0}]
+DensityTarget 目标密度
+BrushRadius 笔刷半径 [{0}]
+BrushFalloff 笔刷衰减 [{0}]
+BrushStrength 笔刷强度 [{0}]
 
-Mode_Paint Paint [{0}]
-Mode_Exact Exact [{0}]
-Mode_Bake Bake [{0}]
-Mode_Label Mode
+Mode_Paint 随机绘制 [{0}]
+Mode_Exact 精准绘制 [{0}]
+Mode_Bake 生成绘制 [{0}]
+Mode_Label 模式
 
-Bake_Cancel Bake Cancel
-Bake_Local Bake Nearby
-Bake_Global Bake Global
-Bake_Clear Bake Clear
-Bake_ApplyScale Bake Apply Scale
-Bake_Objects Bake Objects
-Bake_Resources Bake Resources
-Bake_InstancedMeshes Bake Instanced Meshes
+Bake_Cancel 取消生成
+Bake_Local 局部生成
+Bake_Global 全局生成
+Bake_Clear 清理生成
+Bake_ApplyScale 生成应用范围
+Bake_Objects 生成实体
+Bake_Resources 生成资源
+Bake_InstancedMeshes 生成实例化网格
 
-SelectedAsset Selected Asset [{0}]
+SelectedAsset 选择资产 [{0}]
 
-SearchType_Assets Assets
-SearchType_Collections Collections
-SearchType_Label Search Type
+SearchType_Assets 资产
+SearchType_Collections 集合
+SearchType_Label 搜索类型
 
-SearchHint Name Filter
+SearchHint 名称筛选器
 
-Hint_Paint Remove: [{0}] Remove selected: [{1}] Remove baked: [{2}]
+Hint_Paint 移除: [{0}] 移除选中: [{1}] 移除生成: [{2}]

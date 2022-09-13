@@ -1,8 +1,8 @@
-SelectedType_Label Selected Type
-ActiveVisibility_Label Visibility
+SelectedType_Label 选择类型
+ActiveVisibility_Label 可见性
 
-Visibility_Hidden Hidden
-Visibility_Wireframe Wireframe
-Visibility_Solid Solid
+Visibility_Hidden 隐藏
+Visibility_Wireframe 线框
+Visibility_Solid 模型
 
-WantsUnderwaterEffects Enable Underwater Effects
+WantsUnderwaterEffects 开启水下效果

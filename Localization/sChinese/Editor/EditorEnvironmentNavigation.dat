@@ -1,10 +1,10 @@
-Width_Label Width
-Height_Label Height
-Nav_Label Nav
-Difficulty_GUID_Field_Label Difficulty GUID
-Max_Zombies_Field_Label Max Zombies
-Spawn_Zombies_Toggle_Label Spawn Zombies
-Hyper_Agro_Label Infinite Agro Range
+Width_Label 宽度
+Height_Label 长度
+Nav_Label 导航标识
+Difficulty_GUID_Field_Label 难度 GUID
+Max_Zombies_Field_Label 僵尸数量 (上限)
+Spawn_Zombies_Toggle_Label 允许生成僵尸
+Hyper_Agro_Label 无限活动范围
 
-Bake_Navigation Bake Navigation
-Bake_Navigation_Tooltip Generate Navigation
+Bake_Navigation 生成导航
+Bake_Navigation_Tooltip 生成导航

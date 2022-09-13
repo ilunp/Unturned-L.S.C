@@ -1,27 +1,27 @@
-SelectionBoxLabelText Selection
-Search_Field_Hint Object Name Filter
-Search Search
-Search_Tooltip Search
+SelectionBoxLabelText 选择
+Search_Field_Hint 实体名称筛选器
+Search 搜索
+Search_Tooltip 搜索
 
-SnapTransformLabelText Snap Translation
-SnapRotationLabelText Snap Rotation
+SnapTransformLabelText 辅助移动距离 [Ctrl]
+SnapRotationLabelText 辅助旋转距离 [Ctrl]
 
-LargeLabel Large
-MediumLabel Medium
-SmallLabel Small
+LargeLabel 大型实体
+MediumLabel 中型实体
+SmallLabel 小型实体
 BarricadesLabel Barricades
 StructuresLabel Structures
 NPCsLabel NPCs
 
-TransformButtonText Translate [{0}]
-TransformButtonTooltip Move
+TransformButtonText 移动 [{0}]
+TransformButtonTooltip 移动
 
-RotateButtonText Rotate [{0}]
-RotateButtonTooltip Rotate
+RotateButtonText 旋转 [{0}]
+RotateButtonTooltip 旋转
 
-ScaleButtonText Scale [{0}]
-ScaleButtonTooltip Scale
+ScaleButtonText 缩放 [{0}]
+ScaleButtonTooltip 缩放
 
-CoordinateButtonTextGlobal Global
-CoordinateButtonTextLocal Local
-CoordinateButtonTooltip Coordinate
+CoordinateButtonTextGlobal 全局坐标
+CoordinateButtonTextLocal 局部坐标
+CoordinateButtonTooltip 坐标系

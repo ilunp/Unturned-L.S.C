@@ -1,38 +1,38 @@
-AzimuthSliderLabelText Azimuth
-BiasSliderLabelText Bias
-FadeSliderLabelText Fade
-Sea_Level_Slider_Label Sea Level
-Snow_Level_Slider_Label Snow Level
-Rain_Freq_Label Rain Frequency Multiplier
-Rain_Dur_Label Rain Duration Multiplier
-Snow_Freq_Label Snow Frequency Multiplier
-Snow_Dur_Label Snow Duration Multiplier
-WeatherPreview_Label Preview Weather
-Rain_Toggle_Label Can Rain
-Snow_Toggle_Label Can Snow
-MoonSliderLabelText Moon
-TimeSliderLabelText Time
+AzimuthSliderLabelText 太阳方位
+BiasSliderLabelText 昼夜比例
+FadeSliderLabelText 昼夜过渡
+Sea_Level_Slider_Label 海平面高度
+Snow_Level_Slider_Label 降雪等级
+Rain_Freq_Label (倍) 降雨频率
+Rain_Dur_Label (倍) 降雨时长
+Snow_Freq_Label (倍) 降雪频率
+Snow_Dur_Label (倍) 降雪时长
+WeatherPreview_Label 预览天气
+Rain_Toggle_Label 允许降雨
+Snow_Toggle_Label 允许降雪
+MoonSliderLabelText 调整月相
+TimeSliderLabelText 调整时间
 
-Time_0 Dawn
-Time_1 Midday
-Time_2 Dusk
-Time_3 Midnight
+Time_0 黎明
+Time_1 正午
+Time_2 黄昏
+Time_3 午夜
 
-Color_0 Sun
-Color_1 Sea
-Color_2 Fog
-Color_3 Top Sky
-Color_4 Middle Sky
-Color_5 Bottom Sky
-Color_6 Top Ambient
-Color_7 Middle Ambient
-Color_8 Bottom Ambient
-Color_9 Clouds
-Color_10 Rays
-Color_11 Particle Lighting
+Color_0 太阳颜色
+Color_1 海浪颜色
+Color_2 迷雾颜色
+Color_3 天空颜色
+Color_4 海平面颜色
+Color_5 虚空颜色
+Color_6 地表层环境颜色
+Color_7 叠加层环境颜色
+Color_8 云底层环境颜色
+Color_9 云朵颜色
+Color_10 光线颜色
+Color_11 粒子照明
 
-Single_0 Intensity
-Single_1 Fog
-Single_2 Clouds
-Single_3 Shadows
-Single_4 Rays
+Single_0 亮度
+Single_1 雾量
+Single_2 云量
+Single_3 阴影
+Single_4 光线

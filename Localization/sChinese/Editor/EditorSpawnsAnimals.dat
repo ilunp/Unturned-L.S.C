@@ -1,29 +1,29 @@
-TableNameFieldLabelText Table
-AddTableButtonText Add
-AddTableButtonTooltip Create Table
-RemoveTableButtonText Sub
-RemoveTableButtonTooltip Remove Table
+TableNameFieldLabelText 生成表名称
+AddTableButtonText 添加
+AddTableButtonTooltip 添加生成表
+RemoveTableButtonText 移除
+RemoveTableButtonTooltip 移除生成表
 
-SelectionBoxLabelText Selection
+SelectionBoxLabelText 选择
 
-TableIDFieldLabelText Spawn ID
+TableIDFieldLabelText 生成表 ID
 
-TierNameFieldLabelText Tier
-AddTierButtonText Add
-AddTierButtonTooltip Create Tier
-RemoveTierButtonText Sub
-RemoveTierButtonTooltip Remove Tier
+TierNameFieldLabelText 层级
+AddTierButtonText 添加
+AddTierButtonTooltip 添加层级
+RemoveTierButtonText 移除
+RemoveTierButtonTooltip 移除层级
 
-AnimalIDFieldLabelText ID
-AddAnimalButtonText Add
-AddAnimalButtonTooltip Create Animal
-RemoveAnimalButtonText Sub
-RemoveAnimalButtonTooltip Remove Animal
+AnimalIDFieldLabelText 动物 ID
+AddAnimalButtonText 添加
+AddAnimalButtonTooltip 添加动物
+RemoveAnimalButtonText 移除
+RemoveAnimalButtonTooltip 移除动物
 
-RadiusSliderLabelText Radius
+RadiusSliderLabelText 半径
 
-AddButtonText Add [{0}]
-AddButtonTooltip Create Spawnpoint
+AddButtonText 添加 [{0}]
+AddButtonTooltip 添加刷新点
 
-RemoveButtonText Sub [{0}]
-RemoveButtonTooltip Remove Spawnpoints
+RemoveButtonText 移除 [{0}]
+RemoveButtonTooltip 移除刷新点
