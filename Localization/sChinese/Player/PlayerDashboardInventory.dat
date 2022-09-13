@@ -124,7 +124,7 @@ Vehicle_Blimp_On 上升 [{0}]
 Vehicle_Blimp_Off 下降 [{0}]
 Vehicle_Blimp_Tooltip 调整气囊压舱物.
 Vehicle_Hook 牵引锚索 [{0}]
-Vehicle_Hook_Tooltip 携带附近的载具.
+Vehicle_Hook_Tooltip 钩吊附近的载具.
 Vehicle_Seat_Empty 空
 Vehicle_Seat_Slot {0} [{1}]
 Vehicle_Steal_Battery 取出电池
@@ -133,7 +133,7 @@ Vehicle_Skin_On 应用涂装
 Vehicle_Skin_Off 清除涂装
 Vehicle_Skin_Tooltip 应用有效载具皮肤.
 
-Hands 手持
+Hands 口袋
 Storage 储存
 Storage_Trunk {0} 的后备储存
 Area 附近
