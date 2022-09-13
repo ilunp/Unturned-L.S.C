@@ -16,7 +16,7 @@ Surface 通过按住 <color=#CCFFFF>[{0}]</color> 可在潜水时快速上浮至
 Arrest 通过反复敲击 <color=#CCFFFF>[{0}]</color> 和 <color=#CCFFFF>[{1}]</color> 可挣脱手铐/束带的束缚.
 Safezone 通过放置 <color=legendary>Safezone Radiator</color> 可防止僵尸生成来保护区域, 但会阻止物品生成.
 Claim 通过放置 <color=legendary>领地旗帜</color> 可防止玩家在附近区域建造和破坏.
-Group 通过加入与伙伴相同群组 1.防止伤害彼此 2.共享彼此的建筑 3.地图中看到彼此 4.作为团队赢得竞技场.
+Group 通过加入与伙伴相同群组 <color=#CCFFFF>1</color>.防止伤害彼此 <color=#CCFFFF>2</color>.共享彼此的建筑 <color=#CCFFFF>3</color>.地图中看到彼此 <color=#CCFFFF>4</color>.作为团队赢得竞技场.
 Map 如果拥有 <color=uncommon>地图</color> 或者 <color=epic>GPS</color>, 通过按下 <color=#CCFFFF>[{0}]</color> 可打开该地区的地图.
 Beacon 通过放置 <color=legendary>尸潮信标</color> 可召唤尸潮以获得丰富的奖励.
 Horn 通过按下 <color=#CCFFFF>[{0}]</color> 可使用载具的喇叭.
