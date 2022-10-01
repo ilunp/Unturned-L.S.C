@@ -4,7 +4,7 @@ Rewards 奖励:
 Condition_Experience 经验 {0}/{1}
 Condition_Reputation 声望 {0}/{1}
 Condition_Item {0}/{1} {2}
-Condition_Currency 货币 {0}
+Condition_Currency 货币 {0}/{1}
 
 Condition_AnimalKills 击杀动物 {0}/{1}
 Condition_HordeKills 击退尸潮 {0}/{1}

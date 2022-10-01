@@ -2,6 +2,7 @@ Intent_Delete 确定将要移除 "{0}" 吗?
 Intent_Salvage 确定将要分解 "{0}" 吗?
 Intent_Tag_Tool 确定要将 "{0}" 应用到 "{1}" 吗?
 Warning 警告: 此操作无法撤消!
+Warning_UndoableWithTool 如果你改变了想法,可使用与其对应的移除工具将其移除.
 Confirm 请输入 "{0}" 来再次确认操作:
 Delete 移除
 Salvage 分解
@@ -11,5 +12,5 @@ Yes 确定
 Yes_Delete_Tooltip 确定移除该物品
 Yes_Salvage_Tooltip 确定分解该物品
 Yes_Tag_Tool_Tooltip 确定附加该物品
-No 取消!
-No_Tooltip 取消!
+No 取消
+No_Tooltip 取消

@@ -6,3 +6,4 @@ Visibility_Wireframe 线框
 Visibility_Solid 模型
 
 WantsUnderwaterEffects 开启水下效果
+WantsWaterSurface 水面可见

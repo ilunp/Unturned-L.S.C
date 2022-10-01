@@ -11,7 +11,7 @@ LevelButtonText 地图
 LevelButtonTooltip 可见性/结构体
 
 Heights 样本 [{0}]
-Roads Split [{0}] 移动 [{1}]
+Roads 移动 [{0}]
 Navigation 移动 [{0}]
 Objects 辅助 [{0}] 移动 [{1}] 放置 [{2}]
 Nodes 移动 [{0}]
