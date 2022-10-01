@@ -11,7 +11,7 @@ LevelButtonText Level
 LevelButtonTooltip World
 
 Heights Sample [{0}]
-Roads Split [{0}] Move [{1}]
+Roads Move [{0}]
 Navigation Move [{0}]
 Objects Snap [{0}] Move [{1}] Build [{2}]
 Nodes Move [{0}]

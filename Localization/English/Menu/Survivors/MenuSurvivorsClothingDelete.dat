@@ -2,6 +2,7 @@ Intent_Delete Are you sure you want to delete "{0}"?
 Intent_Salvage Are you sure you want to salvage "{0}"?
 Intent_Tag_Tool Are you sure you want to apply "{0}" to "{1}"?
 Warning This cannot be undone!
+Warning_UndoableWithTool If you change your mind it can be removed using a removal tool.
 Confirm Type "{0}" to confirm:
 Delete DELETE
 Salvage SALVAGE
