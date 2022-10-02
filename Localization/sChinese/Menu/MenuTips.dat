@@ -8,7 +8,7 @@ Quality 游骑兵(俄制)比军用对应的装备和配件更耐用.
 Umbrella 雨伞可降低下落速度和免疫摔落伤害.
 Heal 通过鼠标对准玩家后右键单击可将手中的医疗用品为该玩家治疗.
 Rotate 通过在按住鼠标右键的同时拖动鼠标可旋转需要建造的实体.
-Base 物品制作材料会影响物品属性: <color=epic>金属</color> -> <color=rare>砖石</color> -> <color=rare>松木</color> -> <color=uncommon>枫木</color> -> <color=common>桦木</color>
+Base 物品制作材料会影响物品属性: <color=epic>金属</color> -> <color=rare>砖块</color> -> <color=rare>松木</color> -> <color=uncommon>枫木</color> -> <color=common>桦木</color>
 Dequip 通过按下 <color=#CCFFFF>[{0}]</color> 可快速卸下手中的物品.
 Nightvision 通过按下 <color=#CCFFFF>[{0}]</color> 可打开/关闭夜视仪和战术灯.
 Transfer 通过按住 <color=#CCFFFF>[{0}]</color> 的同时右键单击物品可将该物品快速存入储物箱或从储物箱中取出.
