@@ -1,7 +1,7 @@
 Space 容器占满
 Item 捡起 {0} [{1}]
 Vehicle_Enter_Locked 进入 {0} [{1}] [已上锁]
-Vehicle_Enter_Unlocked 进入 {0} [{1}] [[未上锁]
+Vehicle_Enter_Unlocked 进入 {0} [{1}] [未上锁]
 Vehicle_Exit 离开 [{0}]
 Vehicle_Swap 切换座位 [F1-F{0}]
 Reload 装填弹药 [{0}]
@@ -53,32 +53,32 @@ Wave_Off 现在尸潮被击退了....
 Power 缺少电力资源
 Use 使用 [{0}]
 Salvage 拆除 [按住 {0}]
-Tutorial_Move Hey there! Are you alive? Move [{0}, {1}, {2}, {3}] around a bit, get your blood flowing!
-Tutorial_Look Okay phew! Can you View [Drag Mouse] my camera in the corner?
-Tutorial_Jump Looking good! Jump [{0}] over this ledge. This can save your life when you're being chased!
-Tutorial_Perspective Looking so good that you might want a peek for yourself! Get a different Perspective [{0}] on life.
-Tutorial_Run Wait, nevermind jumping, sometimes it's best to just Run [{0}] away from danger!
-Tutorial_Inventory Here's some nice clothes for you! Interact [{0}] to get a bit of space for storing your gear.
-Tutorial_Survival The basic necessities of life! You can equip or drop them from your Inventory [{0}] with [{1}] after picking them up.
-Tutorial_Gun Finally a chance for some action! Aim [{0}] and Shoot [{1}] your gun at those zombies.
-Tutorial_Ladder Nice shooting! Next time maybe climb down the ladder by walking backwards onto it rather than jumping in...
-Tutorial_Craft View your Attachments [{0}] and select the magazine to remove it, then Craft [{1}] it with these bullets in the ammo category to restock it.
-Tutorial_Skills Use some of those experience points you got from the zombies to level up your Skills [{0}] in each category!
-Tutorial_Swim Navigate through that cave and Surface [{0}] on the other side.
-Tutorial_Medical Use [{0}] these medical supplies if you're feeling wounded! Note: I have no liability for any injuries sustained.
-Tutorial_Vehicle Siphon [{0}] the fuel tank into the gas can, then Fuel [{1}] this vehicle to Drive [{2}] to the other end.
-Tutorial_Crouch Sneaking with Crouch [{0}] is vital to avoid zombie detection, and allows you through small spaces.
-Tutorial_Prone At the cost of speed you can also go Prone [{0}] which is far sneakier than crouching!
-Tutorial_Educated You've completed your basic training! Pause [{0}] to leave, or stay and see a few advanced activities.
-Tutorial_Harvest Scavenge [{0}] for berries, chop down trees and hunt animals to survive in the wilderness!
-Tutorial_Fish Fishing requires patience and deep water. Cast [{0}] your line and Reel [{0}] it in when you see the bob go under.
-Tutorial_Build Building a base is key to your survival, and spans from tiny traps to giant walls. You can even build vehicles!
-Tutorial_Horn Gather attention with your Horn [{0}]!
-Tutorial_Lights Use your Headlights [{0}] to see further in the dark.
-Tutorial_Sirens Show the bandits you mean business with your Sirens [{0}]!
-Tutorial_Farm Farming provides a sustainable source of food.
-Tutorial_Power Generators can power electrical objects such as anti-zombie radiators and traffic lights.
-Tutorial_Fire Fires keep you warm in freezing environments and give you an easy place to Cook [{0}] food.
+Tutorial_Move 你好, 幸存者! 你还活着吗? 通过按下 [{0}, {1}, {2}, {3}] 在周围稍微走动一下, 让您的血液流动起来吧!
+Tutorial_Look 干得漂亮! 现在你能通过 [拖动鼠标] 移动视角查看角落的摄像机吗?
+Tutorial_Jump 看起来不错! 通过按下 [{0}] 跳过这个窗台(障碍). 当你陷入某种困境时或许能够救你一命!
+Tutorial_Perspective 看起来非常好, 有时你可能想要看看自己! 通过按下 [{0}] 切换不同的人称视角.
+Tutorial_Run 等一下, 有时无法通过跳跃避险, 或许通过按下 [{0}] 疾跑能够更快的脱离危险.
+Tutorial_Inventory 这里有一些不错的装扮! 通过按下 [{0}] 穿上它们来获得少量储存空间来存放你的装备.
+Tutorial_Survival 接下来是生存基础技巧! 拾取物品后按下 [{0}] 打开物品栏并 [{1}] 可对物品执行装备或丢弃等操作.
+Tutorial_Gun 终于有机会采取行动了! 使用枪械按下 [{0}] 瞄准后按下 [{1}] 开火射杀僵尸.
+Tutorial_Ladder 好! 接下来应该是通过向后移动来爬下梯子, 而不是直接跳进去...
+Tutorial_Craft 通过按下 [{0}] 查看枪械配件和选择弹匣, 然后按下 [{1}] 打开制作栏将对应的弹药填入弹匣中.
+Tutorial_Skills 通过按下 [{0}] 打开技能栏并使用一些从击杀僵尸获得的经验值来提升不同类别的技能等级!
+Tutorial_Swim 游过水下的洞穴到达另一边后通过按下 [{0}] 可上浮至水面. 
+Tutorial_Medical 如果你认为受到伤害后需要治疗可以通过按下 [{0}] 使用医疗用品!
+Tutorial_Vehicle 按下 [{0}] 将油罐内的油抽入汽油桶, 按下 [{1}] 给载具加油并 [{2}] 驾驶到达另一端.
+Tutorial_Crouch 通过按下 [{0}] 蹲伏躲避僵尸的视线至关重要, 并且可以通过矮小的障碍.
+Tutorial_Prone 也可以通过按下 [{0}] 使用比蹲伏缓慢且更隐蔽的姿势——俯卧!
+Tutorial_Educated 你已经完成了基础教学! 通过按下 [{0}] 暂停离开, 或者留下来然后看一些进阶操作.
+Tutorial_Harvest 通过按下 [{0}] 采摘浆果, 砍伐树木和狩猎动物来在荒野中生存下去
+Tutorial_Fish 钓鱼需要耐心和深水域. 通过按下 [{0}] 抛出渔钩, 当你看到浮标下沉时通过按下 [{0}] 即可回收.
+Tutorial_Build 建造小型陷阱和大型基地始终是生存的关键. 你甚至可以建在载具上!
+Tutorial_Horn 按下 [{0}] 使用喇叭可以吸引其他生物的注意力!
+Tutorial_Lights 通过 [{0}] 打开头灯能够提供光源来在黑暗中获得视野
+Tutorial_Sirens 通过按下 [{0}] 打开警笛来警告恶棍这可不是什么过家家游戏...
+Tutorial_Farm 农业能持续为食物提供稳定的来源.
+Tutorial_Power 发电机能为僵尸驱逐器和交通信号灯等电气设备供电.
+Tutorial_Fire 营火能在寒冷的环境维持体温和提供一个简单的热源并按下 [{0}] 来烹饪食物.
 Claim 该区域已被声明领地
 Underwater 过于潮湿
 Nav 距离城镇太远了
