@@ -25,3 +25,8 @@ ScaleButtonTooltip Scale
 CoordinateButtonTextGlobal Global
 CoordinateButtonTextLocal Local
 CoordinateButtonTooltip Coordinate
+
+MaterialPaletteOverride_Label Material Palette GUID
+MaterialPaletteOverride_Tooltip Overrides asset's default material palette.
+MaterialIndexOverride_Label Material Index
+MaterialIndexOverride_Tooltip Overrides random index into material palette.
