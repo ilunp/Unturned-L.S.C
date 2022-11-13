@@ -25,9 +25,10 @@ Slash  /
 
 Insert Ins
 Delete Del
+Escape ESC
 
-LeftParen Left Parenthesis
-RightParen Right Parenthesis
+LeftParen  ( 
+RightParen  ) 
 LeftBracket  ] 
 RightBracket  ] 
 BackQuote  ` 
