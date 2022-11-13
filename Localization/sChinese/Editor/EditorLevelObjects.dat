@@ -25,3 +25,8 @@ ScaleButtonTooltip 缩放
 CoordinateButtonTextGlobal 全局坐标
 CoordinateButtonTextLocal 局部坐标
 CoordinateButtonTooltip 坐标系
+
+MaterialPaletteOverride_Label 纹理面板 GUID
+MaterialPaletteOverride_Tooltip 覆盖资产默认纹理面板.
+MaterialIndexOverride_Label 纹理索引
+MaterialIndexOverride_Tooltip 覆盖随机索引到纹理面板.

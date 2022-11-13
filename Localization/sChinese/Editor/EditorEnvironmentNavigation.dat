@@ -3,6 +3,7 @@ Height_Label 长度
 Nav_Label 导航标识
 Difficulty_GUID_Field_Label 难度 GUID
 Max_Zombies_Field_Label 僵尸数量 (上限)
+Max_Boss_Zombies_Field_Label Boss 僵尸数量 (上限)
 Spawn_Zombies_Toggle_Label 允许生成僵尸
 Hyper_Agro_Label 无限活动范围
 
