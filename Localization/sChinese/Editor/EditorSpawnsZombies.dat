@@ -9,8 +9,8 @@ SelectionBoxLabelText 选择
 MegaToggleLabelText 巨型
 HealthFieldLabelText 血量
 DamageFieldLabelText 伤害
-LootIndexFieldLabelText Loot Index
-LootIDFieldLabelText Loot ID
+LootIndexFieldLabelText 战利品索引
+LootIDFieldLabelText 战利品 ID
 XPFieldLabelText 经验
 RegenFieldLabelText 回复
 DifficultyGUIDFieldLabelText 难度 GUID
