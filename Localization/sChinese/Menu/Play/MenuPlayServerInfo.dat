@@ -24,11 +24,14 @@ Mode 游戏难度: {0}
 Cheats 作弊: {0}
 GameMode Game: {0}
 
-Monetization_None 商业化运营: 否
-Monetization_NonGameplay 商业化运营: 是(非游戏性)
+Monetization_None 商业化运营: 否(None)
+Monetization_NonGameplay 商业化运营: 是(NonGameplay)
 HostBan_MonetizationWarning 警告: 服务器违反了生效于2021年6月11日商业化运营相关规定. 点击此处获取更多信息.
 HostBan_WorkshopWarning 警告: 服务器使用的创意工坊已被创意工坊的创作者封禁.
+HostBan_QueryPingWarning 警告: 服务器列表延迟与实际游戏内延迟时间不匹配.
+HostBan_IncorrectMonetizationTagWarning 警告: 服务器未正确设置 商业化运营标签(Monetization Tag). "否(None)" :适用于无任何货币化形式或仅限捐赠的服务器, "是(NonGameplay)":适用于有任何货币化形式的服务器.
 HostBan_Apology 来自游戏开发者的致歉: 我们为错误的标记了您的服务器向您道歉! 我们很抱歉为您带来了不必要的麻烦并将会尽我们最大的努力来防止此类事件再次发生.
+NotLoggedInMessage 无法加入未使用游戏服务器登录令牌 (GSLT) 登录的服务器. 点击此处获取更多信息.
 
 Yes 启用
 No 禁用
@@ -70,3 +73,5 @@ ServerOlderVersion_Label 服务器当前游戏版本较旧: {0}
 ServerOlderVersion_Tooltip 无法加入游戏版本较旧的服务器. (请等待服务器更新).
 ServerBlacklisted_Label 服务器被开发者封禁.
 ServerBlacklisted_Tooltip 无法加入被开发者封禁的服务器.
+NotLoggedInBlock_Label 服务器未登录.
+NotLoggedInBlock_Tooltip 无法加入未设置游戏服务器登录令牌 (GSLT) 的服务器.

@@ -14,3 +14,8 @@ Pro_Server 服务器仅允许黄金账户加入.
 Password 请输入正确的服务器密码.
 Full 服务器玩家/队列列表已满员.
 Timed_Out 服务器连接超时.
+
+Address_Loopback_Label 本地主机
+Address_Loopback_Tooltip 本地主机的服务器地址.
+Address_LocalPrivate_Label 局域网
+Address_LocalPrivate_Tooltip 局域网的服务器地址.

@@ -63,6 +63,7 @@ Name_Character_Long 角色 昵称过长.
 Name_Character_Invalid 角色 昵称包含无效字母.
 Name_Character_Number 角色 昵称不能只是数字.
 Timed_Out 服务器连接超时.
+Timed_Out_Login 服务器队列响应超时. 可能由服务器/插件的错误或网络问题造成.
 Map 客户端缺少服务器使用的地图资源文件.
 Shutdown 服务器已关闭.
 Shutdown_Reason 因 {0} , 服务器已关闭.
@@ -122,7 +123,8 @@ Pro_Button_Tooltip 点击此处查看商店页面.
 BattlEye_Header 警告: 战眼(BattlEye)已禁用
 BattlEye_Body 战眼反作弊(BattlEye anti-cheat) 未启用, 无法加入受战眼(BattlEye)反作弊保护的服务器. 如果已经跳过安装步骤或者将战眼(BattlEye)卸载, 那么可以通过运行在 Unturned/BattlEye 文件夹内的 Install_BattlEye.bat 脚本重新安装.
 
-UpdateAvailable 新版本 {0} 可用! 如果已启用自动更新将会在关闭游戏后下载和安装更新.
+UpdateAvailable 新版本 {0} 可用! 如果已启用自动更新将会在关闭游戏后下载并安装更新.
+RollbackAvailable 检测到需从当前版本回到 {0} 版本! 这通常意味存在着破坏游戏的错误并且这需要一些时间来修复.<br>如果已启用自动更新将会在关闭游戏后下载并安装更新. 致歉 - 将采取预防措施以避免将来出现同样的问题!
 
 Overlay 请在游戏属性中开启"在游戏中启用 Steam 界面"选项.
 Dismiss_Notification_Label 关闭
