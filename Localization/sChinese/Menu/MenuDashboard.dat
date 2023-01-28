@@ -30,26 +30,46 @@ Kicked 因 {0} , 已被服务器踢出
 Whitelisted 服务器已启用白名单.
 Password 请输入正确的服务器密码.
 Full 服务器玩家/队列列表已满员.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12230991951124
 Hash_Level 服务器正在使用的地图已被修改.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233096287124
 Hash_Assembly 服务器正在使用的代码已被修改.
+
 Version 服务器与客户端游戏版本不一致. 服务器: v{0} /客户端: v{1}
 Pro_Server 服务器仅允许黄金账户加入.
 Pro_Character 请选择一个有效的角色.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12112937823764
 Pro_Desync 客户端与服务器的黄金账户验证存在分歧.
+
 Pro_Appearance 请选择一个有效的表情, 发型, 胡子, 肤色和发色.
 Auth_Verification 身份验证票证验证失败.
 Auth_No_Steam 未连接至 Steam.
 Auth_License_Expired 身份验证票证已过期.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12112937823764
 Auth_VAC_Ban 已被禁止在已启用VAC保护服务器中游玩.
+
 Auth_Elsewhere 已在其他服务器中游玩.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233657269140
 Auth_Timed_Out Steam 反作弊服务器无响应.
+
 Auth_Used 身份验证票证已被使用.
 Auth_No_User 未连接至账号.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233962470548
 Auth_Pub_Ban 已被禁止游玩多人游戏.
+
 Auth_Econ_Serialize 经济体票证序列化失败.
 Auth_Econ_Deserialize 经济体票证反序列化失败.
 Auth_Econ_Verify 经济体票证验证失败.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12238777357716
 Auth_Empty Steam 身份验证服务器无响应.
+
 Already_Connected 已连接至服务器.
 Already_Pending 已在服务器队列中.
 Late_Pending 已退出服务器队列.
@@ -62,9 +82,16 @@ Name_Character_Short 角色 昵称过短.
 Name_Character_Long 角色 昵称过长.
 Name_Character_Invalid 角色 昵称包含无效字母.
 Name_Character_Number 角色 昵称不能只是数字.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12236562526228
 Timed_Out 服务器连接超时.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12236323445396
 Timed_Out_Login 服务器队列响应超时. 可能由服务器/插件的错误或网络问题造成.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12230327880980
 Map 客户端缺少服务器使用的地图资源文件.
+
 Shutdown 服务器已关闭.
 Shutdown_Reason 因 {0} , 服务器已关闭.
 PingV2 因延迟超过服务器限制被拒绝. ({0}/{1}ms)
@@ -75,19 +102,36 @@ Structure 客户端缺少服务器使用的自定义 结构(structure) 资源 ({
 Vehicle 客户端缺少服务器使用的自定义 载具(vehicle) 资源 ({0}) 文件.
 Client_Module_Desync 服务器缺少客户端使用的自定义模组文件.
 Server_Module_Desync 客户端缺少服务器使用的自定义模组文件.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12113364891796
 BattlEye_Broken 战眼(BattlEye): 未正确安装/运行服务 (请从启动器重新启动). 如果已经跳过安装步骤或者将战眼(BattlEye)卸载, 那么可以通过运行在 Unturned/BattlEye 文件夹内的 Install_BattlEye.bat 脚本重新安装.
+# https://support.smartlydressedgames.com/hc/en-us/articles/12113364891796
 BattlEye_Update 战眼(BattlEye): 需要更新服务 (请从启动器重新启动).
+# https://support.smartlydressedgames.com/hc/en-us/articles/12113364891796
 BattlEye_Unknown 战眼(BattlEye): 未知请求 (请从启动器重新启动).
+
 Level_Version 服务器与客户端地图 {1} 版本不一致. 服务器: v{0} /客户端: v{2}
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12235019853844
 Econ_Hash 服务器与客户端经济体库存版本不一致.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12235744541588
 Master_Bundle_Hash 资源文件错误: {0}
+
 Failure_Unknown {0} 因未知原因失败: {1}
 Reject_Unknown 因未知原因被拒绝: {0}
 Workshop_Download_Restriction 服务器未获得创作者授权, 仍然使用创意工坊物品 {0} 中的内容.
 Workshop_Advertisement_Mismatch 服务器未列出创意工坊物品, 仍然请求下载创意工坊.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12234373472660
 Late_Pending_Steam_Auth 游戏服务器未收到响应(Steam 身份验证服务器).
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12234695640596
 Late_Pending_Steam_Econ 游戏服务器未收到响应(Steam 经济体服务器).
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233488033172
 Late_Pending_Steam_Groups 游戏服务器未收到响应(Steam 群组服务器).
+
 Name_Private_Long 仅好友可见的组内昵称过长.
 Name_Private_Invalid 仅好友可见的组内昵称包含无效字母.
 Name_Private_Number 仅好友可见的组内昵称不能只是数字.
@@ -111,7 +155,10 @@ SteamNetworkingSockets_EndReason_Remote_BadCert 无法信任主机加密证书.
 SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion 主机以不同 Steam 网络协议运行.
 SteamNetworkingSockets_EndReason_Remote_Unknown 未知远程连接错误: {0}
 SteamNetworkingSockets_EndReason_Misc_InternalError Steam 网络内部错误.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233488033172
 SteamNetworkingSockets_EndReason_Misc_Timeout 主机或 Steam 网络连接超时.
+
 SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam 连接遇到问题.
 SteamNetworkingSockets_EndReason_Misc_Unknown 未知杂项连接错误: {0}
 SteamNetworkingSockets_EndReason_Unknown 连接因未知原因被终止: {0}

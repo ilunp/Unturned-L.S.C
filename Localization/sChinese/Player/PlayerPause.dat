@@ -14,13 +14,13 @@ Exit_Button_Tooltip 退出至主菜单.
 Quit_Button 退出至桌面
 Quit_Button_Timer 倒计时 [{0}]
 Quit_Button_Tooltip 退出至桌面.
-Suicide_Button_Text 自杀
+Suicide_Button_Text 重生
 Suicide_Button_Tooltip 随机地点重生.
 Suicide_Button_Confirm 是
-Suicide_Button_Confirm_Tooltip 死掉
+Suicide_Button_Confirm_Tooltip 死亡重生
 Suicide_Button_Deny 否
-Suicide_Button_Deny_Tooltip 活着
-Suicide_Disabled 禁止自杀
+Suicide_Button_Deny_Tooltip 取消重生
+Suicide_Disabled 禁止重生
 
 Spy_Refresh_Button_Text 监视
 Spy_Refresh_Button_Tooltip 刷新

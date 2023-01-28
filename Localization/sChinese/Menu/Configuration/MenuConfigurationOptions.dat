@@ -29,6 +29,10 @@ Matchmaking_Show_All_Maps_Toggle_Label 快速匹配 显示 全部地图
 Min_Matchmaking_Players_Field_Label 快速匹配玩家下限
 Max_Matchmaking_Ping_Field_Label 快速匹配延迟上限
 
+UseStaticCrosshair_Label 自定义十字准星尺寸
+UseStaticCrosshair_Tooltip 使用自定义十字准星尺寸, 而不是根据散布计算尺寸.
+StaticCrosshairSize_Label 十字准星尺寸
+
 Metric_On 公制
 Metric_Off 英制
 Metric_Tooltip 距离测量单位制度

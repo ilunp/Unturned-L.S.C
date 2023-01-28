@@ -20,7 +20,7 @@ Gun You were shot in the {0} by {1} [{2}]!
 Melee You were chopped in the {0} by {1} [{2}]!
 Zombie 你被僵尸撕碎了!
 Animal 你被动物踩扁了!
-Suicide 你结束了自己的生命.(所有人都很失望)
+Suicide 你结束了自己的生命. 祝你下次好运!
 Kill 你被管理员杀死了.
 Infection 你被感染致死了!
 Punch You were punched in the {0} by {1} [{2}]!
