@@ -5,5 +5,9 @@ Visibility_Hidden Hidden
 Visibility_Wireframe Wireframe
 Visibility_Solid Solid
 
+# todo move into per-volume-manager classes
 WantsUnderwaterEffects Enable Underwater Effects
 WantsWaterSurface Water Surface Visible
+RefreshCullingVolumes Refresh Objects
+RefreshCullingVolumes_Tooltip Update which objects are inside culling volumes.
+PreviewCulling Preview Culling
