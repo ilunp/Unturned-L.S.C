@@ -9,8 +9,8 @@ SnapRotationLabelText 辅助旋转距离 [Ctrl]
 LargeLabel 大型实体
 MediumLabel 中型实体
 SmallLabel 小型实体
-BarricadesLabel Barricades
-StructuresLabel Structures
+BarricadesLabel 碰撞体
+StructuresLabel 结构体
 NPCsLabel NPCs
 
 TransformButtonText 移动 [{0}]
