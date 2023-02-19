@@ -5,5 +5,9 @@ Visibility_Hidden 隐藏
 Visibility_Wireframe 线框
 Visibility_Solid 模型
 
-WantsUnderwaterEffects 开启水下效果
-WantsWaterSurface 水面可见
+# todo move into per-volume-manager classes
+WantsUnderwaterEffects 水下效果
+WantsWaterSurface 水面效果
+RefreshCullingVolumes 刷新剔除对象
+RefreshCullingVolumes_Tooltip 更新剔除列表中的对象.
+PreviewCulling 预览剔除

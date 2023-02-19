@@ -31,6 +31,7 @@ HostBan_MonetizationWarning 警告: 服务器违反了生效于2021年6月11日�
 HostBan_WorkshopWarning 警告: 服务器使用的创意工坊已被创意工坊的创作者封禁.
 HostBan_QueryPingWarning 警告: 服务器列表延迟与实际游戏内延迟数值不匹配.可能使用了服务器列表的代理.
 HostBan_IncorrectMonetizationTagWarning 警告: 服务器未正确设置 商业化运营标签(Monetization Tag). "否(None)" :适用于无任何货币化形式或仅限捐赠的服务器, "是(NonGameplay)":适用于有任何货币化形式的服务器.
+HostBan_HostingProvider 该警告适用于服务器托管商, 而不是独有的服务器. (例如：服务器托管商允许更改服务器端口来绕过封禁)
 HostBan_Apology 来自游戏开发者的致歉: 我们为错误的标记了您的服务器向您道歉! 我们很抱歉为您带来了不必要的麻烦并将会尽我们最大的努力来防止此类事件再次发生.
 NotLoggedInMessage 无法加入未使用游戏服务器登录令牌 (GSLT) 登录的服务器. 点击此处获取更多信息.
 

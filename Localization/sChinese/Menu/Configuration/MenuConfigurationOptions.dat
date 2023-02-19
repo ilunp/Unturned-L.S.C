@@ -18,20 +18,23 @@ Ambience_Toggle_Label 播放 白昼/黑夜 环境音效
 Streamer_Toggle_Label 主播(Streamer) 模式
 Featured_Workshop_Toggle_Label 显示创意工坊精选
 Show_Hotbar_Toggle_Label 显示物品栏
-Pause_When_Unfocused_Label 窗口切换暂停 (Alt+Tab)
-ScreenshotSizeMultiplier_Label (倍) 截图图像分辨率
+Pause_When_Unfocused_Label 切换窗口暂停 (Alt+Tab)
+ScreenshotSizeMultiplier_Label (倍) 截图分辨率
 ScreenshotSizeMultiplier_Tooltip 较高的值能明显增加渲染截图图像时所花费的时间.
-ScreenshotSupersampling_Label 截图图像超级采样
+ScreenshotSupersampling_Label 截图超级采样
 ScreenshotSupersampling_Tooltip 采用 2x 超级采样渲染截图图像来减少锯齿.
-ScreenshotsWhileLoading_Label 游戏加载使用截图图像
-ScreenshotsWhileLoading_Tooltip 启动游戏时加载画面使用截图图像.
-Matchmaking_Show_All_Maps_Toggle_Label 快速匹配 显示 全部地图
-Min_Matchmaking_Players_Field_Label 快速匹配玩家下限
-Max_Matchmaking_Ping_Field_Label 快速匹配延迟上限
+ScreenshotsWhileLoading_Label 截图游戏加载
+ScreenshotsWhileLoading_Tooltip 使用截图图像作为启动游戏时加载画面.
+Matchmaking_Show_All_Maps_Toggle_Label 快速匹配显示全部地图
+Min_Matchmaking_Players_Field_Label 快速匹配玩家(下限)
+Max_Matchmaking_Ping_Field_Label 快速匹配延迟(上限)
 
-UseStaticCrosshair_Label 自定义十字准星尺寸
-UseStaticCrosshair_Tooltip 使用自定义十字准星尺寸, 而不是根据散布计算尺寸.
-StaticCrosshairSize_Label 十字准星尺寸
+UseStaticCrosshair_Label 自定义准星大小
+UseStaticCrosshair_Tooltip 使用自定义准星大小, 而不是根据器械散布计算大小.
+StaticCrosshairSize_Label 准星大小
+CrosshairShape_Line 线状
+CrosshairShape_Classic 点状(经典)
+CrosshairShape_Label 准星样式
 
 Metric_On 公制
 Metric_Off 英制
