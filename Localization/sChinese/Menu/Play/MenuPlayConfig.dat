@@ -205,3 +205,6 @@ Allow_Item_Placement_On_Vehicle 允许在载具上放置 物品
 Allow_Trap_Placement_On_Vehicle 允许在载具上放置 陷阱
 Max_Item_Distance_From_Hull 物品与载具距离 (最大)
 Max_Trap_Distance_From_Hull 陷阱与载具距离 (最大)
+
+ThirdPerson_RecoilMultiplier (倍) 第三人称反冲
+ThirdPerson_SpreadMultiplier (倍) 第三人称散布
