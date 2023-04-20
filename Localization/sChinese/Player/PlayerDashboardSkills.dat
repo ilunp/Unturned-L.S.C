@@ -122,13 +122,13 @@ Speciality_2_Skill_1_Tooltip 学习更高级的合成蓝图.
 Speciality_2_Skill_1_Level_1 临时自制物品蓝图
 Speciality_2_Skill_1_Level_2 临时自制物品蓝图 | 基础物品蓝图
 Speciality_2_Skill_1_Level_3 临时自制物品蓝图 | 基础物品蓝图 | 高级物品蓝图
-Speciality_2_Skill_2 伐木
-Speciality_2_Skill_2_Tooltip 提高伐木和开采矿物的效率.
-Speciality_2_Skill_2_Level_1 提高 +10% 资源开采效率
-Speciality_2_Skill_2_Level_2 提高 +20% 资源开采效率
-Speciality_2_Skill_2_Level_3 提高 +30% 资源开采效率
-Speciality_2_Skill_2_Level_4 提高 +40% 资源开采效率
-Speciality_2_Skill_2_Level_5 提高 +50% 资源开采效率
+Speciality_2_Skill_2 户外
+Speciality_2_Skill_2_Tooltip 提高伐木和开采矿物速度并增加掉落数量.
+Speciality_2_Skill_2_Level_1 提高 +10% 资源开采速度 | +10% 资源掉落数量
+Speciality_2_Skill_2_Level_2 提高 +20% 资源开采速度 | +20% 资源掉落数量
+Speciality_2_Skill_2_Level_3 提高 +30% 资源开采速度 | +30% 资源掉落数量
+Speciality_2_Skill_2_Level_4 提高 +40% 资源开采速度 | +40% 资源掉落数量
+Speciality_2_Skill_2_Level_5 提高 +50% 资源开采速度 | +50% 资源掉落数量
 Speciality_2_Skill_3 烹饪
 Speciality_2_Skill_3_Tooltip 学习更美味的烹饪方式.
 Speciality_2_Skill_3_Level_1 将食物烤熟
