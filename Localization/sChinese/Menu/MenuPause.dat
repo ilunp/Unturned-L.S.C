@@ -10,7 +10,7 @@ Support_Tooltip 故障排除, FAQs, 反馈等.
 Trello_Button Trello 线路图
 Trello_Button_Tooltip 未来规划!
 
-Twitter_Button  Twitter 新闻
+Twitter_Button Twitter 新闻
 Twitter_Button_Tooltip 开发信息和更新提醒.
 
 Steam_Button Steam 新闻
@@ -19,13 +19,13 @@ Steam_Button_Tooltip 完整公告内容.
 Credits_Button 贡献者
 Credits_Button_Tooltip 相关贡献者.
 
-Forum_Button 论坛 (Forum)
+Forum_Button 论坛
 Forum_Button_Tooltip 讨论板块.
 
-Blog_Button 博客 (Blog)
+Blog_Button 博客
 Blog_Button_Tooltip 开发日记.
 
-Wiki_Button 维基百科
+Wiki_Button 维基
 Wiki_Button_Tooltip 社区经营. 
 
 Overlay 请在游戏属性中开启"在游戏中启用 Steam 界面"选项.

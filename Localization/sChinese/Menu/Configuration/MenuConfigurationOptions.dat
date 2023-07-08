@@ -41,19 +41,23 @@ CrosshairShape_Label 准星样式
 
 Metric_On 公制
 Metric_Off 英制
-Metric_Tooltip 距离测量单位制度
+Metric_Tooltip 影响距离和速度的表示方式.
+Metric_Label 单位系统
 
-Talk_On 跳过文本动画
-Talk_Off 播放文本动画
-Talk_Tooltip NPC 文本显示动画
+Talk_On 跳过
+Talk_Off 播放
+Talk_Tooltip 禁用 NPC 对话的文本动画.
+Talk_Label 对话文本动画
 
-UI_Free 浅色界面
-UI_Pro 深色界面
-UI_Tooltip 界面颜色
+UI_Free 浅色
+UI_Pro 深色
+UI_Tooltip 浅色与黄金帐户 (DLC) 中的 UI 颜色选项结合使用时效果更佳.
+UI_Label 界面颜色
 
-Hitmarker_Static 静态命中标记
-Hitmarker_Dynamic 动态命中标记
-Hitmarker_Tooltip <静态> 保持在屏幕中心, <动态> 保持在物体被命中处
+Hitmarker_Static 静态
+Hitmarker_Dynamic 动态
+Hitmarker_Tooltip <静态> 标记屏幕中心 | <动态> 标记命中物体.
+Hitmarker_Label 命中标记位置
 HitmarkerStyle_Animated 动画
 HitmarkerStyle_Classic 经典
 HitmarkerStyle_Label 命中标记样式
