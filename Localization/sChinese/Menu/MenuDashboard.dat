@@ -172,6 +172,9 @@ SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam 连接遇到问题
 SteamNetworkingSockets_EndReason_Misc_Unknown 未知杂项连接错误: {0}
 SteamNetworkingSockets_EndReason_Unknown 连接因未知原因被终止: {0}
 
+InternetMultiplayerUnavailable_NoWebRequests 无法进行多人游戏, 抱歉! [请禁用 -NoWebRequests 启动选项.]
+InternetMultiplayerUnavailable_NoConnection 无法进行多人游戏, 非常抱歉! [服务器处于审核状态]
+
 Pro_Title 升级黄金帐户 (DLC)
 Pro_Button 黄金帐户拥有更多自定义选项和角色槽位,可进入高级服务器! 更多详细信息请查看商店页面.
 Pro_Button_Tooltip 点击此处查看商店页面.
