@@ -23,7 +23,7 @@ Type_14 饮料
 Type_15 药物
 Type_16 近战武器
 Type_17 油罐
-Type_18 Tool
+Type_18 工具
 Type_19 路障
 Type_20 物品储存装置
 Type_21 信标
@@ -49,8 +49,8 @@ Type_40 远程爆破装置
 Type_41 经验存储装置
 Type_42 辐射过滤装置
 Type_43 自动炮台
-Type_44 Tool
-Type_45 Tool
+Type_44 工具
+Type_45 工具
 Type_46 指南针
 Type_47 油泵
 
@@ -71,6 +71,121 @@ Dirty 浑浊
 
 Ammo 弹匣 [容量]: {0} [{1}/{2}]
 None 空
+
+ItemDescription_AmountWithCapacity 容量: {0}/{1}
+ItemDescription_SightAttachment 瞄具: {0}
+ItemDescription_TacticalAttachment 附件: {0}
+ItemDescription_GripAttachment 握把: {0}
+ItemDescription_BarrelAttachment 枪管: {0}
+ItemDescription_Clothing_Armor 保护: {0}
+ItemDescription_Clothing_ExplosionArmor 爆炸保护: {0}
+ItemDescription_Clothing_FireProof 火焰防护.
+ItemDescription_Clothing_RadiationProof 辐射防护.
+ItemDescription_ClothingMovementSpeedModifier 移动速度 [穿戴]: {0}
+ItemDescription_EquipableMovementSpeedModifier 移动速度 [装备]: {0}
+ItemDescription_PelletCount 弹丸数量: {0}
+ItemDescription_BulletDamageModifier 子弹伤害: {0}
+ItemDescription_RecoilModifier_X 水平反冲控制: {0}
+ItemDescription_RecoilModifier_Y 垂直反冲控制: {0}
+ItemDescription_RecoilModifier_Aiming 瞄准反冲控制: {0}
+ItemDescription_AimDurationModifier 瞄准速度: {0}
+ItemDescription_AimingMovementSpeedModifier 瞄准移动速度: {0}
+ItemDescription_SpreadModifier 射击精度: {0}
+ItemDescription_SwayModifier 抖动范围: {0}
+ItemDescription_AimingSpreadModifier 瞄准射击精度: {0}
+ItemDescription_ZoomFactor 倍率: {0}x
+ItemDescription_ThirdPersonZoomFactor 倍率 (第三人称): {0}x
+ItemDescription_BulletGravityModifier 射击下坠: {0}
+ItemDescription_Consumeable_Explosive 爆炸就是艺术！
+ItemDescription_Consumeable_HealthPositive 增加生命值: {0}
+ItemDescription_Consumeable_HealthNegative 降低生命值: {0}
+ItemDescription_Consumeable_FoodPositive 增加饥饿值: {0}
+ItemDescription_Consumeable_FoodNegative 降低饥饿值: {0}
+ItemDescription_Consumeable_WaterPositive 增加口渴值: {0}
+ItemDescription_Consumeable_WaterNegative 降低口渴值: {0}
+ItemDescription_Consumeable_VirusPositive 增加免疫力: {0}
+ItemDescription_Consumeable_VirusNegative 降低免疫力: {0}
+ItemDescription_Consumeable_StaminaPositive 增加体力值: {0}
+ItemDescription_Consumeable_StaminaNegative 降低体力值: {0}
+ItemDescription_Consumeable_OxygenPositive 增加氧气值: {0}
+ItemDescription_Consumeable_OxygenNegative 降低氧气值: {0}
+ItemDescription_Consumeable_WarmthPositive 增加体温值: {0}
+ItemDescription_ConsumeableBleeding_Heal 帮助止血.
+ItemDescription_ConsumeableBleeding_Cut 造成失血.
+ItemDescription_ConsumeableBones_Heal 愈合骨折.
+ItemDescription_ConsumeableBones_Break 造成骨折.
+ItemDescription_ConsumeableMoldy 低状态值表明食物变质/霉变.
+ItemDescription_Firerate 射击速度: {0} RPM
+ItemDescription_Spread 散布角度 (腰射): {0} °
+ItemDescription_Spread_Aim 散布角度 (瞄准): {0} °
+ItemDescription_DamageFalloff 伤害将在 {1} 处从 {0} 衰减至 {2}.
+ItemDescription_WeaponRange 射击距离: {0}
+ItemDescription_WeaponDamage_Player_Head 头部伤害 [玩家]: {0}
+ItemDescription_WeaponDamage_Player_Body 身体伤害 [玩家]: {0}
+ItemDescription_WeaponDamage_Player_Arm 胳膊伤害 [玩家]: {0}
+ItemDescription_WeaponDamage_Player_Leg 腿部伤害 [玩家]: {0}
+ItemDescription_WeaponDamage_Player_FoodPositive 增加饥饿值: {0}
+ItemDescription_WeaponDamage_Player_FoodNegative 降低饥饿值: {0}
+ItemDescription_WeaponDamage_Player_WaterPositive 增加口渴值: {0}
+ItemDescription_WeaponDamage_Player_WaterNegative 降低口渴值: {0}
+ItemDescription_WeaponDamage_Player_VirusPositive 增加免疫力: {0}
+ItemDescription_WeaponDamage_Player_VirusNegative 降低免疫力: {0}
+ItemDescription_WeaponDamage_Player_HallucinationPositive 导致幻觉: {0}
+ItemDescription_WeaponDamage_Player_HallucinationNegative 摆脱幻觉: {0}
+ItemDescription_WeaponBleeding_Always 造成失血.
+ItemDescription_WeaponBleeding_Heal 帮助止血.
+ItemDescription_WeaponBones_Always 造成骨折.
+ItemDescription_WeaponBones_Heal 愈合骨折.
+ItemDescription_WeaponDamage_Zombie_Head 头部伤害 [僵尸]: {0}
+ItemDescription_WeaponDamage_Zombie_Body 身体伤害 [僵尸]: {0}
+ItemDescription_WeaponDamage_Zombie_Arm 胳膊伤害 [僵尸]: {0}
+ItemDescription_WeaponDamage_Zombie_Leg 腿部伤害 [僵尸]: {0}
+ItemDescription_WeaponDamage_Animal_Head 头部伤害 [动物]: {0}
+ItemDescription_WeaponDamage_Animal_Body 身体伤害 [动物]: {0}
+ItemDescription_WeaponDamage_Animal_Limb 肢体伤害 [动物]: {0}
+ItemDescription_WeaponDamage_Barricade 伤害 [路障]: {0}
+ItemDescription_WeaponDamage_Structure 伤害 [结构]: {0}
+ItemDescription_WeaponDamage_Vehicle 伤害 [载具]: {0}
+ItemDescription_WeaponDamage_Resource 伤害 [资源]: {0}
+ItemDescription_WeaponDamage_Object 伤害 [实体]: {0}
+ItemDescription_WeaponDamage_Invulnerable 重型武器: 可以对坚固实体造成伤害.
+ItemDescription_ExplosiveBullet 撞击爆炸.
+ItemDescription_ExplosionBlastRadius 爆炸半径: {0}
+ItemDescription_ExplosionPlayerDamage 爆炸伤害 [玩家]: {0}
+ItemDescription_ExplosionZombieDamage 爆炸伤害 [僵尸]: {0}
+ItemDescription_ExplosionAnimalDamage 爆炸伤害 [动物]: {0}
+ItemDescription_ExplosionBarricadeDamage 爆炸伤害 [路障]: {0}
+ItemDescription_ExplosionStructureDamage 爆炸伤害 [结构]: {0}
+ItemDescription_ExplosionVehicleDamage 爆炸伤害 [载具]: {0}
+ItemDescription_ExplosionResourceDamage 爆炸伤害 [资源]: {0}
+ItemDescription_ExplosionObjectDamage 爆炸伤害 [实体]: {0}
+ItemDescription_Buildable_ArmorTier_Low 防御等级: 低
+ItemDescription_Buildable_ArmorTier_High 防御等级: 高
+ItemDescription_Buildable_CannotPickup 放置后不可拾取.
+ItemDescription_Buildable_CannotSalvage 受损后不可回收.
+ItemDescription_Buildable_CannotRepair 受损后不可修复.
+ItemDescription_Buildable_Health 耐久: {0}
+ItemDescription_Buildable_ExplosionProof 爆炸无法破坏.
+ItemDescription_Buildable_Lockable 对团队以外玩家上锁.
+ItemDescription_Buildable_Invulnerable 坚固实体: 重型武器可以造成伤害.
+ItemDescription_Farmable_GrowSpecificItem 产量: {0}
+ItemDescription_Farmable_RequiresSoil 需要种植在沃土中.
+ItemDescription_Farmable_CanFertilize 施肥能够加速生长.
+ItemDescription_Farmable_AffectedByAgricultureSkill 技能等级影响产量.
+ItemDescription_Farmable_AffectedByRain 雨天能够加速生长.
+ItemDescription_Trap_BreaksBones 造成骨折.
+ItemDescription_Trap_DamagesTires 造成爆胎.
+ItemDescription_Trap_PlayerDamage 伤害 [玩家]: {0}
+ItemDescription_Trap_ZombieDamage 伤害 [僵尸]: {0}
+ItemDescription_Trap_AnimalDamage 伤害 [动物]: {0}
+ItemDescription_StorageDimensions 储存空间: {0} x {1}
+ItemDescription_Throwable_Flash 造成目标短暂失明.
+ItemDescription_Throwable_Sticky 投掷粘在实体表面.
+ItemDescription_Throwable_ExplodeOnImpact 投掷撞击实体爆炸.
+ItemDescription_Throwable_FuseLength 引信长度: {0}
+ItemDescription_Melee_StrongAttackModifier 重击伤害: {0}
+ItemDescription_Melee_StrongAttackStamina 重击体力消耗: {0}
+ItemDescription_ArrestEnd_UnlocksItem 解锁: {0}
 
 Equip_Button 装备
 Equip_Button_Tooltip 装备到手中.

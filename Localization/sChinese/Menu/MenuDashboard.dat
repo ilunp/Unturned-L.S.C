@@ -21,6 +21,8 @@ ReadMore_Link_Off [折叠]
 Featured_Workshop_Link 查看创意工坊
 Featured_Workshop_Sub 订阅
 Featured_Workshop_Unsub 取消订阅
+Subscribe_Tooltip 订阅 {0}
+Unsubscribe_Tooltip 取消订阅 {0}
 Featured_Workshop_Stockpile_Link 查看 {0} 库存
 News_Author {0} - {1}
 News_Comments_Link 查看评论
@@ -36,6 +38,8 @@ Hash_Level 服务器正在使用的地图已被修改.
 
 # https://support.smartlydressedgames.com/hc/en-us/articles/12233096287124
 Hash_Assembly 服务器正在使用的代码已被修改.
+ 
+Hash_Resources 服务器正在使用的资源已被修改. 请验证游戏文件完整性.
 
 Version 服务器与客户端游戏版本不一致. 服务器: v{0} /客户端: v{1}
 Pro_Server 服务器仅允许黄金账户加入.
@@ -62,6 +66,8 @@ Auth_No_User 未连接至账号.
 
 # https://support.smartlydressedgames.com/hc/en-us/articles/12233962470548
 Auth_Pub_Ban 已被禁止游玩多人游戏.
+
+Auth_Network_Identity_Failure 服务器因重启或登录令牌变更导致验证 Steam ID 身份失败. 请刷新游戏服务器列表.
 
 Auth_Econ_Serialize 经济体票证序列化失败.
 Auth_Econ_Deserialize 经济体票证反序列化失败.

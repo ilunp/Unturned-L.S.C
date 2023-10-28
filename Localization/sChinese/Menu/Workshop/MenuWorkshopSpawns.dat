@@ -24,6 +24,8 @@ Remove_Table_Button_Tooltip 移除表
 Apply_Weights_Button 应用权重
 Apply_Weights_Button_Tooltip 计算概率百分比
 
+ID_Field_Hint ID & GUID
+
 Roots_Box {0} - 根
 Roots_Box_Tooltip 父生成表
 

@@ -50,8 +50,10 @@ Group_Rank_Admin 管理员
 Group_Rank_Owner 所有者
 
 Streamer 主播(Streamer) 模式
-Mute_On 静音
-Mute_Off 取消静音
+MuteVoiceChat_Label 语音静音
+UnmuteVoiceChat_Label 取消语音静音
+MuteTextChat_Label 聊天静音
+UnmuteTextChat_Label 取消聊天静音
 Mute_Tooltip 静音/取消静音
 Vote_Kick 踢出玩家
 Vote_Kick_Tooltip 投票踢出
