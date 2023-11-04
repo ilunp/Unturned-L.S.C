@@ -16,27 +16,27 @@ Freezing 你被活活冻死了!
 Burning 你被火焰烧死了!
 Food 你被活活饿死了!
 Water 你被活活渴死了!
-Gun You were shot in the {0} by {1} [{2}]!
-Melee You were chopped in the {0} by {1} [{2}]!
+Gun 你在 {0} 被 {1} [{2}] 击毙了!
+Melee 你在 {0} 被 {1} [{2}] 砍杀了!
 Zombie 你被僵尸撕碎了!
 Animal 你被动物踩扁了!
 Suicide 你结束了自己的生命. 祝你下次好运!
 Kill 你被管理员杀死了.
 Infection 你被感染致死了!
-Punch You were punched in the {0} by {1} [{2}]!
+Punch 你被 {1} [{2}] 钉在了 {0}!
 Breath 你被活活憋死了!
-Roadkill You were roadkilled by {0} [{1}]!
+Roadkill 你被 {0} [{1}] 撞飞了!
 Vehicle 你被载具炸死了!
-Grenade You were blown up by {0} [{1}] with a grenade!
+Grenade 你被 {0} [{1}] 使用手雷炸飞了!!
 Shred 你被铁刺网扎死了!
 Landmine 你被地雷炸死了!
 Arena 你被竞技场淘汰了!
-Missile You were blown up by {0} [{1}] with a missile!
-Charge You were blown up by {0} [{1}] with a remote detonator!
-Splash You were blown up by {0} [{1}] with an explosive bullet!
+Missile 你被 {0} [{1}] 使用导弹蒸发了!
+Charge 你被 {0} [{1}] 使用雷管炸碎了!
+Splash 你被 {0} [{1}] 使用榴弹炸开了!
 Sentry 你被哨兵枪射死了!
-Acid You were blown up a zombie!
+Acid 你被强酸腐蚀了!
 Boulder 你被巨石砸扁了!
 Burner 你被烈火烧烤了!
-Spit You were dissolved by a zombie!
+Spit 你被唾沫溶解了!
 Spark 你被电击治疗了!
