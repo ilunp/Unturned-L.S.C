@@ -103,8 +103,8 @@ ItemDescription_Consumeable_FoodPositive 增加饥饿值: {0}
 ItemDescription_Consumeable_FoodNegative 降低饥饿值: {0}
 ItemDescription_Consumeable_WaterPositive 增加口渴值: {0}
 ItemDescription_Consumeable_WaterNegative 降低口渴值: {0}
-ItemDescription_Consumeable_VirusPositive 增加免疫力: {0}
-ItemDescription_Consumeable_VirusNegative 降低免疫力: {0}
+ItemDescription_Consumeable_VirusPositive 增加健康值: {0}
+ItemDescription_Consumeable_VirusNegative 降低健康值: {0}
 ItemDescription_Consumeable_StaminaPositive 增加体力值: {0}
 ItemDescription_Consumeable_StaminaNegative 降低体力值: {0}
 ItemDescription_Consumeable_OxygenPositive 增加氧气值: {0}
@@ -128,8 +128,8 @@ ItemDescription_WeaponDamage_Player_FoodPositive 增加饥饿值: {0}
 ItemDescription_WeaponDamage_Player_FoodNegative 降低饥饿值: {0}
 ItemDescription_WeaponDamage_Player_WaterPositive 增加口渴值: {0}
 ItemDescription_WeaponDamage_Player_WaterNegative 降低口渴值: {0}
-ItemDescription_WeaponDamage_Player_VirusPositive 增加免疫力: {0}
-ItemDescription_WeaponDamage_Player_VirusNegative 降低免疫力: {0}
+ItemDescription_WeaponDamage_Player_VirusPositive 增加健康值: {0}
+ItemDescription_WeaponDamage_Player_VirusNegative 降低健康值: {0}
 ItemDescription_WeaponDamage_Player_HallucinationPositive 导致幻觉: {0}
 ItemDescription_WeaponDamage_Player_HallucinationNegative 摆脱幻觉: {0}
 ItemDescription_WeaponBleeding_Always 造成失血.
