@@ -191,6 +191,7 @@ Allow_Shoulder_Camera 允许切换视角
 Can_Suicide 允许自杀
 Friendly_Fire 允许友伤
 Bypass_Buildable_Mobility 允许在载具上放置哨兵枪/床
+Allow_Freeform_Buildables 允许无结构建造
 
 Timer_Exit 退出倒计时
 Timer_Respawn 重生倒计时

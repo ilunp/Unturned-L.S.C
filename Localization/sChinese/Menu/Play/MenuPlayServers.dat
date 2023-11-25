@@ -1,88 +1,161 @@
+Columns_Tooltip 列表
+
 Server_Button {0} [ {1} ]
 Server_Players {0} / {1}
 
-Name_Field_Hint 名称筛选器
-Password_Field_Hint 服务器密码
-Password_Field_Replace ●
-Map_Field_Hint 地图筛选器
+Presets_Label 预设列表
+Presets_Tooltip 保存和加载自定义筛选器预设.
 
-Refresh_Label 服务器搜索类型:
+DefaultPreset_Internet_Label 在线
+DefaultPreset_LAN_Label 本地
+DefaultPreset_History_Label 历史
+DefaultPreset_Favorites_Label 收藏
+DefaultPreset_Friends_Label 好友
 
-Refresh_Gold_Button 黄金
-Refresh_Gold_Button_Tooltip 查找仅允许黄金账户加入的服务器.
+PresetName_Empty 自定义
+PresetName_Modified {0} (未保存)
 
-Refresh_Internet_Button 在线
-Refresh_Internet_Button_Tooltip 查找互联网上的服务器.
+PresetNameField_Tooltip 创建新预设的名称.
+PresetNameField_Hint 示例: My Preset
+NewPreset_Label 创建预设
+NewPreset_Tooltip 使用当前筛选器设置创建预设.
+DeletePreset_Label 删除预设
+DeletePreset_Tooltip 永久删除预设.
+DeletePreset_Confirm_Label 确定
+DeletePreset_Confirm_Tooltip 删除预设.
+DeletePreset_Deny_Label 取消
+DeletePreset_Deny_Tooltip 保留预设.
 
-Refresh_LAN_Button 本地
-Refresh_LAN_Button_Tooltip 查找局域网上的服务器.
+Name_Filter_Label 名称筛选器
+Name_Filter_Hint 示例: My Server
 
-Refresh_History_Button 历史
-Refresh_History_Button_Tooltip 查找历史游玩过的服务器.
+Map_Filter_Label 地图筛选器
+Map_Filter_Hint 示例: PEI
 
-Refresh_Favorites_Button 收藏
-Refresh_Favorites_Button_Tooltip 查找加入收藏的服务器.
+Refresh_Label 搜索服务器
+Refresh_Tooltip 搜索相关服务器.
+Refresh_Cancel_Label 取消
+Refresh_Cancel_Tooltip 取消持续搜索.
 
-Refresh_Friends_Button 好友
-Refresh_Friends_Button_Tooltip 查找好友正在游玩的服务器.
+List_Label 目标列表
+List_Internet_Label 在线
+List_Internet_Tooltip 查找互联网上的服务器.
+List_LAN_Label 本地
+List_LAN_Tooltip 查找局域网上的服务器.
+List_History_Label 历史
+List_History_Tooltip 查找历史游玩过的服务器.
+List_Favorites_Label 收藏
+List_Favorites_Tooltip 查找加入收藏的服务器.
+List_Friends_Label 好友
+List_Friends_Tooltip 查找好友正在游玩的服务器.
 
 HostingButtonText 文档
 HostingButtonTooltip 阅读服务器主机文档.
 
+ViewPresetsButton_Label 筛选预设
+ViewPresetsButton_Tooltip 切换筛选预设可见性.
+QuickFiltersButton_Label 快速筛选
+QuickFiltersButton_Tooltip 筛选当前服务器列表.
+PresetsEditorButton_Label 编辑筛选:\n{0}
+PresetsEditorButton_Tooltip 编辑和创建/删除自定义筛选器.
+
+Password_Filter_Label 密码保护筛选
 Any_Password_Button 密码: 全部
+Password_Filter_Any_Tooltip 忽略服务是否需要使用密码加入.
 Yes_Password_Button 密码: 有
+Password_Filter_Yes_Tooltip 仅显示需要使用密码加入的服务器.
 No_Password_Button 密码: 无
+Password_Filter_No_Tooltip 仅显示不需要使用密码加入的服务器.
 
+Workshop_Filter_Label 创意工坊筛选
 Any_Workshop_Button 创意工坊:全部
+Workshop_Filter_Any_Tooltip 忽略服务是否使用来自创意工坊的模组.
 Yes_Workshop_Button 创意工坊: 有
+Workshop_Filter_Yes_Tooltip 仅显示使用创意工坊的服务器.
 No_Workshop_Button 创意工坊: 无
+Workshop_Filter_No_Tooltip 仅显示未使用创意工坊的服务器.
 
+Plugins_Filter_Label 插件筛选
 Any_Plugins_Button 插件: 全部
+Plugins_Filter_Any_Tooltip 忽略服务是否使用插件.
 Yes_Plugins_Button 插件: 有
+Plugins_Filter_Yes_Tooltip 仅显示使用插件的服务器.
 No_Plugins_Button 插件: 无
+Plugins_Filter_No_Tooltip 仅显示未使用插件的服务器 (原版).
 
-Attendance_Toggle 在线玩家
-Security_Toggle 安全性
-PvP_Toggle PvP
-
+Attendance_Filter_Label 在线玩家筛选
 Any_Attendance_Button 在线玩家: 全部
+Attendance_Filter_Any_Tooltip 忽略服务是否有玩家在线.
 Empty_Button 在线玩家: 无
+Attendance_Filter_Empty_Tooltip 仅显示无玩家在线的服务器.
 HasPlayers_Button 在线玩家: 有
+Attendance_Filter_HasPlayers_Tooltip 仅显示有玩家在线的服务器.
 
+Space_Filter_Label 角色槽位筛选
 Any_Space_Button 角色槽位: 无
+Space_Filter_Any_Tooltip 忽略服务是否允许多角色槽位.
 Space_Button 角色槽位: 有
+Space_Filter_HasSpace_Tooltip 仅显示允许多角色槽位的服务器.
 
+VAC_Filter_Label VAC 保护筛选
 VAC_Any_Button VAC: 全部
+VAC_Filter_Any_Tooltip 忽略服务是否使用 VAC.
 VAC_Secure_Button VAC: 安全
+VAC_Filter_Secure_Tooltip 仅显示启用 VAC 的服务器.
 VAC_Insecure_Button VAC: 不安全
+VAC_Filter_Insecure_Tooltip 仅显示禁用 VAC 的服务器.
 
+BattlEye_Filter_Label 战眼保护筛选
 BattlEye_Any_Button 战眼: 全部
+BattlEye_Filter_Any_Tooltip 忽略服务是否使用战眼反作弊.
 BattlEye_Secure_Button 战眼: 已启用
+BattlEye_Filter_Secure_Tooltip 仅显示启用战眼反作弊的服务器.
 BattlEye_Insecure_Button 战眼: 已禁用
+BattlEye_Filter_Insecure_Tooltip 仅显示禁用战眼反作弊的服务器.
 
-Any_Combat_Button PvP / PvE
+Combat_Filter_Label PvP/PvE
+Any_Combat_Button PvP/PvE
+Combat_Filter_Any_Tooltip 忽略服务是否 仅PvP / 仅PvE 模式.
 PvP_Button PvP
+Combat_Filter_PvP_Tooltip 仅显示 PvP 的服务器.
 PvE_Button PvE
+Combat_Filter_PvE_Tooltip 仅显示 PvE 的服务器.
 
+Cheats_Filter_Label 作弊筛选
 Any_Cheats_Button 作弊: 全部
-Yes_Cheats_Button 作弊: 开
-No_Cheats_Button 作弊: 关
+Cheats_Filter_Any_Tooltip 忽略服务是否需要允许管理员作弊(生成物品和载具).
+Yes_Cheats_Button 作弊: 禁用
+Cheats_Filter_Yes_Tooltip 仅显示禁止管理员作弊的服务器.
+No_Cheats_Button 作弊: 允许
+Cheats_Filter_No_Tooltip 仅显示允许管理员作弊的服务器.
 
-Any_Mode_Button 模式: 全部
-Easy_Button 模式: 简单
-Normal_Button 模式: 普通
-Hard_Button 模式: 困难
-Pro_Button 模式: 黄金
+Gold_Filter_Label 黄金会员筛选
+Gold_Filter_Any_Label 黄金会员: 全部
+Gold_Filter_Any_Tooltip 忽略服务是否需要黄金会员.
+Gold_Filter_DoesNotRequireGold_Label 黄金会员: 非必须
+Gold_Filter_DoesNotRequireGold_Tooltip 仅显示不需要黄金会员的服务器.
+Gold_Filter_RequiresGold_Label 黄金会员: 必须
+Gold_Filter_RequiresGold_Tooltip 仅显示需要黄金会员的服务器.
 
-Any_Camera_Button 视角: 全部
-First_Button 视角: 第一人称
-Third_Button 视角: 第三人称
-Both_Button 视角: 多人称视角
-Vehicle_Button 视角: 第三人称(载具)
+Perspective_Filter_Label 相机视角筛选
+Any_Camera_Button 相机视角: 全部
+Perspective_Filter_Any_Tooltip 忽略服务是否允许切换相机视角.
+First_Button 相机视角: 第一人称
+Perspective_Filter_FirstPerson_Tooltip 仅显示限制第一人称视角的服务器.
+Third_Button 相机视角: 第三人称
+Perspective_Filter_ThirdPerson_Tooltip 仅显示限制第三人称视角的服务器.
+Both_Button 相机视角: 多相机视角
+Perspective_Filter_Both_Tooltip 仅显示限制第一/三人称视角的服务器.
+Vehicle_Button 相机视角: 第三人称(载具)
+Perspective_Filter_Vehicle_Tooltip 仅显示限制第三人称(载具)视角的服务器.
 
+Monetization_Filter_Label 商业化运营筛选
 Monetization_Any_Button 商业化运营: 全部
+Monetization_Filter_Any_Tooltip 忽略服务是否商业化运营.
 Monetization_None_Button 商业化运营: 否
+Monetization_Filter_None_Tooltip 仅显示非商业化运营的服务器. (完全免费!)
 Monetization_NonGameplay_Button 商业化运营: 是(非游戏性)
+Monetization_Filter_NonGameplay_Tooltip 仅显示出售不影响游戏玩法的内容和非商业化运营的服务器.
 
 Any_Map 地图: 全部
 
@@ -96,12 +169,86 @@ Sort_Name_Tooltip 按服务器名称排序.
 
 Sort_Map 地图
 Sort_Map_Tooltip 按地图名称排序.
+Map_Column_Toggle_Label 地图
+Map_Column_Toggle_Tooltip 切换地图列表可见性.
 
 Sort_Players 玩家
 Sort_Players_Tooltip 按在线玩家数量排序.
+Players_Column_Toggle_Label 玩家
+Players_Column_Toggle_Tooltip 切换玩家列表可见性.
 
 Sort_Ping 延迟
 Sort_Ping_Tooltip 按服务器延迟排序.
+Ping_Column_Toggle_Label 延迟
+Ping_Column_Toggle_Tooltip 切换延迟列表可见性.
+
+Anticheat_Column_Label 反作弊
+Anticheat_Column_Tooltip 按反作弊排序.
+Anticheat_Column_Toggle_Label 反作弊
+Anticheat_Column_Toggle_Tooltip 切换反作弊列表可见性.
+Anticheat_Column_BattlEye_Tooltip 仅战眼.
+Anticheat_Column_VAC_Tooltip 仅 VAC.
+Anticheat_Column_Both_Tooltip VAC / 战眼.
+Anticheat_Column_None_Tooltip 无反作弊保护.
+
+Perspective_Column_Tooltip 按相机视角排序.
+Perspective_Column_Toggle_Label 相机视角
+Perspective_Column_Toggle_Tooltip 切换相机视角列表可见性.
+Perspective_Column_First_Tooltip 第一人称视角.
+Perspective_Column_Third_Tooltip 第三人称视角.
+Perspective_Column_Both_Tooltip 第一/三人称视角.
+Perspective_Column_Vehicle_Tooltip 允许第三人称(载具)视角.
+
+Combat_Column_Tooltip 按 PvP/PvE 模式排序.
+Combat_Column_Toggle_Label PvP/PvE
+Combat_Column_Toggle_Tooltip 切换 PvP/PvE 列表可见性.
+Combat_Column_PvP_Tooltip PvP
+Combat_Column_PvE_Tooltip PvE
+
+Password_Column_Tooltip 按密码保护排序.
+Password_Column_Toggle_Label 密码保护
+Password_Column_Toggle_Tooltip 切换密码保护列表可见性.
+Password_Column_Yes_Tooltip 有密码.
+Password_Column_No_Tooltip 无密码.
+
+Workshop_Column_Tooltip 按创意工坊进行排序.
+Workshop_Column_Toggle_Label 创意工坊
+Workshop_Column_Toggle_Tooltip 切换创意工坊列表可见性.
+Workshop_Column_Yes_Tooltip 需要创意工坊.
+Workshop_Column_No_Tooltip 不需要创意工坊.
+
+MaxPlayers_Column_Label 最大玩家
+MaxPlayers_Column_Tooltip 按最大玩家进行排序.
+MaxPlayers_Column_Toggle_Label 最大玩家
+MaxPlayers_Column_Toggle_Tooltip 切换最大玩家列表可见性.
+
+Gold_Column_Tooltip 按是否黄金会员排序
+Gold_Column_Toggle_Label 黄金会员
+Gold_Column_Toggle_Tooltip 切换黄金会员列表可见性.
+Gold_Column_Yes_Tooltip 仅黄金会员.
+Gold_Column_No_Tooltip 非黄金会员.
+
+Cheats_Column_Tooltip 按作弊排序.
+Cheats_Column_Toggle_Label 作弊
+Cheats_Column_Toggle_Tooltip 切换作弊列表可见性.
+Cheats_Column_Yes_Tooltip 允许管理员作弊.
+Cheats_Column_No_Tooltip 禁止管理员作弊.
+
+Monetization_Column_Tooltip 按商业化运营排序.
+Monetization_Column_Toggle_Label 商业化运营
+Monetization_Column_Toggle_Tooltip 切换商业化运营列表可见性.
+Monetization_Column_Unspecified_Tooltip 未注明.
+Monetization_Column_NonGameplay_Tooltip 出售不影响游戏玩法的内容.
+Monetization_Column_Monetized_Tooltip 出售可能影响游戏玩法的内容.
+Monetization_Column_None_Tooltip 不出售任何内容. 完全免费!
+
+Plugins_Column_Tooltip 按插件框架排序.
+Plugins_Column_Toggle_Label 插件框架
+Plugins_Column_Toggle_Tooltip 切换插件列表可见性.
+Plugins_Column_None_Tooltip 服务器无插件.
+Plugins_Column_Rocket_Tooltip RocketMod 插件框架.
+Plugins_Column_OpenMod_Tooltip OpenMod 插件框架.
+Plugins_Column_Unknown_Tooltip 未知的插件框架.
 
 Favorite_On_Button_Tooltip 收藏
 Favorite_Off_Button_Tooltip 取消收藏

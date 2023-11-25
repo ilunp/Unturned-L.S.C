@@ -39,6 +39,7 @@ Hash_Level 服务器正在使用的地图已被修改.
 # https://support.smartlydressedgames.com/hc/en-us/articles/12233096287124
 Hash_Assembly 服务器正在使用的代码已被修改.
  
+# https://support.smartlydressedgames.com/hc/en-us/articles/20343153432468
 Hash_Resources 服务器正在使用的资源已被修改. 请验证游戏文件完整性.
 
 Version 服务器与客户端游戏版本不一致. 服务器: v{0} /客户端: v{1}

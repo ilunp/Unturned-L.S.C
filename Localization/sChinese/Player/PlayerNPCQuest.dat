@@ -20,6 +20,9 @@ Reward_Item_Random 随机物品 x{0}
 Reward_Vehicle {0} x1
 Reward_Currency 货币 {0}
 Reward_Health 生命值 {0} 
+Reward_Food 饥饿值 {0}
+Reward_Water 口渴值 {0}
+Reward_Virus 健康值 {0}
 
 Accept 接受
 Accept_Tooltip 接受任务

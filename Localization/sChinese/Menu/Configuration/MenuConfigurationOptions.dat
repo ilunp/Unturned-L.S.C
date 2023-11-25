@@ -28,9 +28,6 @@ ScreenshotSupersampling_Label 截图超级采样
 ScreenshotSupersampling_Tooltip 采用 2x 超级采样渲染截图图像来减少锯齿.
 ScreenshotsWhileLoading_Label 截图游戏加载
 ScreenshotsWhileLoading_Tooltip 使用截图图像作为启动游戏时加载画面.
-Matchmaking_Show_All_Maps_Toggle_Label 快速匹配显示全部地图
-Min_Matchmaking_Players_Field_Label 快速匹配玩家(下限)
-Max_Matchmaking_Ping_Field_Label 快速匹配延迟(上限)
 
 UseStaticCrosshair_Label 自定义准星大小
 UseStaticCrosshair_Tooltip 使用自定义准星大小, 而不是根据器械散布计算大小.

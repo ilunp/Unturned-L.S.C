@@ -1,12 +1,10 @@
 ConnectButtonText IP 连接
-ConnectButtonTooltip IP 连接
+ConnectButtonTooltip 通过地址与端口连接到服务器
 ServersButtonText 多人游戏
-ServersButtonTooltip 多人游戏
+ServersButtonTooltip 通过服务器浏览器连接到服务器.
 SingleplayerButtonText 单人游戏
-SingleplayerButtonTooltip 单人游戏
-MatchmakingButtonText 快速匹配
-MatchmakingButtonTooltip 快速匹配
+SingleplayerButtonTooltip 离线单人游戏.
 LobbiesButtonText 组队大厅
-LobbiesButtonTooltip 组队大厅
+LobbiesButtonTooltip 通过与朋友组队加入服务器.
 TutorialButtonText 新手教程
 TutorialButtonTooltip 新手教程
