@@ -33,6 +33,7 @@ VAC_Insecure VAC 不安全
 BattlEye_Secure 战眼已启用
 BattlEye_Insecure 战眼已禁用
 Streamer 主播(Streamer) 模式
+Offline 离线
 
 Favorite_On_Button_Text 收藏
 Favorite_Off_Button_Text 取消收藏

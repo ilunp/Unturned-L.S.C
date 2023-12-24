@@ -1,5 +1,7 @@
-IP_Field_Label IP
+Host_Field_Label 主机 / 联机代码
+Host_Field_Tooltip 联机代码 / 域名 / IP地址.
 Port_Field_Label 端口
+Port_Field_Tooltip 主机地址中存在":####", 将自动设置端口.
 Password_Field_Label 密码
 Password_Field_Replace ●
 
@@ -19,3 +21,9 @@ Address_Loopback_Label 本地主机
 Address_Loopback_Tooltip 本地主机的服务器地址.
 Address_LocalPrivate_Label 局域网
 Address_LocalPrivate_Tooltip 局域网的服务器地址.
+
+ServerCode_Valid_Label 联机代码
+ServerCode_Valid_Tooltip 合法的游戏联机代码.
+ServerCode_Invalid_Label 联机代码无效
+ServerCode_Invalid_Tooltip 非法的游戏联机代码.
+ServerCode_Friend_Tooltip 这是一个 Steam 好友代码, 而不是联机代码.

@@ -61,7 +61,6 @@ Rarity_Type_Label [{0}] {1}
 Quality 耐久: {0}%
 Amount 弹药: {0}
 
-Fuel 油量: {0}%
 Refill 水量: {0}
 Empty 空
 Full 满
@@ -81,7 +80,9 @@ ItemDescription_Clothing_Armor 保护: {0}
 ItemDescription_Clothing_ExplosionArmor 爆炸保护: {0}
 ItemDescription_Clothing_FireProof 火焰防护.
 ItemDescription_Clothing_RadiationProof 辐射防护.
+ItemDescription_Clothing_FallingBoneBreakingProof 摔落保护.
 ItemDescription_ClothingMovementSpeedModifier 移动速度 [穿戴]: {0}
+ItemDescription_FallingDamageModifier 摔落伤害: {0}
 ItemDescription_EquipableMovementSpeedModifier 移动速度 [装备]: {0}
 ItemDescription_PelletCount 弹丸数量: {0}
 ItemDescription_BulletDamageModifier 子弹伤害: {0}
@@ -186,6 +187,11 @@ ItemDescription_Throwable_FuseLength 引信长度: {0}
 ItemDescription_Melee_StrongAttackModifier 重击伤害: {0}
 ItemDescription_Melee_StrongAttackStamina 重击体力消耗: {0}
 ItemDescription_ArrestEnd_UnlocksItem 解锁: {0}
+ItemDescription_FuelAmountWithCapacity 燃料: {0}/{1} ({2})
+ItemDescription_FuelCapacity 容量: {0}
+ItemDescription_WaterCapacity 容量: {0}
+ItemDescription_FuelBurnRate 燃烧时间: {0}/小时
+ItemDescription_FuelMaxRuntime 燃烧时间: {0} 小时
 
 Equip_Button 装备
 Equip_Button_Tooltip 装备到手中.

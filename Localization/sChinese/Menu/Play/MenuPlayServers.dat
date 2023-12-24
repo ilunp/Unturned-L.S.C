@@ -6,7 +6,7 @@ Server_Players {0} / {1}
 Presets_Label 预设列表
 Presets_Tooltip 保存和加载自定义筛选器预设.
 
-DefaultPreset_Internet_Label 在线
+DefaultPreset_Internet_Label 在线 (默认)
 DefaultPreset_LAN_Label 本地
 DefaultPreset_History_Label 历史
 DefaultPreset_Favorites_Label 收藏

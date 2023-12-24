@@ -152,6 +152,13 @@ Name_Private_Invalid 仅好友可见的组内昵称包含无效字母.
 
 Name_Private_Number 仅好友可见的组内昵称不能只是数字.
 
+Server_Map_Advertisement_Mismatch 请求到的地图与服务器公开的地图不一致.
+Server_VAC_Advertisement_Mismatch 请求到的 VAC 状态与服务器公开的 VAC 状态不一致.
+Server_BattlEye_Advertisement_Mismatch 请求到的 BattlEye 状态与服务器公开的 BattlEye 状态不一致.
+Server_MaxPlayers_Advertisement_Mismatch 请求到的最大玩家数量与服务器设置的最大玩家数量不一致.
+Server_CameraMode_Advertisement_Mismatch 请求到的摄像机模式与服务器设置的摄像机模式不一致.
+Server_PvP_Advertisement_Mismatch 请求到的 PVP/PVE 模式与服务器设置的 PVP/PVE 模式不一致.
+
 SteamNetworkingSockets_Unavailable_CannotTry Steam 网络验证无法初始化.
 SteamNetworkingSockets_Unavailable_Failed Steam 网络验证初始化失败.
 SteamNetworkingSockets_Unavailable_Previously Steam 网络验证暂时无法初始化.
@@ -178,9 +185,6 @@ SteamNetworkingSockets_EndReason_Misc_Timeout 主机或 Steam 网络连接超时
 SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam 连接遇到问题.
 SteamNetworkingSockets_EndReason_Misc_Unknown 未知杂项连接错误: {0}
 SteamNetworkingSockets_EndReason_Unknown 连接因未知原因被终止: {0}
-
-InternetMultiplayerUnavailable_NoWebRequests 无法进行多人游戏, 抱歉! [请禁用 -NoWebRequests 启动选项.]
-InternetMultiplayerUnavailable_NoConnection 无法进行多人游戏, 非常抱歉! [服务器处于审核状态]
 
 Pro_Title 升级黄金帐户 (DLC)
 Pro_Button 黄金帐户拥有更多自定义选项和角色槽位,可进入高级服务器! 更多详细信息请查看商店页面.

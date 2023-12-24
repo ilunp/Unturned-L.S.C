@@ -5,7 +5,7 @@ Voice_Slider_Label 语音音量 [{0}%]
 Loading_Screen_Music_Volume_Slider_Label 主菜单音乐音量 [{0}%]
 Debug_Toggle_Label 显示 FPS/Ping
 Music_Toggle_Label 播放 主菜单/死亡 音乐
-Splashscreen_Toggle_Label Splashscreen
+Splashscreen_Toggle_Label 启动加载画面
 Timer_Toggle_Label 竞技场倒计时警告
 Physics_Toggle_Label 物品掉落物理效果
 Gore_Toggle_Label 血液喷溅效果
@@ -16,6 +16,8 @@ Filter_Toggle_Tooltip 提示: 无论是否启用敏感词过滤都将审查敏�
 Chat_Text_Toggle_Label 显示聊天文本
 Chat_Voice_In_Toggle_Label 启用语音聊天 (玩家)
 Chat_Voice_Out_Toggle_Label 启用语音聊天 (自己)
+VoiceAlwaysRecording_Label 保持麦克风打开
+VoiceAlwaysRecording_Tooltip 通过静音避免重复开始和停止录音造成的故障.
 Hints_Toggle_Label 显示基础提示信息
 Ambience_Toggle_Label 播放 白昼/黑夜 环境音效
 Streamer_Toggle_Label 主播(Streamer) 模式
