@@ -4,8 +4,15 @@ Zoom_In_Button_Tooltip 放大
 Zoom_Out_Button 缩小
 Zoom_Out_Button_Tooltip 缩小
 
-Center_Button 中心
+Center_Button 定位
 Center_Button_Tooltip 定位玩家
+
+ShowMarkersToggle_Label 标记
+ShowMarkersToggle_Tooltip 显示/隐藏地图上的标记点.
+ShowPlayerNamesToggle_Label 名称
+ShowPlayerNamesToggle_Tooltip 显示/隐藏其他玩家的名称.
+ShowPlayerAvatarsToggle_Label 头像
+ShowPlayerAvatarsToggle_Tooltip 显示/隐藏其他玩家的头像.
 
 Chart 地图
 Satellite 卫星

@@ -13,8 +13,8 @@ Stat_Found_Fishes 你已经钓到 {0} 条鱼! 全球玩家共钓到 {1} 条!
 Stat_Found_Plants 你已经种植 {0} 棵植物! 全球玩家共种植 {1} 棵!
 Stat_Accuracy 你以 {1}% 的命中率射击了 {0} 发子弹! 全球玩家共以命中率 {3}% 射击了 {2} 发!
 Stat_Headshots 你已经命中 {0} 次爆头! 全球玩家共命中 {1} 次!
-Stat_Travel_Foot 你已经徒步旅行 {0} (米)! 全球玩家共徒步旅行 {1} (米)!
-Stat_Travel_Vehicle 你已经自驾旅行 {0} (米)! 全球玩家共自驾旅行 {1} (米)!
+Stat_Travel_Foot 你已经徒步旅行 {0} 米! 全球玩家共徒步旅行 {1} 米!
+Stat_Travel_Vehicle 你已经自驾旅行 {0} 米! 全球玩家共自驾旅行 {1} 米!
 Stat_Arena_Wins 你已经赢得 {0} 场竞技比赛! 全球玩家共赢得 {1} 场!
 Stat_Found_Buildables 你已经建造 {0} 项实体! 全球玩家共建造 {1} 项!
 Stat_Found_Throwables 你已经仍出 {0} 个投掷物! 全球玩家共仍出 {1} 个!

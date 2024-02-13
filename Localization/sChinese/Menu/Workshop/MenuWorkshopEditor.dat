@@ -1,21 +1,21 @@
-Name_Field_Label 地图名称
+Name_Field_Label 关卡名称
 
 Add_Button 创建
-Add_Button_Tooltip 创建新地图
+Add_Button_Tooltip 创建新关卡
 
 Remove_Button 移除
-Remove_Button_Tooltip 永久移除地图
+Remove_Button_Tooltip 永久移除关卡
 Remove_Button_Confirm 是
-Remove_Button_Confirm_Tooltip 移除地图文件 (不可逆)
+Remove_Button_Confirm_Tooltip 移除关卡文件 (不可逆)
 Remove_Button_Deny 否
-Remove_Button_Deny_Tooltip 保留地图文件
+Remove_Button_Deny_Tooltip 保留关卡文件
 
 Edit_Button 进入编辑
-Edit_Button_Tooltip 地图编辑器
+Edit_Button_Tooltip 关卡编辑器
 Edit2_Button 进入编辑 (Devkit)
 Edit2_Button_Tooltip 使用开发工具(半成品)
 
-BrowseFiles_Label 文件浏览器
+BrowseFiles_Label 文件目录
 
 Tiny 微型
 Small 小型

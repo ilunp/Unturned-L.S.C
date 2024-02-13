@@ -44,39 +44,39 @@ Magazine_Bullets_Multiplier (倍) 弹匣子弹
 Crate_Bullets_Full_Chance 弹药箱子弹全满概率 [0-1]
 Crate_Bullets_Multiplier (倍) 弹药箱内子弹
 
-Loot_Chance 掉落战利品概率 [0-1]
-Crawler_Chance 爬行僵尸生成概率 [0-0.5]
-Sprinter_Chance 疾跑僵尸生成概率 [0-0.5]
-Flanker_Chance 隐形僵尸生成概率 [0-0.5]
-Burner_Chance 火焰僵尸生成概率 [0-0.5]
-Acid_Chance 酸液僵尸生成概率 [0-0.5]
-Boss_Electric_Chance 雷电(Boss)僵尸生成概率 [0-0.5]
-Boss_Wind_Chance 地震(Boss)僵尸生成概率 [0-0.5]
-Boss_Fire_Chance 喷火(Boss)僵尸生成概率 [0-0.5]
-Spirit_Chance 透明僵尸生成概率 [0-0.5]
-DL_Red_Volatile_Chance 红色夜魔生成概率 <消逝的光芒>
-DL_Blue_Volatile_Chance 蓝色夜魔生成概率 <消逝的光芒>
-Boss_Elver_Stomper_Chance 践踏者(Boss)生成概率 <Elver>
-Respawn_Day_Time 僵尸生成时间间隔 (白昼)
-Respawn_Night_Time 僵尸生成时间间隔 (黑夜)
-Respawn_Beacon_Time 僵尸生成时间间隔 (尸潮)
-Quest_Boss_Respawn_Interval 任务(Boss)重生时间间隔
+Loot_Chance 掉落概率 [0-1]
+Crawler_Chance 爬行僵尸 [0-0.5]
+Sprinter_Chance 疾跑僵尸 [0-0.5]
+Flanker_Chance 隐形僵尸 [0-0.5]
+Burner_Chance 火焰僵尸 [0-0.5]
+Acid_Chance 酸液僵尸 [0-0.5]
+Boss_Electric_Chance 雷电首领 [0-0.5]
+Boss_Wind_Chance 地震首领 [0-0.5]
+Boss_Fire_Chance 喷火首领 [0-0.5]
+Spirit_Chance 透明僵尸 [0-0.5]
+DL_Red_Volatile_Chance 红色夜魔 <消逝的光芒>
+DL_Blue_Volatile_Chance 蓝色夜魔 <消逝的光芒>
+Boss_Elver_Stomper_Chance 践踏者首领 <Elver>
+Respawn_Day_Time 刷新间隔 (白昼)
+Respawn_Night_Time 刷新间隔 (黑夜)
+Respawn_Beacon_Time 刷新间隔 (尸潮)
+Quest_Boss_Respawn_Interval 任务首领重生时间间隔
 Beacon_Experience_Multiplier (倍) 尸潮信标经验奖励
 Full_Moon_Experience_Multiplier (倍) 满月经验奖励
 Min_Drops 普通僵尸掉落物奖励 (最小)
 Max_Drops 普通僵尸掉落物奖励 (最大)
 Min_Mega_Drops 巨型僵尸掉落物奖励 (最小)
 Max_Mega_Drops 巨型僵尸掉落物奖励 (最大)
-Min_Boss_Drops Boss僵尸掉落物奖励 (最小)
-Max_Boss_Drops Boss僵尸掉落物奖励 (最大)
-Slow_Movement 开启行动缓慢
-Can_Stun 允许攻击眩晕
+Min_Boss_Drops 僵尸首领掉落物奖励 (最小)
+Max_Boss_Drops 僵尸首领掉落物奖励 (最大)
+Slow_Movement 行动缓慢
+Can_Stun 攻击眩晕
 Weapons_Use_Player_Damage 使用武器攻击时降低为玩家普通攻击伤害
 Only_Critical_Stuns 仅关键攻击眩晕
 
-Can_Target_Barricades 允许破坏路障
-Can_Target_Structures 允许破坏结构
-Can_Target_Vehicles 允许破坏载具
+Can_Target_Barricades 破坏路障
+Can_Target_Structures 破坏结构
+Can_Target_Vehicles 破坏载具
 
 Beacon_Max_Rewards 尸潮信标掉落物奖励 (上限)
 Beacon_Max_Participants 尸潮信标参与者奖励 (上限)
@@ -118,11 +118,11 @@ Lose_Clothes_PvE 死亡丢失衣服 (PVE)
 Lose_Weapons_PvP 死亡丢失武器 (PVP)
 Lose_Weapons_PvE 死亡丢失武器 (PVE)
 
-Can_Hurt_Legs 开启摔落伤害
-Can_Break_Legs 开启摔落骨折
-Can_Fix_Legs 开启骨折自愈
-Can_Start_Bleeding 允许受伤流血
-Can_Stop_Bleeding 允许流血自愈
+Can_Hurt_Legs 摔落伤害
+Can_Break_Legs 摔落骨折
+Can_Fix_Legs 骨折自愈
+Can_Start_Bleeding 受伤流血
+Can_Stop_Bleeding 流血自愈
 
 Spawn_With_Max_Skills 出生全部技能满级
 Spawn_With_Stamina_Skills 出生耐力技能满级

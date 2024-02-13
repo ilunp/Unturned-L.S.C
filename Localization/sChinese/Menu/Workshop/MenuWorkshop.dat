@@ -2,8 +2,8 @@ BrowseButtonText 创意工坊
 BrowseButtonTooltip 查看社区
 SubmitButtonText 提交创意
 SubmitButtonTooltip 上传文件
-EditorButtonText 地图编辑器
-EditorButtonTooltip 地图编辑器
+EditorButtonText 关卡编辑器
+EditorButtonTooltip 关卡编辑器
 ErrorButtonText 错误日志
 ErrorButtonTooltip 自动检测的问题
 LocalizationButtonText 本地化

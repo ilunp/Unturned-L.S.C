@@ -1,5 +1,5 @@
-Return_Button 返回游戏
-Return_Button_Tooltip 返回游戏
+Return_Button 继续游戏
+Return_Button_Tooltip 返回主菜单
 
 Exit_Button 退出游戏
 Exit_Button_Tooltip 退出至桌面
@@ -7,13 +7,13 @@ Exit_Button_Tooltip 退出至桌面
 Support_Label 支持
 Support_Tooltip 故障排除, FAQs, 反馈等.
 
-Trello_Button Trello 线路图
+Trello_Button 计划
 Trello_Button_Tooltip 未来规划!
 
-Twitter_Button Twitter 新闻
+Twitter_Button 推特
 Twitter_Button_Tooltip 开发信息和更新提醒.
 
-Steam_Button Steam 新闻
+Steam_Button 新闻
 Steam_Button_Tooltip 完整公告内容.
 
 Credits_Button 贡献者

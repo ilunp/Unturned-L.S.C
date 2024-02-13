@@ -1,5 +1,5 @@
-Space 容器占满
-Item 捡起 {0} [{1}]
+Space 背包占满
+Item 拾取 {0} [{1}]
 Vehicle_Enter_Locked 进入 {0} [{1}] [已上锁]
 Vehicle_Enter_Unlocked 进入 {0} [{1}] [未上锁]
 Vehicle_Exit 离开 [{0}]
@@ -28,13 +28,13 @@ Bed_Off 解绑 [{0}]
 Bed_Claimed 已绑定
 Bounds 超出边界
 Experience +{0} 获得经验
-Storage 储存物品 [{0}]
-Farm 收获作物 [{0}]
+Storage 储存 [{0}]
+Farm 收获 [{0}]
 Grow 正在生长
 Soil 缺少土壤
 Fire_On 点燃 [{0}]
 Fire_Off 熄灭 [{0}]
-Forage 搜寻 [{0}]
+Forage 采摘 [{0}]
 Generator_On 启动 [{0}]
 Generator_Off 停止 [{0}]
 Spot_On 打开 [{0}]
