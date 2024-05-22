@@ -23,6 +23,7 @@ Reward_Health 生命值 {0}
 Reward_Food 饥饿值 {0}
 Reward_Water 口渴值 {0}
 Reward_Virus 健康值 {0}
+Reward_Stamina 体力值 {0}
 
 Accept 接受
 Accept_Tooltip 接受任务

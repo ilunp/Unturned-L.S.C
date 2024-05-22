@@ -4,6 +4,8 @@ ServersButtonText 多人游戏
 ServersButtonTooltip 通过服务器浏览器连接到服务器.
 SingleplayerButtonText 单人游戏
 SingleplayerButtonTooltip 离线单人游戏.
+ServerBookmarksButtonText 书签
+ServerBookmarksButtonTooltip 通过书签浏览器连接到服务器.
 LobbiesButtonText 组队大厅
 LobbiesButtonTooltip 通过与朋友组队加入服务器.
 TutorialButtonText 新手教程

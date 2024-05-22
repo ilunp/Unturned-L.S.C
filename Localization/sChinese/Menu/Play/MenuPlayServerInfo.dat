@@ -11,6 +11,9 @@ Cancel_Button_Tooltip 返回
 Favorite_On_Button 收藏
 Favorite_Off_Button 取消收藏
 Favorite_Button_Tooltip 收藏/取消收藏
+Bookmark_On_Button 书签
+Bookmark_Off_Button 移除书签
+Bookmark_Button_Tooltip 书签菜单中快速加入.
 
 Players 在线人数: {0}/{1}
 Details 服务器详情

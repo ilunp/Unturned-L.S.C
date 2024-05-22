@@ -1,5 +1,5 @@
-FOV_Slider_LabelV2_Name FoV
-FOV_Slider_LabelV2_Value —— 水平 [{0}°] 垂直 [{1}°]
+FOV_Slider_LabelV2_Name FOV
+FOV_Slider_LabelV2_Value [H:{0}°] × [V:{1}°]
 Volume_Slider_Label 主音量 [{0}%]
 Voice_Slider_Label 语音音量 [{0}%]
 Loading_Screen_Music_Volume_Slider_Label 主菜单音乐音量 [{0}%]
@@ -24,6 +24,8 @@ Streamer_Toggle_Label 主播(Streamer) 模式
 Featured_Workshop_Toggle_Label 显示创意工坊精选
 Show_Hotbar_Toggle_Label 显示物品栏
 Pause_When_Unfocused_Label 切换窗口暂停 (Alt+Tab)
+Nametag_Fade_Out_Label 淡化标签
+Nametag_Fade_Out_Tooltip 淡化准星附近的群组成员名称标签.
 ScreenshotSizeMultiplier_Label (倍) 截图分辨率
 ScreenshotSizeMultiplier_Tooltip 较高的值能明显增加渲染截图图像时所花费的时间.
 ScreenshotSupersampling_Label 截图超级采样
