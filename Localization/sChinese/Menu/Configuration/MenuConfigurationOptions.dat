@@ -1,10 +1,6 @@
 FOV_Slider_LabelV2_Name FOV
 FOV_Slider_LabelV2_Value [H:{0}°] × [V:{1}°]
-Volume_Slider_Label 主音量 [{0}%]
-Voice_Slider_Label 语音音量 [{0}%]
-Loading_Screen_Music_Volume_Slider_Label 主菜单音乐音量 [{0}%]
 Debug_Toggle_Label 显示 FPS/Ping
-Music_Toggle_Label 播放 主菜单/死亡 音乐
 Splashscreen_Toggle_Label 启动加载画面
 Timer_Toggle_Label 竞技场倒计时警告
 Physics_Toggle_Label 物品掉落物理效果
@@ -19,7 +15,6 @@ Chat_Voice_Out_Toggle_Label 启用语音聊天 (自己)
 VoiceAlwaysRecording_Label 保持麦克风打开
 VoiceAlwaysRecording_Tooltip 通过静音避免重复开始和停止录音造成的故障.
 Hints_Toggle_Label 显示基础提示信息
-Ambience_Toggle_Label 播放 白昼/黑夜 环境音效
 Streamer_Toggle_Label 主播(Streamer) 模式
 Featured_Workshop_Toggle_Label 显示创意工坊精选
 Show_Hotbar_Toggle_Label 显示物品栏
@@ -62,6 +57,10 @@ Hitmarker_Label 命中标记位置
 HitmarkerStyle_Animated 动画
 HitmarkerStyle_Classic 经典
 HitmarkerStyle_Label 命中标记样式
+
+VehicleThirdPersonCameraMode_RotationDetached 旋转分离
+VehicleThirdPersonCameraMode_RotationAttached 旋转附加
+VehicleThirdPersonCameraMode_Label 第三人称驾驶视角
 
 Crosshair_Box 准星颜色
 Hitmarker_Box 命中颜色

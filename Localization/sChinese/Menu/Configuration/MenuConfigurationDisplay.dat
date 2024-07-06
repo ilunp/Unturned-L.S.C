@@ -1,7 +1,9 @@
-Buffer_Toggle_Label 垂直同步(VSync)
-User_Interface_Scale_Field_Label UI 缩放
-UseTargetFrameRate_Toggle_Label 限制帧率
+Buffer_Toggle_Label 垂直同步 (V-Sync)
+User_Interface_Scale_Field_Label 界面缩放
+UseTargetFrameRate_Toggle_Label 帧率限制
 TargetFrameRate_Field_Label 帧率上限
+UseUnfocusedTargetFrameRate_Toggle_Label 游戏处于后台帧率限制
+UnfocusedTargetFrameRate_Field_Label 游戏处于后台帧率上限
 
 Fullscreen_Mode_Label 显示模式
 Fullscreen_Mode_Tooltip 游戏窗口

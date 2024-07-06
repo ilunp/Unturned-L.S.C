@@ -109,6 +109,11 @@ HousingPlannerTutorial 选择物品 [{0}]
 PlacementObstructedBy 放置受阻: {0}
 PlacementObstructedByGround 无法在地下建造
 FreeformBuildableNotAllowed 禁止无结构建造
+NotPaintable 无法喷涂
+
+VehicleGear_Reverse R
+VehicleGear_Neutral N
+VehicleEngineStatus 挡位: {0} 转速: {1}
 
 Chat_Global [世界] {0}: {1}
 Chat_Local [附近] {0}: {1}

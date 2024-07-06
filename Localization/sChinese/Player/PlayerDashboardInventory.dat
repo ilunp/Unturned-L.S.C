@@ -53,6 +53,7 @@ Type_44 工具
 Type_45 工具
 Type_46 指南针
 Type_47 油泵
+Type_48 喷涂
 
 Hotkey_Set 热键: {0}
 Hotkey_Unset 热键: [3-9]
@@ -97,6 +98,7 @@ ItemDescription_AimingSpreadModifier 瞄准射击精度: {0}
 ItemDescription_ZoomFactor 倍率: {0}x
 ItemDescription_ThirdPersonZoomFactor 倍率 (第三人称): {0}x
 ItemDescription_BulletGravityModifier 射击下坠: {0}
+ItemDescription_InvulnerableModifier 升级至重型武器: 可以伤害坚韧的实体.
 ItemDescription_Consumeable_Explosive 爆炸就是艺术！
 ItemDescription_Consumeable_HealthPositive 增加生命值: {0}
 ItemDescription_Consumeable_HealthNegative 降低生命值: {0}

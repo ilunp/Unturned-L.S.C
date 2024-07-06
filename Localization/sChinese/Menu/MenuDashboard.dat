@@ -42,6 +42,8 @@ Hash_Assembly 服务器正在使用的代码已被修改.
 # https://support.smartlydressedgames.com/hc/en-us/articles/20343153432468
 Hash_Resources 服务器正在使用的资源已被修改. 请验证游戏文件完整性.
 
+SkinColorWithinThresholdOfTerrainColor 角色肤色与地图地形颜色过于相似. 请更改角色肤色或切换到其他角色.
+
 Version 服务器与客户端游戏版本不一致. 服务器: v{0} /客户端: v{1}
 Pro_Server 服务器仅允许黄金账户加入.
 Pro_Character 请选择一个有效的角色.
