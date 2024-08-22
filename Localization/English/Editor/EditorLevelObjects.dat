@@ -26,6 +26,8 @@ CoordinateButtonTextGlobal Global
 CoordinateButtonTextLocal Local
 CoordinateButtonTooltip Coordinate
 
+IsOwnedCullingVolumeAllowed_Label Enable Owned Culling Volume
+IsOwnedCullingVolumeAllowed_Tooltip If false, removes embedded culling volume.
 MaterialPaletteOverride_Label Material Palette GUID
 MaterialPaletteOverride_Tooltip Overrides asset's default material palette.
 MaterialIndexOverride_Label Material Index
