@@ -6,6 +6,7 @@ Crouching_Label 蹲伏
 Proning_Label 卧伏
 Sprinting_Label 冲刺
 Leaning_Label 探头
+Voice_Mode_Label 语音
 
 SensitivityScalingMode_Label 开镜灵敏度
 SensitivityScalingMode_ProjectionRatio 目标距离

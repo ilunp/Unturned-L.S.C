@@ -27,10 +27,18 @@ DeletePreset_Deny_Label 取消
 DeletePreset_Deny_Tooltip 保留预设.
 
 Name_Filter_Label 名称筛选器
-Name_Filter_Hint 示例: My Server
+Name_Filter_Toggle_Tooltip 显示/隐藏.
+Name_Filter_Tooltip 仅显示名称包含此文本的服务器.\n当以<color=#CCFFFF> "regex:" </color>为前缀时会解析为正则表达式.
+Name_Filter_Hint 示例: My Server Name
 
-Map_Filter_Label 地图筛选器
-Map_Filter_Hint 示例: PEI
+MapFilter_Button_EmptyLabel 全部地图
+MapFilter_Button_Tooltip 打开地图过滤器.
+MapFilter_Header_Label 选择地图
+MapFilter_Header_Tooltip 当前已选择地图
+MapFilter_ResetButton_Label 重置选择
+MapFilter_ResetButton_Tooltip 取消并切换至全部地图.
+Map_Filter_Label 地图过滤器
+Map_Filter_Toggle_Tooltip 显示/隐藏.
 
 Refresh_Label 搜索服务器
 Refresh_Tooltip 搜索相关服务器.
@@ -38,6 +46,7 @@ Refresh_Cancel_Label 取消
 Refresh_Cancel_Tooltip 取消持续搜索.
 
 List_Label 目标列表
+List_Toggle_Tooltip 目标列表过滤器可见性.
 List_Internet_Label 在线
 List_Internet_Tooltip 查找互联网上的服务器.
 List_LAN_Label 本地
@@ -49,17 +58,27 @@ List_Favorites_Tooltip 查找加入收藏的服务器.
 List_Friends_Label 好友
 List_Friends_Tooltip 查找好友正在游玩的服务器.
 
+MaxPing_Filter_Label 最大延迟过滤器
+MaxPing_Filter_Toggle_Tooltip 显示/隐藏.
+MaxPing_Filter_Tooltip 隐藏网络延迟(ms)较高的服务器.
+
 HostingButtonText 文档
 HostingButtonTooltip 阅读服务器主机文档.
 
-ViewPresetsButton_Label 筛选预设
+ViewPresetsButton_Open_Label 打开预设
+ViewPresetsButton_Close_Label 关闭预设
 ViewPresetsButton_Tooltip 切换筛选预设可见性.
-QuickFiltersButton_Label 快速筛选
+QuickFiltersButton_Open_Label 打开过滤器
+QuickFiltersButton_Close_Label 关闭过滤器
 QuickFiltersButton_Tooltip 筛选当前服务器列表.
-PresetsEditorButton_Label 编辑筛选:\n{0}
+PresetsEditorButton_Label 编辑预设:\n{0}
 PresetsEditorButton_Tooltip 编辑和创建/删除自定义筛选器.
+QuickFiltersVisibilityButton_Open_Label 显示可用过滤器
+QuickFiltersVisibilityButton_Close_Label 隐藏可用过滤器
+QuickFiltersVisibilityButton_Tooltip 显示/隐藏.
 
 Password_Filter_Label 密码保护筛选
+Password_Filter_Toggle_Tooltip 显示/隐藏.
 Any_Password_Button 密码: 全部
 Password_Filter_Any_Tooltip 忽略服务是否需要使用密码加入.
 Yes_Password_Button 密码: 有
@@ -68,6 +87,7 @@ No_Password_Button 密码: 无
 Password_Filter_No_Tooltip 仅显示不需要使用密码加入的服务器.
 
 Workshop_Filter_Label 创意工坊筛选
+Workshop_Filter_Toggle_Tooltip 显示/隐藏.
 Any_Workshop_Button 创意工坊:全部
 Workshop_Filter_Any_Tooltip 忽略服务是否使用来自创意工坊的模组.
 Yes_Workshop_Button 创意工坊: 有
@@ -76,6 +96,7 @@ No_Workshop_Button 创意工坊: 无
 Workshop_Filter_No_Tooltip 仅显示未使用创意工坊的服务器.
 
 Plugins_Filter_Label 插件筛选
+Plugins_Filter_Toggle_Tooltip 显示/隐藏.
 Any_Plugins_Button 插件: 全部
 Plugins_Filter_Any_Tooltip 忽略服务是否使用插件.
 Yes_Plugins_Button 插件: 有
@@ -84,6 +105,7 @@ No_Plugins_Button 插件: 无
 Plugins_Filter_No_Tooltip 仅显示未使用插件的服务器 (原版).
 
 Attendance_Filter_Label 在线玩家筛选
+Attendance_Filter_Toggle_Tooltip 显示/隐藏.
 Any_Attendance_Button 在线玩家: 全部
 Attendance_Filter_Any_Tooltip 忽略服务是否有玩家在线.
 Empty_Button 在线玩家: 无
@@ -92,12 +114,14 @@ HasPlayers_Button 在线玩家: 有
 Attendance_Filter_HasPlayers_Tooltip 仅显示有玩家在线的服务器.
 
 Space_Filter_Label 角色槽位筛选
+Space_Filter_Toggle_Tooltip 显示/隐藏.
 Any_Space_Button 角色槽位: 无
 Space_Filter_Any_Tooltip 忽略服务是否允许多角色槽位.
 Space_Button 角色槽位: 有
 Space_Filter_HasSpace_Tooltip 仅显示允许多角色槽位的服务器.
 
 VAC_Filter_Label VAC 保护筛选
+VAC_Filter_Toggle_Tooltip 显示/隐藏.
 VAC_Any_Button VAC: 全部
 VAC_Filter_Any_Tooltip 忽略服务是否使用 VAC.
 VAC_Secure_Button VAC: 安全
@@ -106,6 +130,7 @@ VAC_Insecure_Button VAC: 不安全
 VAC_Filter_Insecure_Tooltip 仅显示禁用 VAC 的服务器.
 
 BattlEye_Filter_Label 战眼保护筛选
+BattlEye_Filter_Toggle_Tooltip 显示/隐藏.
 BattlEye_Any_Button 战眼: 全部
 BattlEye_Filter_Any_Tooltip 忽略服务是否使用战眼反作弊.
 BattlEye_Secure_Button 战眼: 已启用
@@ -114,6 +139,7 @@ BattlEye_Insecure_Button 战眼: 已禁用
 BattlEye_Filter_Insecure_Tooltip 仅显示禁用战眼反作弊的服务器.
 
 Combat_Filter_Label PvP/PvE
+Combat_Filter_Toggle_Tooltip 显示/隐藏.
 Any_Combat_Button PvP/PvE
 Combat_Filter_Any_Tooltip 忽略服务是否 仅PvP / 仅PvE 模式.
 PvP_Button PvP
@@ -122,6 +148,7 @@ PvE_Button PvE
 Combat_Filter_PvE_Tooltip 仅显示 PvE 的服务器.
 
 Cheats_Filter_Label 作弊筛选
+Cheats_Filter_Toggle_Tooltip 显示/隐藏.
 Any_Cheats_Button 作弊: 全部
 Cheats_Filter_Any_Tooltip 忽略服务是否需要允许管理员作弊(生成物品和载具).
 Yes_Cheats_Button 作弊: 禁用
@@ -130,6 +157,7 @@ No_Cheats_Button 作弊: 允许
 Cheats_Filter_No_Tooltip 仅显示允许管理员作弊的服务器.
 
 Gold_Filter_Label 黄金会员筛选
+Gold_Filter_Toggle_Tooltip 显示/隐藏.
 Gold_Filter_Any_Label 黄金会员: 全部
 Gold_Filter_Any_Tooltip 忽略服务是否需要黄金会员.
 Gold_Filter_DoesNotRequireGold_Label 黄金会员: 非必须
@@ -138,6 +166,7 @@ Gold_Filter_RequiresGold_Label 黄金会员: 必须
 Gold_Filter_RequiresGold_Tooltip 仅显示需要黄金会员的服务器.
 
 Perspective_Filter_Label 相机视角筛选
+Perspective_Filter_Toggle_Tooltip 显示/隐藏.
 Any_Camera_Button 相机视角: 全部
 Perspective_Filter_Any_Tooltip 忽略服务是否允许切换相机视角.
 First_Button 相机视角: 第一人称
@@ -150,14 +179,13 @@ Vehicle_Button 相机视角: 第三人称(载具)
 Perspective_Filter_Vehicle_Tooltip 仅显示限制第三人称(载具)视角的服务器.
 
 Monetization_Filter_Label 商业化运营筛选
+Monetization_Filter_Toggle_Tooltip 显示/隐藏.
 Monetization_Any_Button 商业化运营: 全部
 Monetization_Filter_Any_Tooltip 忽略服务是否商业化运营.
 Monetization_None_Button 商业化运营: 否
 Monetization_Filter_None_Tooltip 仅显示非商业化运营的服务器. (完全免费!)
 Monetization_NonGameplay_Button 商业化运营: 是(非游戏性)
 Monetization_Filter_NonGameplay_Tooltip 仅显示出售不影响游戏玩法的内容和非商业化运营的服务器.
-
-Any_Map 地图: 全部
 
 No_Servers 没有在服务器列表上找到 {0} 版本的服务器
 No_Servers_Hint 也许筛选器条件过于特殊?
@@ -246,8 +274,8 @@ Plugins_Column_Tooltip 按插件框架排序.
 Plugins_Column_Toggle_Label 插件框架
 Plugins_Column_Toggle_Tooltip 切换插件列表可见性.
 Plugins_Column_None_Tooltip 服务器无插件.
-Plugins_Column_Rocket_Tooltip RocketMod 插件框架.
-Plugins_Column_OpenMod_Tooltip OpenMod 插件框架.
+Plugins_Column_Rocket_Tooltip RocketMod 框架.
+Plugins_Column_OpenMod_Tooltip OpenMod 框架.
 Plugins_Column_Unknown_Tooltip 未知的插件框架.
 
 Favorite_On_Button_Tooltip 收藏

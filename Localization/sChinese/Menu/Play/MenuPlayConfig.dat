@@ -111,6 +111,8 @@ Bleed_Regen_Ticks 生命值每周期回复
 
 Lose_Skills_PvP 死亡丢失技能 (PVP)
 Lose_Skills_PvE 死亡丢失技能 (PVE)
+Lose_Skills_PvP 死亡丢失技能等级 (PVP)
+Lose_Skills_PvE 死亡丢失技能等级 (PVE)
 Lose_Experience_PvP 死亡丢失经验 (PVP)
 Lose_Experience_PvE 死亡丢失经验 (PVE)
 Lose_Items_PvP 死亡丢失物品 (PVP)

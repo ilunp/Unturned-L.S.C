@@ -78,12 +78,14 @@ ItemDescription_TacticalAttachment 附件: {0}
 ItemDescription_GripAttachment 握把: {0}
 ItemDescription_BarrelAttachment 枪管: {0}
 ItemDescription_Clothing_Armor 保护: {0}
+ItemDescription_Clothing_Earpiece 收听无线电.
 ItemDescription_Clothing_ExplosionArmor 爆炸保护: {0}
 ItemDescription_Clothing_FireProof 火焰防护.
 ItemDescription_Clothing_RadiationProof 辐射防护.
 ItemDescription_Clothing_FallingBoneBreakingProof 摔落保护.
 ItemDescription_ClothingMovementSpeedModifier 移动速度 [穿戴]: {0}
 ItemDescription_FallingDamageModifier 摔落伤害: {0}
+ItemDescription_FilterDegradationRateMultiplier 过滤器衰减: {0}
 ItemDescription_EquipableMovementSpeedModifier 移动速度 [装备]: {0}
 ItemDescription_PelletCount 弹丸数量: {0}
 ItemDescription_BulletDamageModifier 子弹伤害: {0}

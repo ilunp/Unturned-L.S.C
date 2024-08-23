@@ -1,0 +1,23 @@
+Header 网络安全警告
+Warning 请注意互联网安全! 请勿向任何人透露个人信息 - 例如：密码, 地址, 手机, 年龄或姓名. 多人游戏服务器或主机由其他玩家托管, 因此您的体验可能会有很大差异.
+
+ProfanityFilter_Header 文本过滤: {0}
+ProfanityFilter_Description 使用您的 Steam 聊天过滤首选项对文本进行过滤.
+
+InboundVoiceChat_Header 入站语音聊天: {0}
+InboundVoiceChat_Description 启用后可以听到其他玩家通过语音聊天进行的对话.
+
+OutboundVoiceChat_Header 出站语音聊天: {0}
+OutboundVoiceChat_Description 启用后可以按下 [{0}] 使用麦克风与其他玩家对话.
+
+StreamerMode_Header 直播模式: {0}
+StreamerMode_Description 启用将匿名其他玩家并禁止通过个人资料加入游戏.
+
+ContinueButton_Label 继续
+ContinueButton_Tooltip 进入多人游戏.
+
+DontShowAgain_Label 不再显示
+DontShowAgain_Tooltip 如果勾选，下次打开多人游戏时将不再显示该菜单。
+
+Feature_On 开启
+Feature_Off 关闭

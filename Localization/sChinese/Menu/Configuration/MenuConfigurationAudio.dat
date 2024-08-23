@@ -1,9 +1,11 @@
 Volume_Slider_Label 主音量 [{0}]
 Game_Volume_Slider_Label 游戏音量 [{0}]
 Unfocused_Volume_Slider_Label 游戏处于后台音量 [{0}]
-Loading_Screen_Music_Volume_Slider_Label 载入背景音乐音量 [{0}]
+Music_Master_Volume_Slider_Label 主音量 [{0}]
+Loading_Screen_Music_Volume_Slider_Label 载入音乐音量 [{0}]
+Death_Music_Volume_Slider_Label 死亡音量 [{0}]
+Main_Menu_Music_Volume_Slider_Label 主菜单音量 [{0}]
+Ambient_Music_Volume_Slider_Label 环境/游戏音量 [{0}]
 Voice_Slider_Label 语音音量 [{0}]
-Music_Toggle_Label 主菜单/死亡音乐
-Music_Toggle_Tooltip 音乐能够影响 "环境音效"的.
-Ambience_Toggle_Label 白昼/黑夜环境音效
-Ambience_Toggle_Tooltip 背景中的风声, 蟋蟀声, 树叶声, 等等.
+Atmosphere_Volume_Slider_Label 氛围音量 [{0}]
+Music_Header 音乐

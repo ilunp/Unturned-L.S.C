@@ -61,6 +61,7 @@ HitmarkerStyle_Label 命中标记样式
 VehicleThirdPersonCameraMode_RotationDetached 旋转分离
 VehicleThirdPersonCameraMode_RotationAttached 旋转附加
 VehicleThirdPersonCameraMode_Label 第三人称驾驶视角
+AircraftThirdPersonCameraMode_Label 第三人称飞行视角
 
 Crosshair_Box 准星颜色
 Hitmarker_Box 命中颜色
