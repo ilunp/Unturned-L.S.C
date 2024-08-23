@@ -6,16 +6,16 @@ Timer_Toggle_Label 竞技场倒计时警告
 Physics_Toggle_Label 物品掉落物理效果
 Gore_Toggle_Label 血液喷溅效果
 
-Filter_Toggle_Label 敏感词过滤
-Filter_Toggle_Tooltip 提示: 无论是否启用敏感词过滤都将审查敏感言论.
+Filter_Toggle_Label 文本过滤
+Filter_Toggle_Tooltip 提示: 无论是否启用文本过滤都将审查敏感言论.
 
 Chat_Text_Toggle_Label 显示聊天文本
 Chat_Voice_In_Toggle_Label 启用语音聊天 (玩家)
 Chat_Voice_Out_Toggle_Label 启用语音聊天 (自己)
 VoiceAlwaysRecording_Label 保持麦克风打开
-VoiceAlwaysRecording_Tooltip 通过静音避免重复开始和停止录音造成的故障.
+VoiceAlwaysRecording_Tooltip 通过静音避免频繁开始和停止录音造成的故障.
 Hints_Toggle_Label 显示基础提示信息
-Streamer_Toggle_Label 主播(Streamer) 模式
+Streamer_Toggle_Label 直播(Streamer) 模式
 Featured_Workshop_Toggle_Label 显示创意工坊精选
 Show_Hotbar_Toggle_Label 显示物品栏
 Pause_When_Unfocused_Label 切换窗口暂停 (Alt+Tab)
@@ -72,3 +72,6 @@ Foreground_Box 界面前景颜色
 Font_Box 字体颜色
 Shadow_Box 字体阴影颜色
 Bad_Color_Box 无效蓝图字体颜色
+
+DontShowOnlineSafetyMenuAgain_Label 关闭"网络安全警告"菜单
+DontShowOnlineSafetyMenuAgain_Tooltip 进入多人游戏时将不会显示"网络安全警告"菜单. (如果您从未进入多人游戏.)

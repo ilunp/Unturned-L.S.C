@@ -13,6 +13,8 @@ OutboundVoiceChat_Description 启用后可以按下 [{0}] 使用麦克风与其�
 StreamerMode_Header 直播模式: {0}
 StreamerMode_Description 启用将匿名其他玩家并禁止通过个人资料加入游戏.
 
+OptionsNote 提示: 这些设置可以稍后从"基础选项"菜单中进行更改.
+
 ContinueButton_Label 继续
 ContinueButton_Tooltip 进入多人游戏.
 

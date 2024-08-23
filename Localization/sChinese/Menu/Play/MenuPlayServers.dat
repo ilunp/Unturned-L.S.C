@@ -250,6 +250,11 @@ MaxPlayers_Column_Tooltip 按最大玩家进行排序.
 MaxPlayers_Column_Toggle_Label 最大玩家
 MaxPlayers_Column_Toggle_Tooltip 切换最大玩家列表可见性.
 
+Fullness_Column_Label % 
+Fullness_Column_Tooltip 按玩家在线比例进行排序.
+Fullness_Column_Toggle_Label 玩家在线比例
+Fullness_Column_Toggle_Tooltip 切换玩家在线比例可见性.
+
 Gold_Column_Tooltip 按是否黄金会员排序
 Gold_Column_Toggle_Label 黄金会员
 Gold_Column_Toggle_Tooltip 切换黄金会员列表可见性.
