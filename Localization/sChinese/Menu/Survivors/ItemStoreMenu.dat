@@ -8,6 +8,12 @@ TotalPrice_Label 预计金额:
 StartPurchase_Label 前往购买
 StartPurchase_Tooltip 前往 Steam 界面付款.
 
+InspectListedItems_Text 检视物品
+InspectListedItems_Tooltip 预览描述中提及的物品外观.
+
+ListedItemsHeader_Box 每个 {0} 包含以下 {1} 件物品之一:
+ListedItemsHeader_Bundle 每个 {0} 包含以下 {1} 件全部物品:
+
 PurchaseResult_UnableToInitialize 无法初始化购买.
 PurchaseResult_Denied 购买失败.
 PurchaseResult_Authorized 购买成功!
@@ -22,3 +28,8 @@ FilterNewButton_Label 新品
 FilterNewButton_Tooltip 查看新推物品.
 FilterFeaturedButton_Label 精选
 FilterFeaturedButton_Tooltip 查看精选物品.
+
+FilterShowOwned_Label 包含拥有
+
+DefaultSaleTitle 活动促销
+SaleWindowFormat {0} - {1}
