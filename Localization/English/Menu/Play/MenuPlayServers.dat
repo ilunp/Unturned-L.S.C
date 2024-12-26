@@ -64,6 +64,8 @@ MaxPing_Filter_Tooltip If non-zero, servers with a higher network latency (ms) w
 
 HostingButtonText Hosting
 HostingButtonTooltip Read server hosting documentation.
+CurationButtonText Curation
+CurationButtonTooltip Manage quality and moderation lists.
 
 ViewPresetsButton_Open_Label Open Presets
 ViewPresetsButton_Close_Label Close Presets
@@ -189,6 +191,7 @@ Monetization_Filter_NonGameplay_Tooltip Only show servers that either sell conte
 
 No_Servers No version {0} servers found on the master server.
 No_Servers_Hint Perhaps your filters are too specific?
+No_Servers_CuratorsHint Curators blocked {0} servers. Perhaps one is blocking too many?
 Reset_Filters Reset Filters
 Reset_Filters_Tooltip Changes filtering settings to their default values.
 
@@ -285,3 +288,5 @@ Plugins_Column_Unknown_Tooltip This server uses an unknown plugin framework.
 
 Favorite_On_Button_Tooltip Favorite
 Favorite_Off_Button_Tooltip Unfavorite
+
+BlockedByCurator_Tooltip {0}: {1}
