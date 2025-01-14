@@ -1,0 +1,53 @@
+Title 服务器精选
+TitleInfo 列表由上到下依次处理,因此在此列表中靠前的精选列表具有更高优先级.
+Tutorial 在此启用从 Steam 创意工坊/URL 订阅的服务器精选列表!\n精选列表可以帮助您在服务器浏览器中找到高质量的已验证主机.
+URL_Placeholder https://example.com/curated-list.txt
+URL_Tooltip 链接到 URL 的服务器精选列表.
+AddURLButton_Label 添加
+AddURLButton_Tooltip 添加指定 URL 的服务器精选列表.
+DenyMode_Label 拒绝模式
+DenyMode_Hide_Label 隐藏
+DenyMode_Hide_Tooltip 将在服务器浏览器中'隐藏'与拒绝规则匹配的服务器.
+DenyMode_MoveToBottom_Label 置底
+DenyMode_MoveToBottom_Tooltip 将在服务器浏览器中'置底'与拒绝规则匹配的服务器.
+Activate_Label 激活
+Activate_Tooltip 启用此服务器精选列表.
+Deactivate_Label 停用
+Deactivate_Tooltip 禁用此服务器精选列表.
+Reload_Label 刷新
+Reload_Tooltip 刷新此服务器精选列表的内容.
+Remove_Tooltip 删除此服务器精选列表.
+MoveUp_Tooltip 上移排名以提高优先级.
+MoveDown_Tooltip 下移排名以降低优先级.
+WebItemPending 请求中...
+NoWebRequests 因启用 -NoWebRequests 选项请求失败.
+Rule_Action_Label Label
+Rule_Action_Allow 允许
+Rule_Action_Deny 拒绝
+Rule_Type_Name 名称
+Rule_Type_IPv4 IPv4
+Rule_Type_ServerID ServerID
+Rule_NotInverted_Format {0} - {1} - {2}
+Rule_Inverted_Format {0} - {1} Not {2}
+Rule_ApplyLabel 应用标签: {0}
+BlockCount 已拒绝: {0}
+Test_Visible_Label 测试工具
+Test_Visible_Tooltip 虚拟服务器测试工具.
+Test_Input_Name_Label 测试名称
+Test_Input_Name_Tooltip 服务器浏览器中的显示名称. 所有服务器必须有一个名称.
+Test_Input_Address_Label 测试地址
+Test_Input_Address_Tooltip 服务器 IPv4/端口.
+Test_Input_ServerID_Label 测试 Server ID
+Test_Input_ServerID_Tooltip 服务器 Steam ID, 也称为 "server code".
+Test_NameInvalid 测试名称为空.
+Test_AddressInvalid 测试地址无效.
+Test_ServerIdInvalid 测试 Server ID 无效.
+Test_NoMatch 无匹配结果.
+Test_Match_Count 已匹配 {0} 条规则
+Test_Match_Allowed 已允许
+Test_Match_Denied 已拒绝
+Test_Match_HasLabels 标签: {0}
+Test_Match_NoLabels 无标签
+Test_Match_Rule 测试规则 "{0}" 在 "{1}" 中
+Test_Match_Format {0} - {1} - {2}
+Test_Match_Final 匹配结果: {0}

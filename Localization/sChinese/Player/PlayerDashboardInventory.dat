@@ -196,6 +196,8 @@ ItemDescription_FuelCapacity 容量: {0}
 ItemDescription_WaterCapacity 容量: {0}
 ItemDescription_FuelBurnRate 燃烧时间: {0}/小时
 ItemDescription_FuelMaxRuntime 燃烧时间: {0} 小时
+ItemDescription_AmmoConsumptionProbability 弹药消耗几率: {0}
+ItemDescription_QualityConsumptionProbability 耐久消耗几率: {0}
 
 Equip_Button 装备
 Equip_Button_Tooltip 装备到手中.

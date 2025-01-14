@@ -3,37 +3,32 @@ Speciality_1_Tooltip 防守
 Speciality_2_Tooltip 辅助
 
 Speciality_0_Skill_0 力量
-Speciality_0_Skill_0_Tooltip 提高拳击/近战伤害.
-Speciality_0_Skill_0_Level_1 提高 +7% 拳击/近战伤害
-Speciality_0_Skill_0_Level_2 提高 +14% 拳击/近战伤害
-Speciality_0_Skill_0_Level_3 提高 +21% 拳击/近战伤害
-Speciality_0_Skill_0_Level_4 提高 +29% 拳击/近战伤害
-Speciality_0_Skill_0_Level_5 提高 +36% 拳击/近战伤害
-Speciality_0_Skill_0_Level_6 提高 +43% 拳击/近战伤害
-Speciality_0_Skill_0_Level_7 提高 +50% 拳击/近战伤害
+Speciality_0_Skill_0_Tooltip 提高拳击 / 近战伤害.
+Speciality_0_Skill_0_Level_1 提高 +7% 拳击 / 近战伤害
+Speciality_0_Skill_0_Level_2 提高 +14% 拳击 / 近战伤害
+Speciality_0_Skill_0_Level_3 提高 +21% 拳击 / 近战伤害
+Speciality_0_Skill_0_Level_4 提高 +29% 拳击 / 近战伤害
+Speciality_0_Skill_0_Level_5 提高 +36% 拳击 / 近战伤害
+Speciality_0_Skill_0_Level_6 提高 +43% 拳击 / 近战伤害
+Speciality_0_Skill_0_Level_7 提高 +50% 拳击 / 近战伤害
 Speciality_0_Skill_1 射击
-Speciality_0_Skill_1_Tooltip 提高射击稳定性/精准度.
-Speciality_0_Skill_1_Level_1 提高 +7% 射击稳定性/精准度
-Speciality_0_Skill_1_Level_2 提高 +14% 射击稳定性/精准度
-Speciality_0_Skill_1_Level_3 提高 +21% 射击稳定性/精准度
-Speciality_0_Skill_1_Level_4 提高 +29% 射击稳定性/精准度
-Speciality_0_Skill_1_Level_5 提高 +36% 射击稳定性/精准度
-Speciality_0_Skill_1_Level_6 提高 +43% 射击稳定性/精准度
-Speciality_0_Skill_1_Level_7 提高 +50% 射击稳定性/精准度
+Speciality_0_Skill_1_Tooltip 提高射击稳定性 / 准确度.
+Speciality_0_Skill_1_Level_1 提高 +7% 射击稳定性 / 准确度
+Speciality_0_Skill_1_Levels_V2 提高 +{0} 射击稳定性 / 准确度
 Speciality_0_Skill_2 敏捷
-Speciality_0_Skill_2_Tooltip 加快装填弹药/锤击速度.
-Speciality_0_Skill_2_Level_1 加快 +10% 装填弹药/锤击速度
-Speciality_0_Skill_2_Level_2 加快 +20% 装填弹药/锤击速度
-Speciality_0_Skill_2_Level_3 加快 +30% 装填弹药/锤击速度
-Speciality_0_Skill_2_Level_4 加快 +40% 装填弹药/锤击速度
-Speciality_0_Skill_2_Level_5 加快 +50% 装填弹药/锤击速度
+Speciality_0_Skill_2_Tooltip 加快装填弹药 / 锤击速度.
+Speciality_0_Skill_2_Level_1 加快 +10% 装填弹药 / 锤击速度
+Speciality_0_Skill_2_Level_2 加快 +20% 装填弹药 / 锤击速度
+Speciality_0_Skill_2_Level_3 加快 +30% 装填弹药 / 锤击速度
+Speciality_0_Skill_2_Level_4 加快 +40% 装填弹药 / 锤击速度
+Speciality_0_Skill_2_Level_5 加快 +50% 装填弹药 / 锤击速度
 Speciality_0_Skill_3 体能
-Speciality_0_Skill_3_Tooltip 加快体力/氧气恢复速度.
-Speciality_0_Skill_3_Level_1 加快 +10% 体力/氧气恢复速度
-Speciality_0_Skill_3_Level_2 加快 +20% 体力/氧气恢复速度
-Speciality_0_Skill_3_Level_3 加快 +30% 体力/氧气恢复速度
-Speciality_0_Skill_3_Level_4 加快 +40% 体力/氧气恢复速度
-Speciality_0_Skill_3_Level_5 加快 +50% 体力/氧气恢复速度
+Speciality_0_Skill_3_Tooltip 加快体力 / 氧气恢复速度.
+Speciality_0_Skill_3_Level_1 加快 +10% 体力 / 氧气恢复速度
+Speciality_0_Skill_3_Level_2 加快 +20% 体力 / 氧气恢复速度
+Speciality_0_Skill_3_Level_3 加快 +30% 体力 / 氧气恢复速度
+Speciality_0_Skill_3_Level_4 加快 +40% 体力 / 氧气恢复速度
+Speciality_0_Skill_3_Level_5 加快 +50% 体力 / 氧气恢复速度
 Speciality_0_Skill_4 速度
 Speciality_0_Skill_4_Tooltip 跑得更快降低体力消耗.
 Speciality_0_Skill_4_Level_1 加快 +5% 移动速度 | 降低 -50% 体力消耗
@@ -81,18 +76,18 @@ Speciality_1_Skill_2_Level_4 提高 +40% 免疫能力.
 Speciality_1_Skill_2_Level_5 提高 +50% 免疫能力.
 Speciality_1_Skill_3 韧性
 Speciality_1_Skill_3_Tooltip 降低重伤画面抖动和画面变灰的影响.
-Speciality_1_Skill_3_Level_1 降低 -15% 重伤画面抖动/画面变灰效果
-Speciality_1_Skill_3_Level_2 降低 -30% 重伤画面抖动/画面变灰效果
-Speciality_1_Skill_3_Level_3 降低 -45% 重伤画面抖动/画面变灰效果
-Speciality_1_Skill_3_Level_4 降低 -60% 重伤画面抖动/画面变灰效果
-Speciality_1_Skill_3_Level_5 降低 -75% 重伤画面抖动/画面变灰效果
+Speciality_1_Skill_3_Level_1 降低 -15% 重伤画面抖动 / 画面变灰效果
+Speciality_1_Skill_3_Level_2 降低 -30% 重伤画面抖动 / 画面变灰效果
+Speciality_1_Skill_3_Level_3 降低 -45% 重伤画面抖动 / 画面变灰效果
+Speciality_1_Skill_3_Level_4 降低 -60% 重伤画面抖动 / 画面变灰效果
+Speciality_1_Skill_3_Level_5 降低 -75% 重伤画面抖动 / 画面变灰效果
 Speciality_1_Skill_4 强壮
 Speciality_1_Skill_4_Tooltip 提高流血和骨折快速自愈速度并降低摔落伤害
-Speciality_1_Skill_4_Level_1 提高 +10% 流血/骨折自愈速度 | 降低 -15% 摔落伤害
-Speciality_1_Skill_4_Level_2 提高 +20% 流血/骨折自愈速度 | 降低 -30% 摔落伤害
-Speciality_1_Skill_4_Level_3 提高 +30% 流血/骨折自愈速度 | 降低 -45% 摔落伤害
-Speciality_1_Skill_4_Level_4 提高 +40% 流血/骨折自愈速度 | 降低 -60% 摔落伤害
-Speciality_1_Skill_4_Level_5 提高 +50% 流血/骨折自愈速度 | 降低 -75% 摔落伤害
+Speciality_1_Skill_4_Level_1 提高 +10% 流血 / 骨折自愈速度 | 降低 -15% 摔落伤害
+Speciality_1_Skill_4_Level_2 提高 +20% 流血 / 骨折自愈速度 | 降低 -30% 摔落伤害
+Speciality_1_Skill_4_Level_3 提高 +30% 流血 / 骨折自愈速度 | 降低 -45% 摔落伤害
+Speciality_1_Skill_4_Level_4 提高 +40% 流血 / 骨折自愈速度 | 降低 -60% 摔落伤害
+Speciality_1_Skill_4_Level_5 提高 +50% 流血 / 骨折自愈速度 | 降低 -75% 摔落伤害
 Speciality_1_Skill_5 御寒
 Speciality_1_Skill_5_Tooltip 提高抵御寒冷的能力并降低回复体温的卡路里消耗.
 Speciality_1_Skill_5_Level_1 提高 +20% 御寒能力
@@ -102,11 +97,11 @@ Speciality_1_Skill_5_Level_4 提高 +80% 御寒能力
 Speciality_1_Skill_5_Level_5 提高 +100% 御寒能力
 Speciality_1_Skill_6 生存
 Speciality_1_Skill_6_Tooltip 降低饥饿值和口渴值消耗.
-Speciality_1_Skill_6_Level_1 降低 -5% 饥饿值/口渴值消耗
-Speciality_1_Skill_6_Level_2 降低 -10% 饥饿值/口渴值消耗
-Speciality_1_Skill_6_Level_3 降低 -15% 饥饿值/口渴值消耗
-Speciality_1_Skill_6_Level_4 降低 -20% 饥饿值/口渴值消耗
-Speciality_1_Skill_6_Level_5 降低 -25% 饥饿值/口渴值消耗
+Speciality_1_Skill_6_Level_1 降低 -5% 饥饿值 / 口渴值消耗
+Speciality_1_Skill_6_Level_2 降低 -10% 饥饿值 / 口渴值消耗
+Speciality_1_Skill_6_Level_3 降低 -15% 饥饿值 / 口渴值消耗
+Speciality_1_Skill_6_Level_4 降低 -20% 饥饿值 / 口渴值消耗
+Speciality_1_Skill_6_Level_5 降低 -25% 饥饿值 / 口渴值消耗
 
 Speciality_2_Skill_0 治疗
 Speciality_2_Skill_0_Tooltip 提升医疗物品的治疗效果.
@@ -173,7 +168,7 @@ Boost_2_Tooltip 增加额外的血液喷溅效果.
 Boost_2_Bonus 增加 +700% 血液喷溅效果
 Boost_3 冲击
 Boost_3_Tooltip 增加额外的生物实体受到攻击和载具受到千斤顶冲击时的击飞速度.
-Boost_3_Bonus 增加 +700% 攻击生物实体/载具千斤顶冲击飞行速度
+Boost_3_Bonus 增加 +700% 攻击生物实体 / 载具千斤顶冲击飞行速度
 Boost_4 投掷
 Boost_4_Tooltip 增加投掷物品的距离.
 Boost_4_Bonus 加快 +100% 投掷物品速度

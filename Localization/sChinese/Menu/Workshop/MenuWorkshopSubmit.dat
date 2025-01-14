@@ -19,6 +19,7 @@ Object Object
 Item Item
 Vehicle Vehicle
 Skin Skin
+ServerCuration Server Curation
 
 Map_Type_Survival Survival
 Map_Type_Horde Horde
@@ -131,7 +132,7 @@ Alert_Curated 请仅提交物品涂装和皮肤到已采纳的创意工坊.
 PathFieldNotification_Empty 不能为空.
 PathFieldNotification_MissingFolder 指定的目录不存在.
 PathFieldNotification_Map 目录应仅包含地图的文件夹.
-PathFieldNotification_Localization 目录应包含 Editor, Menu, Player 等文件夹.
+PathFieldNotification_Localization 目录应包含 ./Editor, ./Menu, ./Player 等文件夹.
 PathFieldNotification_Bundle 目录应至少包含一个子文件夹.
 PathFieldNotification_NoWritePermission 访问权限被拒绝.
 
@@ -139,3 +140,4 @@ PreviewFieldNotification_Empty 不能为空.
 PreviewFieldNotification_MissingFile 指定的文件不存在.
 PreviewFieldNotification_Extension 图像必须是 .png 或 .jpg.
 PreviewFieldNotification_FileSize 图像文件大小过大.
+PreviewFieldNotification_FileSize_V2 图像文件大小超过限制. ({0} / {1})

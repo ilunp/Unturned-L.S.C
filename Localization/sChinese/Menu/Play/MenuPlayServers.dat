@@ -64,6 +64,8 @@ MaxPing_Filter_Tooltip 隐藏网络延迟(ms)较高的服务器.
 
 HostingButtonText 文档
 HostingButtonTooltip 阅读服务器主机文档.
+CurationButtonText 精选
+CurationButtonTooltip 管理质量和审查列表.
 
 ViewPresetsButton_Open_Label 打开预设
 ViewPresetsButton_Close_Label 关闭预设
@@ -187,8 +189,9 @@ Monetization_Filter_None_Tooltip 仅显示非商业化运营的服务器. (完�
 Monetization_NonGameplay_Button 商业化运营: 是(非游戏性)
 Monetization_Filter_NonGameplay_Tooltip 仅显示出售不影响游戏玩法的内容和非商业化运营的服务器.
 
-No_Servers 没有在服务器列表上找到 {0} 版本的服务器
+No_Servers 无法在服务器列表上找到 {0} 版本的服务器
 No_Servers_Hint 也许筛选器条件过于特殊?
+No_Servers_CuratorsHint 精选已拒绝 {0} 个服务器. 也许有一个精选拒绝了太多?
 Reset_Filters 重置筛选器
 Reset_Filters_Tooltip 恢复默认.
 
@@ -285,3 +288,5 @@ Plugins_Column_Unknown_Tooltip 未知的插件框架.
 
 Favorite_On_Button_Tooltip 收藏
 Favorite_Off_Button_Tooltip 取消收藏
+
+BlockedByCurator_Tooltip {0}: {1}
