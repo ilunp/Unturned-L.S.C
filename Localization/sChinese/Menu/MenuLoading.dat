@@ -23,6 +23,8 @@ Queue_Position 当前队列位置: #{0}
 Queue_Cancel 取消队列
 Queue_Cancel_Tooltip 离开队列
 
+PingMismatchWarning 警告：游戏内延迟 ({0} ms) 高于服务器浏览器显示的延迟 ({1} ms)，可能是由于 DDoS 保护机制导致的. 高延迟可能会导致游戏体验比预期更卡顿.
+
 Creators 创作者:
 Collaborators 协作者:
 Thanks 特别鸣谢:

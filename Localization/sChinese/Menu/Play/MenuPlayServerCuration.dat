@@ -1,10 +1,21 @@
 Title 服务器精选
 TitleInfo 列表由上到下依次处理,因此在此列表中靠前的精选列表具有更高优先级.
+
 Tutorial 在此启用从 Steam 创意工坊/URL 订阅的服务器精选列表!\n精选列表可以帮助您在服务器浏览器中找到高质量的已验证主机.
 URL_Placeholder https://example.com/curated-list.txt
+
 URL_Tooltip 链接到 URL 的服务器精选列表.
 AddURLButton_Label 添加
 AddURLButton_Tooltip 添加指定 URL 的服务器精选列表.
+
+DefaultBehavior_Label 默认行为
+DefaultBehavior_Show_Label 显示
+DefaultBehavior_Show_Tooltip 未匹配任何规则的服务器将在服务器浏览器中显示. (默认)
+DefaultBehavior_Hide_Label 隐藏
+DefaultBehavior_Hide_Tooltip 未匹配任何规则的服务器将在服务器浏览器中隐藏.
+DefaultBehavior_MoveToBottom_Label 置底
+DefaultBehavior_MoveToBottom_Tooltip 未匹配任何规则的服务器将被移动到服务器浏览器的底部.
+
 DenyMode_Label 拒绝模式
 DenyMode_Hide_Label 隐藏
 DenyMode_Hide_Tooltip 将在服务器浏览器中'隐藏'与拒绝规则匹配的服务器.

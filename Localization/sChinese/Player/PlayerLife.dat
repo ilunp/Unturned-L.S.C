@@ -26,8 +26,8 @@ Window 缺少窗户框架
 Bed_On 绑定 [{0}]
 Bed_Off 解绑 [{0}]
 Bed_Claimed 已绑定
-Bounds 超出边界
-Experience +{0} 获得经验
+Bounds 无法在此建造
+Experience 经验 +{0}
 Storage 储存 [{0}]
 Farm 收获 [{0}]
 Grow 正在生长
@@ -81,20 +81,20 @@ Tutorial_Power 发电机能为僵尸驱逐器和交通信号灯等电气设备�
 Tutorial_Fire 营火能在寒冷的环境维持体温和提供一个简单的热源并按下 [{0}] 来烹饪食物.
 Claim 该区域已被声明领地
 Underwater 过于潮湿
-Nav 距离城镇太远了
-Spawn 距离出生点太近了
+Nav 距离僵尸过远
+Spawn 距离出生点过近
 Mobile 非移动设备
 Oil 缺少燃油储量
 Volume_Water 水源储量: {0}
 Volume_Fuel 燃油储量:
-Busy 正在有人使用...
+Busy 已被占用...
 Trapdoor 缺少活板门框
 Fuel 油量: {0}%
 Clean 清澈
 Salty 含盐
 Dirty 浑浊
 Talk 交谈 {1} [{0}]
-Reputation {0} 获得声望
+Reputation 声望 +{0} 
 Safezone 距离安全区太近了
 Bayonet 劈刺 [{0}]
 Vehicle_Locked 已上锁 [{0}]

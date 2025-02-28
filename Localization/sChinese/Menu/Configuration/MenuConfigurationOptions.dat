@@ -14,6 +14,8 @@ Chat_Voice_In_Toggle_Label 启用语音聊天 (玩家)
 Chat_Voice_Out_Toggle_Label 启用语音聊天 (自己)
 VoiceAlwaysRecording_Label 保持麦克风打开
 VoiceAlwaysRecording_Tooltip 通过静音避免频繁开始和停止录音造成的故障.
+ShowOutboundVoiceChatOffHint_Label 显示语音输出关闭提示
+ShowOutboundVoiceChatOffHint_Tooltip 当语音输出关闭时，在 HUD 中显示静音图标.
 Hints_Toggle_Label 显示基础提示信息
 Streamer_Toggle_Label 直播(Streamer) 模式
 Featured_Workshop_Toggle_Label 显示创意工坊精选

@@ -164,6 +164,8 @@ Server_MaxPlayers_Advertisement_Mismatch 请求到的最大玩家数量与服务
 Server_CameraMode_Advertisement_Mismatch 请求到的摄像机模式与服务器设置的摄像机模式不一致.
 Server_PvP_Advertisement_Mismatch 请求到的 PVP/PVE 模式与服务器设置的 PVP/PVE 模式不一致.
 
+HWID_Modified 检测到硬件标识符 (HWID) 被修改.
+
 SteamNetworkingSockets_Unavailable_CannotTry Steam 网络验证无法初始化.
 SteamNetworkingSockets_Unavailable_Failed Steam 网络验证初始化失败.
 SteamNetworkingSockets_Unavailable_Previously Steam 网络验证暂时无法初始化.

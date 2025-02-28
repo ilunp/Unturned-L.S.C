@@ -180,6 +180,7 @@ ItemDescription_Farmable_AffectedByAgricultureSkill 技能等级影响产量.
 ItemDescription_Farmable_AffectedByRain 雨天能够加速生长.
 ItemDescription_Trap_BreaksBones 造成骨折.
 ItemDescription_Trap_DamagesTires 造成爆胎.
+ItemDescription_Trap_RequiresPower 需要提供电力.
 ItemDescription_Trap_PlayerDamage 伤害 [玩家]: {0}
 ItemDescription_Trap_ZombieDamage 伤害 [僵尸]: {0}
 ItemDescription_Trap_AnimalDamage 伤害 [动物]: {0}
@@ -219,6 +220,9 @@ Salvage_Button 拆分
 Salvage_Button_Tooltip 拆分成合成材料.
 Refill_Button 装填
 Refill_Button_Tooltip 装填弹匣子弹.
+
+ActionBlueprint_SkipCraftingTooltip 快速合成 [{0}]
+ActionBlueprint_CraftAllTooltip 全部合成 [{0}]
 
 Attachments_Button 拆卸
 Attachments_Button_Tooltip 拆卸枪械配件.
