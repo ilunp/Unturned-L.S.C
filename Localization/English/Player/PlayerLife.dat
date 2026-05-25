@@ -79,6 +79,7 @@ Tutorial_Sirens Show the bandits you mean business with your Sirens [{0}]!
 Tutorial_Farm Farming provides a sustainable source of food.
 Tutorial_Power Generators can power electrical objects such as anti-zombie radiators and traffic lights.
 Tutorial_Fire Fires keep you warm in freezing environments and give you an easy place to Cook [{0}] food.
+Tutorial_Workstation Crafting [{0}] some items, like Caltrops, requires a nearby Workstation, such as the Simple Workbench.
 Claim Area Claimed
 Underwater Too Wet
 Nav Too Far From Zombies
@@ -110,6 +111,8 @@ PlacementObstructedBy Blocked by: {0}
 PlacementObstructedByGround Cannot Build Underground
 FreeformBuildableNotAllowed Freeform Buildables Not Allowed
 NotPaintable Not Paintable
+Inside_No_Structures_Volume Cannot Build Structures Here
+Volume_Destroyed Inoperable
 
 VehicleGear_Reverse R
 VehicleGear_Neutral N
@@ -157,6 +160,7 @@ Wave Wave
 Salute Salute
 Rest Rest
 Facepalm Facepalm
+Gesture_TPose T-Pose
 
 Round Wave: {0}
 Score Score: {0}

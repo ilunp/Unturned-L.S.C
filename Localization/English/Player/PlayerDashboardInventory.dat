@@ -54,6 +54,7 @@ Type_45 Tool
 Type_46 Compass
 Type_47 Oil Pump
 Type_48 Paint
+Type_49 Vehicle Lockpick
 
 Hotkey_Set Hotkey: {0}
 Hotkey_Unset Hotkey: [3-9]
@@ -199,6 +200,12 @@ ItemDescription_FuelBurnRate Fuel Burned: {0}/hour
 ItemDescription_FuelMaxRuntime Max Runtime: {0} hour(s)
 ItemDescription_AmmoConsumptionProbability Ammo Decrease Chance: {0}
 ItemDescription_QualityConsumptionProbability Quality Decrease Chance: {0}
+ItemDescription_ProvidesCraftingTags Crafting Capabilities:
+ItemDescription_ListItem • {0}
+ItemDescription_LockpickFailureProbability Failure Chance: {0}
+ItemDescription_FishingRod_BiteIntervalMultiplier Fish Luring Speed: {0}
+ItemDescription_FishingRod_CaptureSpeedMultiplier Fish Capture Speed: {0}
+ItemDescription_FishingRod_EscapeSpeedMultiplier Fish Escape Speed: {0}
 
 Equip_Button Equip
 Equip_Button_Tooltip Equip in your hands.
@@ -220,6 +227,10 @@ Salvage_Button Salvage
 Salvage_Button_Tooltip Salvage into component materials.
 Refill_Button Refill
 Refill_Button_Tooltip Refill with bullets.
+Stack_Button Stack
+Stack_Button_Tooltip Consolidate items into a bundle.
+Unstack_Button Unstack
+Unstack_Button_Tooltip Separate bundle into individual items.
 
 ActionBlueprint_SkipCraftingTooltip Skip Crafting Menu [{0}]
 ActionBlueprint_CraftAllTooltip Craft All [{0}]

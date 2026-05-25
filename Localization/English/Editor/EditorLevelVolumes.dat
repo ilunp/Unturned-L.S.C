@@ -11,3 +11,4 @@ WantsWaterSurface Water Surface Visible
 RefreshCullingVolumes Refresh Objects
 RefreshCullingVolumes_Tooltip Update which objects are inside culling volumes.
 PreviewCulling Preview Culling
+WantsNoLightingPreview Preview No-Lighting Volumes

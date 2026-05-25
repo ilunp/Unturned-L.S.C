@@ -1,4 +1,7 @@
 SelectionBoxLabelText Selection
+SelectedAsset_Label Selected Asset
+OnlyUsedAssets_Label Only In-use Assets
+SearchHint Name Filter
 
 WidthFieldLabelText Width
 HeightFieldLabelText Height
@@ -13,7 +16,15 @@ OffsetFieldLabelText Offset
 IgnoreTerrainToggleLabelText Ignore Terrain
 LoopToggleLabelText Loop
 RoadIndexLabelText Road Index
+RoadAsset_Label Road Asset
+RoadAsset_Tooltip Optional asset to load materials and properties from.
 
 Mirror Mirror
 Aligned Aligned
 Free Free
+
+ListMode_Legacy_Label Legacy
+ListMode_Legacy_Tooltip Browse per-level Roads.unity3d bundle.
+ListMode_RoadAssets_Label Road Assets
+ListMode_RoadAssets_Tooltip Browse global/shared road assets.
+ListMode_Label List Mode
