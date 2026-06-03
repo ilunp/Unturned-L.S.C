@@ -2,10 +2,10 @@ Experience 经验: {0}
 Return 返回
 Return_Tooltip 退出购买
 
-Buying 购买:
-Selling 出售:
+Buying 回收:
+Selling 购入:
 
 Amount_Buy {0}/{1}
 Amount_Sell x{0}
-Price 价格: {0}
-Cost 费用: {0}
+Price 收入: {0}
+Cost 花费: {0}

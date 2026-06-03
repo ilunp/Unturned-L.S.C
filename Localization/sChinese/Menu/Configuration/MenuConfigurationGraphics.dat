@@ -28,11 +28,13 @@ Puddle_Tooltip 积水和涟漪效果.
 Glitter_Toggle_Label 闪光积雪
 Glitter_Tooltip 闪闪发光的雪面.
 Triplanar_Toggle_Label 三平面映射
-Triplanar_Tooltip 通过对每像素三个纹理进行采样，将巨石纹理与地形对齐
+Triplanar_Tooltip 通过对每像素三个纹理进行采样, 将巨石纹理与地形对齐
 Skybox_Reflection_Label 天空盒反射
 Skybox_Reflection_Tooltip 渲染动态天空盒环境照明和反射到立方体贴图.
 Item_Icon_Anti_Aliasing_Label 项目图标抗锯齿
 Item_Icon_Anti_Aliasing_Tooltip 防止在物品栏项目图标的锯齿状像素边缘.
+Clutter_Label 杂物细节
+Clutter_Tooltip 加载小型视觉装饰, 不会影响游戏玩法. 需重新加载关卡才能生效 (该功能需要地图制作者适配)
 
 Far_Clip_Slider_Label 远景绘制距离 [{0}%]
 Distance_Slider_Label 近景绘制距离 [{0}%]
@@ -57,13 +59,15 @@ Planar_Reflection_Button_Tooltip 水面反射细节
 Water_Button_Label 水体质量
 Water_Button_Tooltip 水体透明度, 气泡, 波浪 和 反射
 Scope_Button_Label 目镜质量
-Scope_Button_Tooltip 双重渲染目镜分辨率
+Scope_Button_Tooltip 启用双重渲染目镜分辨率, 保留开镜外围视野, 质量越好分辨率越高.
+DarkScopePeripheral_Label 目镜边缘暗化
+DarkScopePeripheral_Tooltip 将瞄具外围视野暗化为纯黑, 替代模糊效果
 Outline_Button_Label 轮廓质量
 Outline_Button_Tooltip 材质轮廓分辨率和模糊效果
 Terrain_Button_Label 地形质量
 Terrain_Button_Tooltip 动态景观几何分辨率
 Render_Mode_Button_Label 渲染模式
-Render_Mode_Button_Tooltip  <前向渲染> : (较旧) GPU 上运行可能是更好的选择, <延迟渲染> : 开启 <爆炸痕迹>/<屏幕空间反射> 选项
+Render_Mode_Button_Tooltip  <前向渲染> : (旧版) GPU 上运行可能是更好的选择, <延迟渲染> : 开启 <爆炸痕迹>/<屏幕空间反射> 选项
 Landmark_Button_Label 地标模型
 Landmark_Button_Tooltip 增加延长视距的极低细节模型
 

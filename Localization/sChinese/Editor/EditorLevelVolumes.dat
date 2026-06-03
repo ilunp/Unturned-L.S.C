@@ -9,5 +9,6 @@ Visibility_Solid 模型
 WantsUnderwaterEffects 水下效果
 WantsWaterSurface 水面效果
 RefreshCullingVolumes 刷新剔除对象
-RefreshCullingVolumes_Tooltip 更新剔除列表中的对象.
+RefreshCullingVolumes_Tooltip 更新剔除区域内的对象.
 PreviewCulling 预览剔除
+WantsNoLightingPreview 预览无光照区域

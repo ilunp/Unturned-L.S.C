@@ -1,19 +1,30 @@
-SelectionBoxLabelText 选择
+SelectionBoxLabelText 当前选择
+SelectedAsset_Label 当前选择
+OnlyUsedAssets_Label 仅使用中的资产
+SearchHint 名称筛选
 
 WidthFieldLabelText 宽度
 HeightFieldLabelText 高度
 DepthFieldLabelText 深度
-ConcreteToggleLabelText Concrete
+ConcreteToggleLabelText 混凝土
 
 BakeRoadsButtonText 生成道路
 BakeRoadsButtonTooltip 生成道路
 
 ModeButtonTooltipText 模式
-OffsetFieldLabelText 偏移道路
+OffsetFieldLabelText 高度偏移
 IgnoreTerrainToggleLabelText 忽略地形
 LoopToggleLabelText 环形道路
-RoadIndexLabelText 道路标识
+RoadIndexLabelText 道路编号
+RoadAsset_Label 道路资产
+RoadAsset_Tooltip 可选资产, 用于加载材质和属性
 
 Mirror 镜像
 Aligned 对齐
 Free 自由
+
+ListMode_Legacy_Label 旧版
+ListMode_Legacy_Tooltip 浏览每个关卡的道路资产（Roads.unity3d）
+ListMode_RoadAssets_Label 道路资产
+ListMode_RoadAssets_Tooltip 浏览全局/共享的道路资源.
+ListMode_Label 列表样式

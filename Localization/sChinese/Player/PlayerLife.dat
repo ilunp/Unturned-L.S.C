@@ -79,6 +79,7 @@ Tutorial_Sirens 通过按下 [{0}] 打开警笛来警告恶棍这可不是什么
 Tutorial_Farm 农业能持续为食物提供稳定的来源.
 Tutorial_Power 发电机能为僵尸驱逐器和交通信号灯等电气设备供电.
 Tutorial_Fire 营火能在寒冷的环境维持体温和提供一个简单的热源并按下 [{0}] 来烹饪食物.
+Tutorial_Workstation Crafting [{0}] some items, like Caltrops, requires a nearby Workstation, such as the Simple Workbench.
 Claim 该区域已被声明领地
 Underwater 过于潮湿
 Nav 距离僵尸过远
@@ -110,6 +111,8 @@ PlacementObstructedBy 放置受阻: {0}
 PlacementObstructedByGround 无法在地下建造
 FreeformBuildableNotAllowed 禁止无结构建造
 NotPaintable 无法喷涂
+Inside_No_Structures_Volume 禁止建造建筑
+Volume_Destroyed 无法使用
 
 VehicleGear_Reverse R
 VehicleGear_Neutral N
@@ -157,6 +160,7 @@ Wave 挥手
 Salute 敬礼
 Rest 休息
 Facepalm 捂脸
+Gesture_TPose T-Pose
 
 Round 回合: {0}
 Score 得分: {0}

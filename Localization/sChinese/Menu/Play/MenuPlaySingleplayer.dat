@@ -3,7 +3,7 @@ Play_Button_Tooltip 进入当前地图.
 Browse_Servers_Label 查找服务器
 Browse_Servers_Tooltip 查找当前地图的服务器.
 
-Any_Button Any Mode
+Any_Button 任意
 Easy_Button 简单
 Normal_Button 普通
 Hard_Button 困难
@@ -27,10 +27,10 @@ Maps_Workshop_Tooltip 来自创意工坊下载的地图
 Maps_Misc 其他地图
 Maps_Misc_Tooltip 来自活动和自己创作的地图
 
-Retired_View_Label View
+Retired_View_Label 浏览
 Retired_View_Tooltip 查看地图创意工坊.
-Retired_Manage_Sub Sub
-Retired_Manage_Unsub Unsub
+Retired_Manage_Sub 订阅
+Retired_Manage_Unsub 取消
 Retired_Manage_Tooltip 自动下载或删除地图.
 
 Manage_Workshop_Label 管理订阅列表
@@ -53,13 +53,14 @@ Horde 阵营模式 [内部测试]
 Arena 竞技模式
 
 Info_WithVersion {0} - {1} - v{2}
+Info_MissingDependencies 缺少依赖项
 
 Creators 创作者:
 Collaborators 协作者:
 Thanks 特别鸣谢:
-Credits_Text If you are enjoying the {0} map considering supporting its creators by checking out the {1}! Further details available on the stockpile page.
+Credits_Text 如果您喜欢这张 {0} 地图, 不妨查看 {1} 来支持其创作者！更多详情请参见库存页面.
 Credits_Tooltip 点击此处查看库存页面.
-Timed_Text This map has been officially featured from the Workshop until: <color=#00FF00>{0}</color> Afterwards it will remain available on the Steam Workshop.
+Timed_Text 该创意工坊精选地图展示截止时间：<color=#00FF00>{0}</color> , 截止后将继续在 Steam 创意工坊提供.
 
 Feedback_Button 意见&错误反馈
 Feedback_Button_Tooltip 点击此处查看评论.

@@ -15,6 +15,9 @@ Bookmark_On_Button 书签
 Bookmark_Off_Button 移除书签
 Bookmark_Button_Tooltip 书签菜单中快速加入.
 
+CopyServerCode_Label 复制服务器代码
+CopyServerCode_Tooltip 好友凭此代码快速加入服务器
+
 Players 在线人数: {0}/{1}
 Details 服务器详情
 Map 服务器地图: {0}

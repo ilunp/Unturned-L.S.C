@@ -9,6 +9,8 @@ Objects 对象
 Events 事件
 Gameplay 游戏机制
 
+Override_Tooltip Override
+
 Spawn_Chance 生成概率 [0-1]
 Respawn_Time 刷新时间
 Unlocked_After_Seconds_In_Safezone (秒) 安全区自动解锁周期
@@ -211,5 +213,12 @@ Allow_Trap_Placement_On_Vehicle 允许在载具上放置 陷阱
 Max_Item_Distance_From_Hull 物品与载具距离 (最大)
 Max_Trap_Distance_From_Hull 陷阱与载具距离 (最大)
 
+FirstPerson_RecoilMultiplier (倍) 第一人称反冲
+FirstPerson_AimingRecoilMultiplier (倍) 第一人称瞄准反冲
+FirstPerson_AimingZoomRecoilReduction 第一人称瞄准缩放反冲减免
+
 ThirdPerson_RecoilMultiplier (倍) 第三人称反冲
 ThirdPerson_SpreadMultiplier (倍) 第三人称散布
+
+Viewmodel_AimingJumpLandMultiplier (倍) 瞄准跳跃/落地晃动
+Viewmodel_AimingMisalignmentMultiplier (倍) 瞄准偏移

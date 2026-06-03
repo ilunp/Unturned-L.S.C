@@ -3,3 +3,6 @@ Roofs 屋顶
 Walls 墙壁
 Pillars 支柱
 NoItems 无物品
+
+AvailableAmount 可使用: {0}
+CraftableAmount 可制作: {0}

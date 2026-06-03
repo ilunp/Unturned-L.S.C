@@ -9,15 +9,89 @@ Type_7_Tooltip 公共
 Type_8_Tooltip 家具
 Type_9_Tooltip 修复
 
-Skill_1 需要 {0} 级制作技能
-Skill_2 需要 {0} 级烹饪技能 + 靠近热源(篝火)
-Skill_3 需要 {0} 级工程师技能
+Requirements_Label 需要 {0}
+Requirements_Separator ", "
+Requirements_Skill {0} {1}
 
-Search_Field_Hint 蓝图名称筛选器
+BlueprintAmountLabel {0} / {1}
+BlueprintAmountLabel_Missing {0} / {1} {2}
+MissingAmount (缺少 {0} 个)
+
+BlueprintCategoryLabel 分类: {0}
+
+BlueprintTitle_ItemSeparator " + "
+BlueprintTitle_ToolItem (Tool)
+BlueprintTitle_OutputSeparator " = "
+BlueprintTitle_OperationRepair 使用 {2} 修复 {0} {1}
+BlueprintTitle_OperationFill 使用 {2} 为 {0} 补充 +{1}
+
+Details_RepairTitle 修复 {0}
+Details_RepairDescription 修复 +{0} ({1} → {2})
+Details_FillTitle 补充 {0}
+Details_FillDescription 数量 +{0} (x{1} → x{2})
+Details_SalvageTitle {0}
+Details_CraftTitle {0}
+Details_TargetItem 目标物品
+Details_InputItems 原料
+Details_ToolItems 工具
+Details_OutputItems 产物
+Details_RequiredSkills 所需技能
+Details_RequiredTags 所需条件
+Details_Conditions 附加条件
+Details_Rewards 产出
+Details_TagMissing (缺少)
+
+Search_Field_Hint 名称筛选
 Search 搜索
 Search_Tooltip 搜索
-Hide_Uncraftable_Toggle_Label 隐藏不可用蓝图
-No_Blueprints 无可用蓝图.
+Hide_Uncraftable_Toggle_Label 隐藏不可制作蓝图
+Hide_Uncraftable_Toggle_Tooltip 隐藏当前无法制作的蓝图.
+Show_Ignored_Toggle_Label 显示已忽略项
+Show_Ignored_Toggle_Tooltip 展示已被标记忽略的蓝图.
+No_Blueprints 无
+NoBlueprints_ZeroAvailableItems 暂无可用制作材料.
+NoBlueprints_HasAvailableItems 现有材料无法制作任何蓝图.
+Favorites_Label 收藏
+Favorites_Tooltip 查看已收藏蓝图.
+
+Header_Categories 分类
+Header_TagProviders 设施
+Header_AvailableTags 条件
+
+FilteringDescription_Format 筛选蓝图 {0}:
+FilteringDescription_Separator " 和 "
+FilteringDescription_Favorites_Format you {0}
+FilteringDescription_Favorites_Label 收藏
+FilteringDescription_Name 名称包含 "{0}"
+FilteringDescription_TagProvider 使用 {0}
+FilteringDescription_Tag 需要 {0}
+FilteringDescription_Category 属于 {0} 分类
+FilteringDescription_Category_Multiple 属于 {0} 多个分类
+FilteringDescription_Category_Separator ", "
+
+TagProvider_Tooltip {0} 可用条件:
+
+ResetFilters_Label 重置筛选
+ResetFilters_Tooltip 显示当前材料可制作的蓝图. (默认)
+
+// Nelson 2025-05-16: renaming Visibility to Preferences.
+VisibilityButton_Visible_Label 默认
+VisibilityButton_Visible_Tooltip 正常显示并可制作, 点击可标记忽略 / 收藏.
+VisibilityButton_Hidden_Label 忽略
+VisibilityButton_Hidden_Tooltip 隐藏并禁止制作, 点击取消忽略.
+PreferencesButton_Favorited_Label 收藏
+PreferencesButton_Favorited_Tooltip 加入收藏, 点击取消收藏.
+
+CombineFiltersTooltip 组合筛选 [{0}]
+InvertSkipCraftingTooltip 切换详情面板 [{0}]
 
 Craft 合成
 Craft_All 全部合成
+
+NotCraftable_Header 当前无法制作，因为:
+NotCraftable_LineItemPrefix "• "
+NotCraftable_MissingInputItem 缺少 {0}
+NotCraftable_MissingSkill 所需技能
+NotCraftable_MissingCraftingTag 所需条件 {0}
+NotCraftable_UnmetConditions 条件未满足
+NotCraftable_Ignored 已将此蓝图标记为忽略

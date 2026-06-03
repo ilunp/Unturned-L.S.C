@@ -54,6 +54,7 @@ Type_45 工具
 Type_46 指南针
 Type_47 油泵
 Type_48 喷涂
+Type_49 Vehicle Lockpick
 
 Hotkey_Set 热键: {0}
 Hotkey_Unset 热键: [3-9]
@@ -101,7 +102,7 @@ ItemDescription_ZoomFactor 倍率: {0}x
 ItemDescription_ThirdPersonZoomFactor 倍率 (第三人称): {0}x
 ItemDescription_BulletGravityModifier 射击下坠: {0}
 ItemDescription_InvulnerableModifier 升级至重型武器: 可以伤害坚韧的实体.
-ItemDescription_Consumeable_Explosive 爆炸就是艺术！
+ItemDescription_Consumeable_Explosive 爆炸就是艺术!
 ItemDescription_Consumeable_HealthPositive 增加生命值: {0}
 ItemDescription_Consumeable_HealthNegative 降低生命值: {0}
 ItemDescription_Consumeable_FoodPositive 增加饥饿值: {0}
@@ -199,6 +200,12 @@ ItemDescription_FuelBurnRate 燃烧时间: {0}/小时
 ItemDescription_FuelMaxRuntime 燃烧时间: {0} 小时
 ItemDescription_AmmoConsumptionProbability 弹药消耗几率: {0}
 ItemDescription_QualityConsumptionProbability 耐久消耗几率: {0}
+ItemDescription_ProvidesCraftingTags 制作能力:
+ItemDescription_ListItem • {0}
+ItemDescription_LockpickFailureProbability 失败几率: {0}
+ItemDescription_FishingRod_BiteIntervalMultiplier 鱼类诱引速度: {0}
+ItemDescription_FishingRod_CaptureSpeedMultiplier 鱼类捕获速度: {0}
+ItemDescription_FishingRod_EscapeSpeedMultiplier 鱼类逃脱速度: {0}
 
 Equip_Button 装备
 Equip_Button_Tooltip 装备到手中.
@@ -220,6 +227,10 @@ Salvage_Button 拆分
 Salvage_Button_Tooltip 拆分成合成材料.
 Refill_Button 装填
 Refill_Button_Tooltip 装填弹匣子弹.
+Stack_Button 堆叠
+Stack_Button_Tooltip 将物品合并成一捆.
+Unstack_Button 拆散
+Unstack_Button_Tooltip 将一捆拆分成单个物品.
 
 ActionBlueprint_SkipCraftingTooltip 快速合成 [{0}]
 ActionBlueprint_CraftAllTooltip 全部合成 [{0}]

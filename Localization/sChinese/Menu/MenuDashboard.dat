@@ -46,6 +46,8 @@ SkinColorWithinThresholdOfTerrainColor 角色肤色与地图地形颜色过于�
 
 Steam_ID_Mismatch 客户端与服务器的 Steam 账户验证存在分歧.
 Connect_Rate_Limiting 请勿频繁发送加入请求! 请稍后重试.
+Bad_Packet_Rate_Limiting 网络连接异常! 请稍后重试.
+Too_Many_Clients_With_Same_IP_Address 当前 IP 地址连接人数超出限制! 请稍后重试.
 
 Version 服务器与客户端游戏版本不一致. 服务器: v{0} /客户端: v{1}
 Pro_Server 服务器仅允许黄金账户加入.
@@ -199,7 +201,7 @@ UGC_IOError 提交失败. 未知的I/O 问题.
 UGC_Success 提交成功!
 
 Pro_Title 升级黄金帐户 (DLC)
-Pro_Button 黄金帐户拥有更多自定义选项和角色槽位,可进入高级服务器! 更多详细信息请查看商店页面.
+Pro_Button 黄金帐户拥有更多自定义选项和角色槽位, 可进入高级服务器! 更多详细信息请查看商店页面.
 Pro_Button_Tooltip 点击此处查看商店页面.
 
 BattlEye_Header 警告: 战眼(BattlEye)已禁用
@@ -213,3 +215,5 @@ Dismiss_Notification_Label 关闭
 Dismiss_Notification_Tooltip 关闭通知.
 Copy_Notification_Label 复制
 Copy_Notification_Tooltip 复制至剪切板.
+MarkContentCorrupt_Label 强制更新并修复文件
+MarkContentCorrupt_Tooltip 重启游戏, 并通过 Steam 验证游戏文件完整性.

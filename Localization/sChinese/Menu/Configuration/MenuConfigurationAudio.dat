@@ -8,4 +8,5 @@ Main_Menu_Music_Volume_Slider_Label 主菜单音量 [{0}]
 Ambient_Music_Volume_Slider_Label 环境/游戏音量 [{0}]
 Voice_Slider_Label 语音音量 [{0}]
 Atmosphere_Volume_Slider_Label 氛围音量 [{0}]
+Zombie_Footsteps_Volume_Slider_Label 怪物脚步音量 [{0}]
 Music_Header 音乐
