@@ -15,7 +15,7 @@ Bookmark_On_Button 书签
 Bookmark_Off_Button 移除书签
 Bookmark_Button_Tooltip 书签菜单中快速加入.
 
-CopyServerCode_Label 复制服务器代码
+CopyServerCode_Label 复制联机代码
 CopyServerCode_Tooltip 好友凭此代码快速加入服务器
 
 Players 在线人数: {0}/{1}
@@ -68,19 +68,28 @@ Easy 简单
 Normal 普通
 Hard 困难
 
-Server 服务器配置:
+Server 服务器:
 UGC 创意工坊:
-Config 游戏性配置:
+Config 游戏性:
 Rule {0}: {1}
 Plugins_Rocket 插件 (Rocket) :
 Plugins_OpenMod 插件 (OpenMod) :
 Plugins_Unknown 插件 :
 
-ServerNewerVersion_Label 服务器当前游戏版本较新: {0}
+ServerNewerVersion_Label 当前服务器游戏版本较新: {0}
 ServerNewerVersion_Tooltip 无法加入游戏版本较新的服务器. (请重启客户端更新)
-ServerOlderVersion_Label 服务器当前游戏版本较旧: {0}
+ServerOlderVersion_Label 当前服务器游戏版本较旧: {0}
 ServerOlderVersion_Tooltip 无法加入游戏版本较旧的服务器. (请等待服务器更新).
 ServerBlacklisted_Label 服务器被开发者封禁.
 ServerBlacklisted_Tooltip 无法加入被开发者封禁的服务器.
 NotLoggedInBlock_Label 服务器未登录.
 NotLoggedInBlock_Tooltip 无法加入未设置游戏服务器登录令牌 (GSLT) 的服务器.
+
+ServerNotModded_Label 原版服务器.
+ServerNotModded_Tooltip 无法使用自定义客户端加入原版服务器.
+ServerIsModded_Label 模组服务器 "{0}".
+ServerIsModded_Tooltip 无法加入使用了自定义内容的服务器.
+SeverDifferentMod_Label 模组不符: "{0}"
+ServerDifferentMod_Tooltip 无法加入自定义内容不一致的服务器.
+ServerDifferentModVersion_Label 模组版本不符: {0}
+ServerDifferentModVersion_Tooltip 无法加入自定义内容版本不一致的服务器.

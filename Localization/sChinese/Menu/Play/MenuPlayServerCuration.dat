@@ -5,8 +5,8 @@ Tutorial 在此启用从 Steam 创意工坊/URL 订阅的服务器精选列表!\
 URL_Placeholder https://example.com/curated-list.txt
 
 URL_Tooltip 链接到 URL 的服务器精选列表.
-AddURLButton_Label 添加
-AddURLButton_Tooltip 添加指定 URL 的服务器精选列表.
+AddURLButton_Label 订阅
+AddURLButton_Tooltip 订阅指定 URL 的服务器精选列表.
 
 DefaultBehavior_Label 默认行为
 DefaultBehavior_Show_Label 显示

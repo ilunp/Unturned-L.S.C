@@ -49,7 +49,7 @@ Connect_Rate_Limiting 请勿频繁发送加入请求! 请稍后重试.
 Bad_Packet_Rate_Limiting 网络连接异常! 请稍后重试.
 Too_Many_Clients_With_Same_IP_Address 当前 IP 地址连接人数超出限制! 请稍后重试.
 
-Version 服务器与客户端游戏版本不一致. 服务器: v{0} /客户端: v{1}
+Version 服务器与客户端游戏版本不一致. 服务器: v{0} / 客户端: v{1}
 Pro_Server 服务器仅允许黄金账户加入.
 Pro_Character 请选择一个有效的角色.
 
@@ -116,7 +116,7 @@ Shutdown 服务器已关闭.
 Shutdown_Reason 因 {0} , 服务器已关闭.
 PingV2 因延迟超过服务器限制被拒绝. ({0}/{1}ms)
 Plugin 已被该服务器插件禁止加入.
-Plugin_Reason Plugin: {0}
+Plugin_Reason 插件: {0}
 Barricade 客户端缺少服务器使用的自定义 路障(barricade) 资源 ({0}) 文件.
 Structure 客户端缺少服务器使用的自定义 结构(structure) 资源 ({0}) 文件.
 Vehicle 客户端缺少服务器使用的自定义 载具(vehicle) 资源 ({0}) 文件.
@@ -130,7 +130,7 @@ BattlEye_Update 战眼(BattlEye): 需要更新服务 (请从启动器重新启�
 # https://support.smartlydressedgames.com/hc/en-us/articles/12113364891796
 BattlEye_Unknown 战眼(BattlEye): 未知请求 (请从启动器重新启动).
 
-Level_Version 服务器与客户端地图 {1} 版本不一致. 服务器: v{0} /客户端: v{2}
+Level_Version 服务器与客户端地图 {1} 版本不一致. 服务器: v{0} / 客户端: v{2}
 
 # https://support.smartlydressedgames.com/hc/en-us/articles/12235019853844
 Econ_Hash 服务器与客户端经济体库存版本不一致.
@@ -195,9 +195,13 @@ SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam 连接遇到问题
 SteamNetworkingSockets_EndReason_Misc_Unknown 未知杂项连接错误: {0}
 SteamNetworkingSockets_EndReason_Unknown 连接因未知原因被终止: {0}
 
+Mod_Name_Mismatch 服务器与客户端模组不一致. 服务器: {0} / 客户端: {1}
+Mod_Name_Server 无法使用原版客户端加入含有 "{0}" 内容的服务器.
+Mod_Version_Mismatch 服务器与客户端模组 ({1}) 版本不一致. 服务器: v{0} / 客户端: v{2}
+
 UGC_NeedsToAcceptWorkshopLegalAgreement 提交失败. 请同意最新的《Steam 创意工坊协议》.
 UGC_UnknownResult 提交失败.  Steam 错误代码: {0}
-UGC_IOError 提交失败. 未知的I/O 问题.
+UGC_IOError 提交失败. 未知的 I/O 问题.
 UGC_Success 提交成功!
 
 Pro_Title 升级黄金帐户 (DLC)
