@@ -121,15 +121,15 @@ ItemDescription_ConsumeableBleeding_Cut 造成失血.
 ItemDescription_ConsumeableBones_Heal 愈合骨折.
 ItemDescription_ConsumeableBones_Break 造成骨折.
 ItemDescription_ConsumeableMoldy 低状态值表明食物变质/霉变.
-ItemDescription_Firerate 射击速度: {0} RPM
-ItemDescription_Spread 散布角度 (腰射): {0} °
-ItemDescription_Spread_Aim 散布角度 (瞄准): {0} °
+ItemDescription_Firerate 射速: {0} RPM
+ItemDescription_Spread 散布 (腰射): {0} °
+ItemDescription_Spread_Aim 散布 (瞄准): {0} °
 ItemDescription_DamageFalloff 伤害将在 {1} 处从 {0} 衰减至 {2}.
-ItemDescription_WeaponRange 射击距离: {0}
-ItemDescription_WeaponDamage_Player_Head 头部伤害 [玩家]: {0}
-ItemDescription_WeaponDamage_Player_Body 身体伤害 [玩家]: {0}
-ItemDescription_WeaponDamage_Player_Arm 胳膊伤害 [玩家]: {0}
-ItemDescription_WeaponDamage_Player_Leg 腿部伤害 [玩家]: {0}
+ItemDescription_WeaponRange 射程: {0}
+ItemDescription_WeaponDamage_Player_Head 头部 [玩家]: {0} HP
+ItemDescription_WeaponDamage_Player_Body 身体 [玩家]: {0} HP
+ItemDescription_WeaponDamage_Player_Arm 胳膊 [玩家]: {0} HP
+ItemDescription_WeaponDamage_Player_Leg 腿部 [玩家]: {0} HP
 ItemDescription_WeaponDamage_Player_FoodPositive 增加饥饿值: {0}
 ItemDescription_WeaponDamage_Player_FoodNegative 降低饥饿值: {0}
 ItemDescription_WeaponDamage_Player_WaterPositive 增加口渴值: {0}
@@ -142,18 +142,18 @@ ItemDescription_WeaponBleeding_Always 造成失血.
 ItemDescription_WeaponBleeding_Heal 帮助止血.
 ItemDescription_WeaponBones_Always 造成骨折.
 ItemDescription_WeaponBones_Heal 愈合骨折.
-ItemDescription_WeaponDamage_Zombie_Head 头部伤害 [僵尸]: {0}
-ItemDescription_WeaponDamage_Zombie_Body 身体伤害 [僵尸]: {0}
-ItemDescription_WeaponDamage_Zombie_Arm 胳膊伤害 [僵尸]: {0}
-ItemDescription_WeaponDamage_Zombie_Leg 腿部伤害 [僵尸]: {0}
-ItemDescription_WeaponDamage_Animal_Head 头部伤害 [动物]: {0}
-ItemDescription_WeaponDamage_Animal_Body 身体伤害 [动物]: {0}
-ItemDescription_WeaponDamage_Animal_Limb 肢体伤害 [动物]: {0}
-ItemDescription_WeaponDamage_Barricade 伤害 [路障]: {0}
-ItemDescription_WeaponDamage_Structure 伤害 [结构]: {0}
-ItemDescription_WeaponDamage_Vehicle 伤害 [载具]: {0}
-ItemDescription_WeaponDamage_Resource 伤害 [资源]: {0}
-ItemDescription_WeaponDamage_Object 伤害 [实体]: {0}
+ItemDescription_WeaponDamage_Zombie_Head 头部 [僵尸]: {0} HP
+ItemDescription_WeaponDamage_Zombie_Body 身体 [僵尸]: {0} HP
+ItemDescription_WeaponDamage_Zombie_Arm 胳膊 [僵尸]: {0} HP
+ItemDescription_WeaponDamage_Zombie_Leg 腿部 [僵尸]: {0} HP
+ItemDescription_WeaponDamage_Animal_Head 头部 [动物]: {0} HP
+ItemDescription_WeaponDamage_Animal_Body 身体 [动物]: {0} HP
+ItemDescription_WeaponDamage_Animal_Limb 肢体 [动物]: {0} HP
+ItemDescription_WeaponDamage_Barricade 伤害 [路障]: {0} HP
+ItemDescription_WeaponDamage_Structure 伤害 [结构]: {0} HP
+ItemDescription_WeaponDamage_Vehicle 伤害 [载具]: {0} HP
+ItemDescription_WeaponDamage_Resource 伤害 [资源]: {0} HP
+ItemDescription_WeaponDamage_Object 伤害 [实体]: {0} HP
 ItemDescription_WeaponDamage_Invulnerable 重型武器: 可以对坚固实体造成伤害.
 ItemDescription_ExplosiveBullet 撞击爆炸.
 ItemDescription_ExplosionBlastRadius 爆炸半径: {0}
@@ -182,9 +182,9 @@ ItemDescription_Farmable_AffectedByRain 雨天能够加速生长.
 ItemDescription_Trap_BreaksBones 造成骨折.
 ItemDescription_Trap_DamagesTires 造成爆胎.
 ItemDescription_Trap_RequiresPower 需要提供电力.
-ItemDescription_Trap_PlayerDamage 伤害 [玩家]: {0}
-ItemDescription_Trap_ZombieDamage 伤害 [僵尸]: {0}
-ItemDescription_Trap_AnimalDamage 伤害 [动物]: {0}
+ItemDescription_Trap_PlayerDamage 伤害 [玩家]: {0} HP
+ItemDescription_Trap_ZombieDamage 伤害 [僵尸]: {0} HP
+ItemDescription_Trap_AnimalDamage 伤害 [动物]: {0} HP
 ItemDescription_StorageDimensions 储存空间: {0} x {1}
 ItemDescription_Throwable_Flash 造成目标短暂失明.
 ItemDescription_Throwable_Sticky 投掷粘在实体表面.
